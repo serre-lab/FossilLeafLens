@@ -25,27 +25,15 @@
 
 ## Overview
 
-Fossil Leaf Lens is an innovative AI-powered web application that addresses one of paleobotany's most challenging puzzles: identifying fossil angiosperm leaves. These organs are often abundant yet notoriously difficult to classify, especially in the absence of organic attachments or cuticles, due to their complexity, variation, and the often limited quality and quantity of available images.
+Fossil Leaf Lens is a web application that addresses one of paleobotany's most challenging puzzles: identifying fossil angiosperm leaves. These organs are often abundant yet notoriously difficult to classify, especially in the absence of organic attachments or cuticles, due to their complexity, variation, and the often limited quality and quantity of available images.
 
 Through the power of AI and computer vision, we have developed a deep learning model that synthesizes photorealistic fossil images from extant cleared and x-rayed leaves, increasing the sample size of "fossil" image collections for training. This approach allows machine identifications of fossil and extant leaves at the family level—the starting point for most investigations—with levels of accuracy sufficient to provide useful suggestions for experts.
 
-### Key Features
-
-- **Automated Fossil Identification**: Deep learning model predicts family-level classifications for fossil leaves
-- **Interactive Feedback System**: Expert paleobotanists can review and validate predictions
-- **Similar Specimen Matching**: Displays visually similar specimens from the training dataset
-- **Concept Visualization**: Shows interpretable visual patterns the model uses for classification
-- **Comprehensive Dataset**: Focused on Florissant Fossil Beds (late Eocene, Colorado) specimens
-
-### Demo
+## Website Features
 
 ![Fossil Leaf Lens Navigation Guide](docs/images/fossil.gif)
 
 *Interactive navigation guide showing how to use the Fossil Leaf Lens website*
-
----
-
-## Website Features
 
 ### 1. Predicted Fossil Identification
 
