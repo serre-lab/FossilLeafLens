@@ -590,8 +590,8 @@ html_template = """
 
 # Generate Markdown pages with inline HTML
 all_images = [image_names, unidentified_image_names]
-Unknown_PAGES_DIR = os.path.join(DOCS_DIR, "pages/unknown")
-Unidentified_PAGES_DIR = os.path.join(DOCS_DIR, "pages/unidentified")
+Unknown_PAGES_DIR = os.path.join(DOCS_DIR, "pages/")
+Unidentified_PAGES_DIR = os.path.join(DOCS_DIR, "pages/")
 os.makedirs(Unknown_PAGES_DIR, exist_ok = True)
 os.makedirs(Unidentified_PAGES_DIR, exist_ok = True)
 
@@ -913,10 +913,10 @@ with open(MKDOCS_YML, "w") as f:
     f.write("  - '<b>Feedback Table</b> 📋': unidentified_table.md\n")
     f.write("  - <b>Predicted fossil identifications</b>:\n")
     for i, (key, value) in enumerate(image_predictions.items(), start = 1):
-        f.write(f"    - {i}. {key}: pages/unknown/page_{key}.md\n")
+        f.write(f"    - {i}. {key}: pages/page_{key}.md\n")
     total_unknown_images = len(image_predictions)
     for i, (key, value) in enumerate(unidentified_image_predictions.items(), start = 1):
-        f.write(f"    - {i + total_unknown_images}. {key}: pages/unidentified/page_{key}.md\n")
+        f.write(f"    - {i + total_unknown_images}. {key}: pages/page_{key}.md\n")
 
 # # Create index page
 # index_path = os.path.join(DOCS_DIR, "index.md")
