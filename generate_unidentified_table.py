@@ -378,7 +378,7 @@ for index, (key, value) in enumerate(unknown_image_predictions.items(), start=1)
     row = f"""
         <tr>
             <td class="serial-number">{index}</td>
-            <td class="fossil-name"><a href="https://serre-lab.github.io/prj_fossil_unknown/pages/unknown/page_{key}/" target="_blank">{key}</a></td>
+            <td class="fossil-name"><a href="https://serre-lab.github.io/FossilLeafLens/pages/page_{key}/" target="_blank">{key}</a></td>
             <td class="fossil-image"><img src="{UNKNOWN_IMAGE_URL.format(key)}" alt="Fossil Image"></td>
             <td><div class="predictions">{predictions_html}</div></td>
             <td>
@@ -400,7 +400,7 @@ for index, (key, value) in enumerate(image_predictions.items(), start=1):
     row = f"""
     <tr>
         <td class="serial-number">{index}</td>
-        <td class="fossil-name"><a href="https://serre-lab.github.io/prj_fossil_unknown/pages/unidentified/page_{key}/" target="_blank">{key}</a></td>
+        <td class="fossil-name"><a href="https://serre-lab.github.io/FossilLeafLens/pages/page_{key}/" target="_blank">{key}</a></td>
         <td class="fossil-image"><img src="{IMAGE_URL.format(key)}" alt="Fossil Image"></td>
         <td><div class="predictions">{predictions_html}</div></td>
         <td>
