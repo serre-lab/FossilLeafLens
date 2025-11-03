@@ -449,30 +449,7 @@ html_template = """
         <div class="similar-specimens-section">
             <h2>Similar Leaf Fossil Specimens</h2>
             <div class="similar-images-grid">
-                <div class="similar-image-container">
-                    <a href="{sm1}" target="_blank"><img class="similar-image" src="{sm1}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{sm1_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm2}" target="_blank"><img class="similar-image" src="{sm2}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{sm2_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm3}" target="_blank"><img class="similar-image" src="{sm3}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{sm3_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm4}" target="_blank"><img class="similar-image" src="{sm4}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{sm4_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm5}" target="_blank"><img class="similar-image" src="{sm5}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{sm5_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm6}" target="_blank"><img class="similar-image" src="{sm6}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{sm6_name}</div>
-                </div>
+                {similar_known_html}
             </div>
 
             <h3>Similar Extant Leaf Specimens</h3>
@@ -649,8 +626,29 @@ for i, (key, value) in enumerate(image_names.items()):
             </div>''' for j in range(len(value))]
     )
 
-    known_image_urls = [(file_path.split("/")[-1], Known_IMAGE_URL.format(file_path)) for file_path in unknown_closest[key]["closest_filenames"]]
+    known_image_urls = [
+        (file_path.split("/")[-1], Known_IMAGE_URL.format(file_path))
+        for file_path in unknown_closest[key]["closest_filenames"]
+        if 'cupressaceae' not in file_path.lower() and 'dryopteridaceae' not in file_path.lower()
+    ]
+    if known_image_urls:
+        similar_known_html = "\n".join([
+            f'''<div class="similar-image-container">
+                    <a href="{url}" target="_blank"><img class="similar-image" src="{url}" alt="Similar fossil specimen"></a>
+                    <div class="image-caption">{name}</div>
+                </div>'''
+            for name, url in known_image_urls[:6]
+        ])
+    else:
+        similar_known_html = '<div class="image-caption" style="grid-column: 1 / -1; text-align: center; color: #666;">No similar images found.</div>'
     leaf_image_urls = [(fs['filename'].split(".")[0], Known_LEAF_IMAGE_URL.format(fs['filename'].split("_")[0], fs['filename'])) for fs in simplified_dict[key]]
+
+    similar_known_html = "\n".join(
+        [f'''<div class="similar-image-container">
+                    <a href="{known_image_urls[j][1]}" target="_blank"><img class="similar-image" src="{known_image_urls[j][1]}" alt="Similar fossil specimen"></a>
+                    <div class="image-caption">{known_image_urls[j][0]}</div>
+                </div>''' for j in range(min(len(known_image_urls), 6))]
+    )
 
     html_content = html_template.format(
         image_name=f"{key}",
@@ -668,20 +666,7 @@ for i, (key, value) in enumerate(image_names.items()):
         # info4  = info4,
         # value4 = value4,
         main_image = Unknown_IMAGE_URL.format(key),
-        
-        sm1 = known_image_urls[0][1],
-        sm2 = known_image_urls[1][1],
-        sm3 = known_image_urls[2][1],
-        sm4 = known_image_urls[3][1],
-        sm5 = known_image_urls[4][1],    
-        sm6 = known_image_urls[5][1],
-    
-        sm1_name = known_image_urls[0][0],
-        sm2_name = known_image_urls[1][0],
-        sm3_name = known_image_urls[2][0],
-        sm4_name = known_image_urls[3][0],
-        sm5_name = known_image_urls[4][0],
-        sm6_name = known_image_urls[5][0],
+        similar_known_html = similar_known_html,
         
         sm1l = leaf_image_urls[0][1],
         sm2l = leaf_image_urls[1][1],
@@ -798,7 +783,18 @@ for i, (key, value) in enumerate(unidentified_image_names.items()):
             </div>''' for j in range(len(value))]
     )
 
-    known_image_urls = [(file_path.split("/")[-1], Known_IMAGE_URL.format(file_path)) for file_path in unidentified_closest[key]["closest_filenames"]]
+    known_image_urls = [
+        (file_path.split("/")[-1], Known_IMAGE_URL.format(file_path))
+        for file_path in unidentified_closest[key]["closest_filenames"]
+        if 'cupressaceae' not in file_path.lower() and 'dryopteridaceae' not in file_path.lower()
+    ]
+    if known_image_urls:
+        similar_known_html = "\n".join([
+            f'''<div class=\"similar-image-container\">\n                    <a href=\"{url}\" target=\"_blank\"><img class=\"similar-image\" src=\"{url}\" alt=\"Similar fossil specimen\"></a>\n                    <div class=\"image-caption\">{name}</div>\n                </div>'''
+            for name, url in known_image_urls[:6]
+        ])
+    else:
+        similar_known_html = '<div class=\"image-caption\" style=\"grid-column: 1 / -1; text-align: center; color: #666;\">No similar images found.</div>'
     try:
         leaf_image_urls = [(fs['filename'].split(".")[0], Known_LEAF_IMAGE_URL.format(fs['filename'].split("_")[0], fs['filename'])) for fs in simplified_dict[key]]
     except:
@@ -823,18 +819,7 @@ for i, (key, value) in enumerate(unidentified_image_names.items()):
         # info4  = info4,
         # value4 = value4,
         main_image = Unidentified_IMAGE_URL.format(key),
-        sm1 = known_image_urls[0][1],
-        sm2 = known_image_urls[1][1],
-        sm3 = known_image_urls[2][1],
-        sm4 = known_image_urls[3][1],
-        sm5 = known_image_urls[4][1], 
-        sm6 = known_image_urls[5][1],
-        sm1_name = known_image_urls[0][0],
-        sm2_name = known_image_urls[1][0],
-        sm3_name = known_image_urls[2][0],
-        sm4_name = known_image_urls[3][0],
-        sm5_name = known_image_urls[4][0],
-        sm6_name = known_image_urls[5][0],
+        similar_known_html = similar_known_html,
 
         sm1l = leaf_image_urls[0][1],
         sm2l = leaf_image_urls[1][1],
