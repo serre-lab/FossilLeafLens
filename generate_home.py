@@ -312,9 +312,9 @@ html_template = """
         <div class="authors-section">
             <div class="authors">
                 Ivan Felipe Rodriguez🌿 <sup><strong>1</strong></sup>, Thomas Fel🌿 <sup><strong>2</strong></sup>, Gaurav Gaonkar <sup><strong>1</strong></sup>, Mohit Vaishnav <sup><strong>1</strong></sup>,<br>
-                Herbert Meyer <sup><strong>4</strong></sup>, Peter Wilf <sup><strong>3</strong></sup> & Thomas Serre<sup><strong>1</strong></sup>
+                Herbert Meyer <sup><strong>4</strong></sup>, Peter Wilf <sup><strong>3</strong></sup> & Thomas Serre🍂<sup><strong>1</strong></sup>
             </div>
-            <div class="joint-note">🌿 Joint First Authors</div>
+            <div class="joint-note">🌿 Joint first authors&nbsp;&nbsp;|&nbsp;&nbsp;🍂 Corresponding author</div>
             <div class="affiliations">
                 <sup><strong>1</strong></sup> Brown University,
                 <sup><strong>2</strong></sup> Kempner Institute, Harvard University,<br>
