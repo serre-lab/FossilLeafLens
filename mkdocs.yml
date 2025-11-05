@@ -4,8 +4,20 @@ theme:
   logo: images/logo.png
   favicon: images/logo.png
   palette:
-    primary: black
-    accent: white
+    - scheme: slate
+      default: true
+      accent: green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    - scheme: default
+      primary: dark
+      accent: green
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+  icon:
+    repo: fontawesome/brands/github
 nav:
   - <b>Home</b>: index.md
   - '<b>Feedback Table</b> 📋': unidentified_table.md
@@ -1733,3 +1745,6 @@ nav:
     - 1721. FLFO_011200B: pages/page_FLFO_011200B.md
     - 1722. FLFO_003294A: pages/page_FLFO_003294A.md
     - 1723. FLFO_011574B: pages/page_FLFO_011574B.md
+
+repo_name: "serre-lab/FossilLeafLens"
+repo_url: "https://github.com/serre-lab/FossilLeafLens"

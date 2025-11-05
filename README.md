@@ -3,9 +3,17 @@
 > A machine learning tool to help paleobotanists identify leaf fossils
 
 <p align="center">
-  <a href="https://serre-lab.github.io/FossilLeafLens/">
-    <img src="https://img.shields.io/badge/Visit-Fossil%20Leaf%20Lens-2e7d32?style=for-the-badge&logo=leaflet&logoColor=white">
+  <a href="https://serre-lab.github.io/LeafLens/">
+    <img src="https://img.shields.io/badge/Visit-Leaf%20Lens-2e7d32?style=for-the-badge&logo=leaflet&logoColor=white">
   </a>
+  &nbsp;&nbsp;
+  <a href="https://serre-lab.github.io/FossilLeafLens/">
+    <img src="https://img.shields.io/badge/Visit-Fossil%20Leaf%20Lens-5e4a2e?style=for-the-badge&logo=microscope&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Explore concepts and family classification | Identify unknown fossils
 </p>
 
 ---
@@ -101,7 +109,7 @@ The project focuses on leaf fossils from the **Florissant Fossil Beds** (late Eo
 
 ### For Paleobotanists
 
-1. Navigate to the [Fossil Leaf Lens website](https://serre-lab.github.io/prj_fossil_unknown/)
+1. Navigate to the [Fossil Leaf Lens website](https://serre-lab.github.io/FossilLeafLens/)
 2. Browse predicted fossil identifications from the navigation menu
 3. Review individual specimen pages with detailed predictions
 4. Use the Feedback Table to evaluate and provide feedback on predictions
@@ -132,11 +140,11 @@ For questions, feedback, or collaboration inquiries, please contact:
 
 If you use Fossil Leaf Lens in your research, please cite:
 
-Rodriguez, I.F., Fel, T., Gaonkar, G., Vaishnav, M., Meyer, H., Wilf, P., & Serre, T. (2025). Decoding Fossil Floras with Artificial Intelligence: An application to the Florissant Formation.
+Rodriguez, I.F., Fel, T., Gaonkar, G., Vaishnav, M., Meyer, H., Wilf, P., & Serre, T. (2025). Decoding Fossil Leaves with Artificial Intelligence: An application to the Florissant Formation.
 
 ```bibtex
 @article{rodriguez2025fossils,
-  title  = {Decoding Fossil Floras with Artificial Intelligence: 
+  title  = {Decoding Fossil Leaves with Artificial Intelligence: 
             An application to the Florissant Formation},
   author = {Rodriguez, Ivan Felipe and Fel, Thomas and Gaonkar, Gaurav and 
             Vaishnav, Mohit and Meyer, Herbert and Wilf, Peter and Serre, Thomas},
