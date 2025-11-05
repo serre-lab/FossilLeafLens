@@ -12,14 +12,37 @@
 
 ## Authors
 
-**Ivan Felipe Rodriguez**🌿<sup>1</sup>, **Thomas Fel**🌿<sup>2</sup>, **Gaurav Gaonkar**<sup>1</sup>, **Mohit Vaishnav**<sup>1</sup>, **Herbert Meyer**<sup>4</sup>, **Peter Wilf**<sup>3</sup> & **Thomas Serre**<sup>1</sup>
+<p align="center">
+  Ivan Felipe Rodriguez<sup>1🌿</sup>,
+  Thomas Fel<sup>1,2🌿</sup>,
+  Gaurav Gaonkar<sup>1</sup>,
+  Mohit Vaishnav<sup>1</sup>,
+  Herbert Meyer<sup>3</sup>, <br>
+  Peter Wilf<sup>4</sup>,
+  Thomas Serre<sup>1🍂</sup>
+</p>
 
-🌿 Joint first authors
+<p align="center">
+  <a href="https://serre.lab.brown.edu/"><img src="docs/images/brown.png" height="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://kempnerinstitute.harvard.edu/"><img src="docs/images/harvard.png" height="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.nps.gov/flfo/index.htm"><img src="docs/images/nps.png" height="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.upenn.edu/"><img src="docs/images/penn.png" height="30"></a>
+</p>
 
-<sup>1</sup> Brown University  
-<sup>2</sup> Kempner Institute, Harvard University  
-<sup>3</sup> Pennsylvania State University  
-<sup>4</sup> Florissant Fossil Beds, National Park Service
+<p align="left">
+  <sup>1</sup> Center for Computational Brain Science, Brown University
+  <br>
+  <sup>2</sup> Kempner Institute, Harvard University
+  <br>
+  <sup>3</sup> Florissant Fossil Beds National Monument, National Park Service
+  <br>
+  <sup>4</sup> Department of Geosciences, Pennsylvania State University
+  <br><br>
+  🌿 Joint first authors&nbsp;&nbsp;|&nbsp;&nbsp;🍂 Corresponding author
+</p>
 
 ---
 
