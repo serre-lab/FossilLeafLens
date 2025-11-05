@@ -14,7 +14,7 @@
 
 **Ivan Felipe Rodriguez**🌿<sup>1</sup>, **Thomas Fel**🌿<sup>2</sup>, **Gaurav Gaonkar**<sup>1</sup>, **Mohit Vaishnav**<sup>1</sup>, **Herbert Meyer**<sup>4</sup>, **Peter Wilf**<sup>3</sup> & **Thomas Serre**<sup>1</sup>
 
-🌿 *Joint First Authors*
+🌿 Joint first authors
 
 <sup>1</sup> Brown University  
 <sup>2</sup> Kempner Institute, Harvard University  
@@ -109,13 +109,15 @@ For questions, feedback, or collaboration inquiries, please contact:
 
 If you use Fossil Leaf Lens in your research, please cite:
 
-```latex
+Rodriguez, I.F., Fel, T., Gaonkar, G., Vaishnav, M., Meyer, H., Wilf, P., & Serre, T. (2025). Decoding Fossil Floras with Artificial Intelligence: An application to the Florissant Formation.
+
+```bibtex
 @article{rodriguez2025fossils,
-  title   = {Decoding Fossil Floras with Artificial Intelligence:
-             An application to the Florissant Formation},
-  author  = {Rodriguez, Ivan Felipe and Fel, Thomas and Gaonkar, Gaurav and
-             Vaishnav, Mohit and Meyer, Herbert and Wilf, Peter and Serre, Thomas},
-  year    = {2025}
+  title  = {Decoding Fossil Floras with Artificial Intelligence: 
+            An application to the Florissant Formation},
+  author = {Rodriguez, Ivan Felipe and Fel, Thomas and Gaonkar, Gaurav and 
+            Vaishnav, Mohit and Meyer, Herbert and Wilf, Peter and Serre, Thomas},
+  year   = {2025}
 }
 ```
 
