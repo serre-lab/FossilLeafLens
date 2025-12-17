@@ -68,6 +68,21 @@ with open("closest_extant_examples_checkpoint_gpu.json", "r") as file:
 with open("closest_extant_examples_gpu.json", "r") as file:
     closest_extant_examples_uni = json.load(file)
 
+
+na_fossils_dict = {}
+def aggregate_data(data):
+    for key, value in data.items():
+        if key not in na_fossils_dict:
+            na_fossils_dict[key] = []
+        na_fossils_dict[key].append(value)
+
+files_names = os.listdir("NA_fossils")
+for file_name in files_names:
+    with open(os.path.join("NA_fossils", file_name), "r") as file:
+        data = json.load(file)
+        import ipdb; ipdb.set_trace()
+        na_fossils_dict[file_name] = data
+
 # Create a new dictionary with just the image name as key
 simplified_dict = {}
 
