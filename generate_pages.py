@@ -80,7 +80,6 @@ files_names = os.listdir("NA_fossils")
 for file_name in files_names:
     with open(os.path.join("NA_fossils", file_name), "r") as file:
         data = json.load(file)
-        import ipdb; ipdb.set_trace()
         na_fossils_dict[file_name] = data
 
 # Create a new dictionary with just the image name as key
