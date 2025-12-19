@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Lithocarpus_echinoides_Axelrod_Axelrod_283.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Lithocarpus_echinoides_Axelrod_Axelrod_283.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Lithocarpus_echinoides_Axelrod_Axelrod_283</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Lithocarpus_densiflora_Axelrod_Axelrod_105.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Lithocarpus_densiflora_Axelrod_Axelrod_105.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Lithocarpus_densiflora_Axelrod_Axelrod_105</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_alba_Hickey_Hickey_6910_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_alba_Hickey_Hickey_6910_1.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_alba_Hickey_Hickey_6910_1</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_philippensis_Hickey_Hickey_632a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_philippensis_Hickey_Hickey_632a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Castanopsis_philippensis_Hickey_Hickey_632a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_virginiana_Axelrod_Axelrod_49.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_virginiana_Axelrod_Axelrod_49.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_virginiana_Axelrod_Axelrod_49</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Lithocarpus_densiflorus_Axelrod_Axelrod_104.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Lithocarpus_densiflorus_Axelrod_Axelrod_104.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Lithocarpus_densiflorus_Axelrod_Axelrod_104</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_alba_Hickey_Hickey_6910_4.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_alba_Hickey_Hickey_6910_4.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_alba_Hickey_Hickey_6910_4</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_oxyodon_NMNS_T2475.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_oxyodon_NMNS_T2475.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_oxyodon_NMNS_T2475</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_macedonia_Axelrod_Axelrod_35.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_macedonia_Axelrod_Axelrod_35.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_macedonia_Axelrod_Axelrod_35</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_griffithii_NMNS_T2462.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_griffithii_NMNS_T2462.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_griffithii_NMNS_T2462</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_lyrata_Axelrod_Axelrod_34.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_lyrata_Axelrod_Axelrod_34.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_lyrata_Axelrod_Axelrod_34</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_chrysolepis_Axelrod_Axelrod_277.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_chrysolepis_Axelrod_Axelrod_277.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_chrysolepis_Axelrod_Axelrod_277</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Parrotia_persica_NMNS_U1188.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Parrotia_persica_NMNS_U1188.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Parrotia_persica_NMNS_U1188</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_coccifera_NMNS_T2370.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_coccifera_NMNS_T2370.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_coccifera_NMNS_T2370</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_chapmanii_Hickey_Hickey_1256_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_chapmanii_Hickey_Hickey_1256_2.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_chapmanii_Hickey_Hickey_1256_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Fagus_crenata_NMNS_U0037.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Fagus_crenata_NMNS_U0037.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Fagus_crenata_NMNS_U0037</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_macranthera_NMNS_T1873.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_macranthera_NMNS_T1873.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_macranthera_NMNS_T1873</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanea_sativa_NMNS_T1944.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanea_sativa_NMNS_T1944.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Castanea_sativa_NMNS_T1944</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_falcata_NMNS_T2432.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_falcata_NMNS_T2432.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_falcata_NMNS_T2432</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_douglasii_Axelrod_Axelrod_395.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_douglasii_Axelrod_Axelrod_395.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_douglasii_Axelrod_Axelrod_395</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_chrysolepis_Axelrod_Axelrod_27.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_chrysolepis_Axelrod_Axelrod_27.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_chrysolepis_Axelrod_Axelrod_27</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_sempervirens_Axelrod_Axelrod_616.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_sempervirens_Axelrod_Axelrod_616.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Castanopsis_sempervirens_Axelrod_Axelrod_616</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_suber_NMNS_T1857.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_suber_NMNS_T1857.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_suber_NMNS_T1857</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_xdysophylla_NMNS_T2734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_xdysophylla_NMNS_T2734.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_xdysophylla_NMNS_T2734</div>
                 </div>
             </div>
         </div>

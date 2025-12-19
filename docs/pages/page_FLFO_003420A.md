@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Solanaceae/Solanaceae_Coeloneurum_ferrugineum_Wolfe_Wolfe_9188.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Solanaceae/Solanaceae_Coeloneurum_ferrugineum_Wolfe_Wolfe_9188.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Solanaceae_Coeloneurum_ferrugineum_Wolfe_Wolfe_9188</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678d.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678d</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Chaetachme_aristata_Wolfe_Wolfe_4020.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Chaetachme_aristata_Wolfe_Wolfe_4020.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Chaetachme_aristata_Wolfe_Wolfe_4020</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Hypelate_trifoliata_Wing_Wing_790-001b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Hypelate_trifoliata_Wing_Wing_790-001b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Hypelate_trifoliata_Wing_Wing_790-001b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_carpinifolia_Hickey_Hickey_129.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_carpinifolia_Hickey_Hickey_129.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Ulmus_carpinifolia_Hickey_Hickey_129</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Pseudopteris_decipiens_Wolfe_Wolfe_12045.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Pseudopteris_decipiens_Wolfe_Wolfe_12045.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Pseudopteris_decipiens_Wolfe_Wolfe_12045</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Planchonella_dictyoneura_Wolfe_Wolfe_3718.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Planchonella_dictyoneura_Wolfe_Wolfe_3718.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapotaceae_Planchonella_dictyoneura_Wolfe_Wolfe_3718</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eucalyptus_tetragona_Wolfe_Wolfe_10493.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eucalyptus_tetragona_Wolfe_Wolfe_10493.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Myrtaceae_Eucalyptus_tetragona_Wolfe_Wolfe_10493</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Galactia_wrightii_Wolfe_Wolfe_16486a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Galactia_wrightii_Wolfe_Wolfe_16486a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Galactia_wrightii_Wolfe_Wolfe_16486a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lonchocarpus_rugosus_Wolfe_Wolfe_30632a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lonchocarpus_rugosus_Wolfe_Wolfe_30632a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Lonchocarpus_rugosus_Wolfe_Wolfe_30632a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_455.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_455.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_455</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_sinica_Wolfe_Wolfe_471a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_sinica_Wolfe_Wolfe_471a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Zelkova_sinica_Wolfe_Wolfe_471a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Schefflera_pedicellata_Wolfe_Wolfe_13457b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Schefflera_pedicellata_Wolfe_Wolfe_13457b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Araliaceae_Schefflera_pedicellata_Wolfe_Wolfe_13457b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_glabra_Wolfe_Wolfe_10613.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_glabra_Wolfe_Wolfe_10613.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Ulmus_glabra_Wolfe_Wolfe_10613</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Prunus_itosakura_Wolfe_Wolfe_8766.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Prunus_itosakura_Wolfe_Wolfe_8766.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rosaceae_Prunus_itosakura_Wolfe_Wolfe_8766</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678c.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678c</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_texcocana_Wolfe_Wolfe_14794.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_texcocana_Wolfe_Wolfe_14794.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_texcocana_Wolfe_Wolfe_14794</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_sinica_Wolfe_Wolfe_471b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_sinica_Wolfe_Wolfe_471b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ulmaceae_Zelkova_sinica_Wolfe_Wolfe_471b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Clusiaceae/Clusiaceae_Garcinia_pseudo-guttifera_Wolfe_Wolfe_11019.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Clusiaceae/Clusiaceae_Garcinia_pseudo-guttifera_Wolfe_Wolfe_11019.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Clusiaceae_Garcinia_pseudo-guttifera_Wolfe_Wolfe_11019</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Tyleria_spathulata_Wolfe_Wolfe_2509.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Tyleria_spathulata_Wolfe_Wolfe_2509.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ochnaceae_Tyleria_spathulata_Wolfe_Wolfe_2509</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cunoniaceae/Cunoniaceae_Eucryphia_cordifolia_Wolfe_Wolfe_2467b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cunoniaceae/Cunoniaceae_Eucryphia_cordifolia_Wolfe_Wolfe_2467b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cunoniaceae_Eucryphia_cordifolia_Wolfe_Wolfe_2467b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Ouratea_morsonii_Wolfe_Wolfe_4835.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Ouratea_morsonii_Wolfe_Wolfe_4835.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ochnaceae_Ouratea_morsonii_Wolfe_Wolfe_4835</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_vestita_Wolfe_Wolfe_1317.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_vestita_Wolfe_Wolfe_1317.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Salix_vestita_Wolfe_Wolfe_1317</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_racemosa_Wolfe_Wolfe_1483a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_racemosa_Wolfe_Wolfe_1483a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ulmaceae_Ulmus_racemosa_Wolfe_Wolfe_1483a</div>
                 </div>
             </div>
         </div>

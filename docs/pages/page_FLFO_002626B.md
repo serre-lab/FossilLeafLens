@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Myrtaceae_Eugenia_egensis_NMNS_U1375</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Myrtaceae_Eugenia_egensis_NMNS_U1375</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Wisteria_floribunda_NMNS_U0843.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Wisteria_floribunda_NMNS_U0843.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Wisteria_floribunda_NMNS_U0843</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Machaerium_kegelii_Wolfe_Wolfe_30646b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Machaerium_kegelii_Wolfe_Wolfe_30646b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Machaerium_kegelii_Wolfe_Wolfe_30646b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Timonius_polygama_Hickey_Hickey_4608.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Timonius_polygama_Hickey_Hickey_4608.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Timonius_polygama_Hickey_Hickey_4608</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Magnolia_compressa_NMNS_T0306.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Magnolia_compressa_NMNS_T0306.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Magnoliaceae_Magnolia_compressa_NMNS_T0306</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lonchocarpus_punctatus_Wolfe_Wolfe_30620b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lonchocarpus_punctatus_Wolfe_Wolfe_30620b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Lonchocarpus_punctatus_Wolfe_Wolfe_30620b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eperua_falcata_Wolfe_Wolfe_9220.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eperua_falcata_Wolfe_Wolfe_9220.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Eperua_falcata_Wolfe_Wolfe_9220</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Myrtaceae_Eugenia_egensis_NMNS_U1375</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Haplocoelum_inoploeum_Wing_Wing_671-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Haplocoelum_inoploeum_Wing_Wing_671-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Haplocoelum_inoploeum_Wing_Wing_671-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Breonia_boivini_Wolfe_Wolfe_14531b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Breonia_boivini_Wolfe_Wolfe_14531b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Breonia_boivini_Wolfe_Wolfe_14531b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Myrtaceae_Eugenia_egensis_NMNS_U1375</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Guindilia_trinervis_Wing_Wing_614-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Oleaceae_Ligustrum_lucidum_Axelrod_Axelrod_605</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Eugenia_egensis_NMNS_U1375.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapotaceae_Manilkara_obovata_Wolfe_Wolfe_3703</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Meliaceae_Sandoricum_koetjape_Wolfe_Wolfe_15448b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Moraceae/Moraceae_Ficus_pritchardii_Wolfe_Wolfe_10896.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Moraceae/Moraceae_Ficus_pritchardii_Wolfe_Wolfe_10896.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Moraceae_Ficus_pritchardii_Wolfe_Wolfe_10896</div>
                 </div>
             </div>
         </div>

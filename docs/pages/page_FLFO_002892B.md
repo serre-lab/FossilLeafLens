@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_montana_NMNS_T2380</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Scaphium_affine_NMNS_T2207</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_deserticola_NMNS_T2726</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_NMNS_U1096.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_NMNS_U1096.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_mongolica_NMNS_U1096</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_montana_NMNS_T2380</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Heritiera_utilis_Wolfe_Wolfe_14439b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Heritiera_utilis_Wolfe_Wolfe_14439b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Heritiera_utilis_Wolfe_Wolfe_14439b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Tetracera_sarmentosa_NMNS_T2295.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Tetracera_sarmentosa_NMNS_T2295.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dilleniaceae_Tetracera_sarmentosa_NMNS_T2295</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Scaphium_affine_NMNS_T2207</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Fusaea_longifolia_Wolfe_Wolfe_4460b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Fusaea_longifolia_Wolfe_Wolfe_4460b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Fusaea_longifolia_Wolfe_Wolfe_4460b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Serissa_japonica_Wolfe_Wolfe_14126.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Serissa_japonica_Wolfe_Wolfe_14126.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Serissa_japonica_Wolfe_Wolfe_14126</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_deserticola_NMNS_T2726</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Annona_squamosa_NMNS_T1537.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Annona_squamosa_NMNS_T1537.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Annona_squamosa_NMNS_T1537</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_NMNS_U1096.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_NMNS_U1096.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_mongolica_NMNS_U1096</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Telitoxicum_minutiflorum_Wolfe_Wolfe_4514.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Telitoxicum_minutiflorum_Wolfe_Wolfe_4514.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Menispermaceae_Telitoxicum_minutiflorum_Wolfe_Wolfe_4514</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_montana_NMNS_T2380</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_Wolfe_Wolfe_9088.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_Wolfe_Wolfe_9088.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Quercus_mongolica_Wolfe_Wolfe_9088</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Simaroubaceae/Simaroubaceae_Quassia_klaineana_Wolfe_Wolfe_14433b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Simaroubaceae/Simaroubaceae_Quassia_klaineana_Wolfe_Wolfe_14433b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Simaroubaceae_Quassia_klaineana_Wolfe_Wolfe_14433b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Scaphium_affine_NMNS_T2207</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_deserticola_NMNS_T2726</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_mongolica_NMNS_U1096</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Scaphium_affine_NMNS_T2207.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_montana_NMNS_T2380</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_deserticola_NMNS_T2726.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Scaphium_affine_NMNS_T2207</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_NMNS_U1096.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_mongolica_NMNS_U1096.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Lepidopetalum_xylocarpum_Wing_Wing_767-002b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_montana_NMNS_T2380.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_deserticola_NMNS_T2726</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_cuneatus_Wolfe_Wolfe_14509.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_mongolica_NMNS_U1096</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sabiaceae/Sabiaceae_Meliosma_flexuosa_NMNS_U1197.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sabiaceae/Sabiaceae_Meliosma_flexuosa_NMNS_U1197.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sabiaceae_Meliosma_flexuosa_NMNS_U1197</div>
                 </div>
             </div>
         </div>

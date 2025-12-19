@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Piperaceae_Peperomia_producta_Hickey_Hickey_6678</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_carpinifolia_Wolfe_Wolfe_1132a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_carpinifolia_Wolfe_Wolfe_1132a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ulmaceae_Zelkova_carpinifolia_Wolfe_Wolfe_1132a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Pappea_capensis_Wing_Wing_693-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Pappea_capensis_Wing_Wing_693-003.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Pappea_capensis_Wing_Wing_693-003</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Piperaceae_Peperomia_producta_Hickey_Hickey_6678</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_tacamahacca_Wolfe_Wolfe_15136b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_tacamahacca_Wolfe_Wolfe_15136b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Salicaceae_Populus_tacamahacca_Wolfe_Wolfe_15136b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Mucuna_clemensiae_Wolfe_Wolfe_30741a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Mucuna_clemensiae_Wolfe_Wolfe_30741a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Mucuna_clemensiae_Wolfe_Wolfe_30741a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Curtisiaceae/Curtisiaceae_Curtisia_faginea_Wolfe_Wolfe_4721.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Curtisiaceae/Curtisiaceae_Curtisia_faginea_Wolfe_Wolfe_4721.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Curtisiaceae_Curtisia_faginea_Wolfe_Wolfe_4721</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nyssaceae/Nyssaceae_Camptotheca_acuminata_Wolfe_Wolfe_6230b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nyssaceae/Nyssaceae_Camptotheca_acuminata_Wolfe_Wolfe_6230b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Nyssaceae_Camptotheca_acuminata_Wolfe_Wolfe_6230b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Sapindus_mukorossi_Wing_Wing_634-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Sapindus_mukorossi_Wing_Wing_634-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Sapindus_mukorossi_Wing_Wing_634-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pentagonia_amazonica_Wolfe_Wolfe_12769b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pentagonia_amazonica_Wolfe_Wolfe_12769b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Pentagonia_amazonica_Wolfe_Wolfe_12769b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Piperaceae_Peperomia_producta_Hickey_Hickey_6678</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Peperomia_producta_Hickey_Hickey_6678.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Piperaceae_Peperomia_producta_Hickey_Hickey_6678</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Ixora_philippinensis_Wolfe_Wolfe_13934</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_incarnata_Wolfe_Wolfe_1025.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Cheirodendron_gaudichaudii_Wolfe_Wolfe_6092.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_australis_Wolfe_Wolfe_1347</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Aesculus_californica_Wolfe_Wolfe_1103.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Aesculus_californica_Wolfe_Wolfe_1103.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Aesculus_californica_Wolfe_Wolfe_1103</div>
                 </div>
             </div>
         </div>

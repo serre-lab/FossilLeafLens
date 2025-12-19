@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Bignoniaceae/Bignoniaceae_Stereospermum_fimbriatum_NMNS_T0357.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Bignoniaceae/Bignoniaceae_Stereospermum_fimbriatum_NMNS_T0357.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Bignoniaceae_Stereospermum_fimbriatum_NMNS_T0357</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Potentilla_effusa_Hickey_Hickey_3809.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Potentilla_effusa_Hickey_Hickey_3809.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rosaceae_Potentilla_effusa_Hickey_Hickey_3809</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melanthiaceae/Melanthiaceae_Trillium_cuneatum_Hickey_Hickey_6752b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melanthiaceae/Melanthiaceae_Trillium_cuneatum_Hickey_Hickey_6752b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Melanthiaceae_Trillium_cuneatum_Hickey_Hickey_6752b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Sambucus_caerulea_Axelrod_Axelrod_60.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Sambucus_caerulea_Axelrod_Axelrod_60.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Viburnaceae_Sambucus_caerulea_Axelrod_Axelrod_60</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Neuradaceae/Neuradaceae_Grielum_humifusum_Hickey_Hickey_4089.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Neuradaceae/Neuradaceae_Grielum_humifusum_Hickey_Hickey_4089.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Neuradaceae_Grielum_humifusum_Hickey_Hickey_4089</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_oxyodon_NMNS_T2475.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_oxyodon_NMNS_T2475.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_oxyodon_NMNS_T2475</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Hippobromus_alatus_Wing_Wing_793-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Hippobromus_alatus_Wing_Wing_793-003.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Hippobromus_alatus_Wing_Wing_793-003</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Stegnospermataceae/Stegnospermataceae_Stegnosperma_alimifolia_Wolfe_Wolfe_14699a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Stegnospermataceae/Stegnospermataceae_Stegnosperma_alimifolia_Wolfe_Wolfe_14699a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Stegnospermataceae_Stegnosperma_alimifolia_Wolfe_Wolfe_14699a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678d.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Zelkova_serrata_Wolfe_Wolfe_9678d</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cleistopholis_glauca_Wolfe_Wolfe_5437.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cleistopholis_glauca_Wolfe_Wolfe_5437.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Cleistopholis_glauca_Wolfe_Wolfe_5437</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_rubra_Hickey_Hickey_6818.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_rubra_Hickey_Hickey_6818.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Ulmus_rubra_Hickey_Hickey_6818</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pittosporaceae/Pittosporaceae_Auranticarpa_rhombifolia_NMNS_T1980.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pittosporaceae/Pittosporaceae_Auranticarpa_rhombifolia_NMNS_T1980.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Pittosporaceae_Auranticarpa_rhombifolia_NMNS_T1980</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Stegnospermataceae/Stegnospermataceae_Stegnosperma_alimifolia_Wolfe_Wolfe_14699b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Stegnospermataceae/Stegnospermataceae_Stegnosperma_alimifolia_Wolfe_Wolfe_14699b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Stegnospermataceae_Stegnosperma_alimifolia_Wolfe_Wolfe_14699b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Austrobaileyaceae/Austrobaileyaceae_Austrobaileya_scandens_Hickey_Hickey_6415.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Austrobaileyaceae/Austrobaileyaceae_Austrobaileya_scandens_Hickey_Hickey_6415.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Austrobaileyaceae_Austrobaileya_scandens_Hickey_Hickey_6415</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Meiogyne_cylindrocarpa_Wolfe_Wolfe_15496a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Meiogyne_cylindrocarpa_Wolfe_Wolfe_15496a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Meiogyne_cylindrocarpa_Wolfe_Wolfe_15496a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lygodiaceae/Lygodiaceae_Lygodium_volubile_Wolfe_Wolfe_14590.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lygodiaceae/Lygodiaceae_Lygodium_volubile_Wolfe_Wolfe_14590.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lygodiaceae_Lygodium_volubile_Wolfe_Wolfe_14590</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Liliaceae/Liliaceae_Clintonia_andrewsiana_Wolfe_Wolfe_17892.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Liliaceae/Liliaceae_Clintonia_andrewsiana_Wolfe_Wolfe_17892.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Liliaceae_Clintonia_andrewsiana_Wolfe_Wolfe_17892</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Podonephelium_homei_Wolfe_Wolfe_8325.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Podonephelium_homei_Wolfe_Wolfe_8325.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Podonephelium_homei_Wolfe_Wolfe_8325</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_arboreum_Wing_Wing_359-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_arboreum_Wing_Wing_359-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Rhododendron_arboreum_Wing_Wing_359-003</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arctous_alpina_Wing_Wing_431-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arctous_alpina_Wing_Wing_431-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Arctous_alpina_Wing_Wing_431-003</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Exbucklandia_tonkinensis_Wing_Wing_994-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Exbucklandia_tonkinensis_Wing_Wing_994-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hamamelidaceae_Exbucklandia_tonkinensis_Wing_Wing_994-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paullinia_grandifolia_Wing_Wing_603-001a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paullinia_grandifolia_Wing_Wing_603-001a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Paullinia_grandifolia_Wing_Wing_603-001a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Boraginaceae/Boraginaceae_Ehretia_tinifolia_Wolfe_Wolfe_6994.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Boraginaceae/Boraginaceae_Ehretia_tinifolia_Wolfe_Wolfe_6994.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Boraginaceae_Ehretia_tinifolia_Wolfe_Wolfe_6994</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arbutus_arizonica_Wing_Wing_422-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arbutus_arizonica_Wing_Wing_422-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Arbutus_arizonica_Wing_Wing_422-003</div>
                 </div>
             </div>
         </div>

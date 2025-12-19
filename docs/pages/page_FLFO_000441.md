@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_laevigatum_NMNS_T1729</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Allophylus_cominia_NMNS_T2275</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_pubipalmatum_NMNS_T0880</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_davidii_NMNS_T1921</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_laevigatum_NMNS_T1729</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guioa_subfalcata_Wolfe_Wolfe_632.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guioa_subfalcata_Wolfe_Wolfe_632.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Guioa_subfalcata_Wolfe_Wolfe_632</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guioa_subfalcata_Wolfe_Wolfe_631.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Guioa_subfalcata_Wolfe_Wolfe_631.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Guioa_subfalcata_Wolfe_Wolfe_631</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Allophylus_cominia_NMNS_T2275</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_mono_Wolfe_Wolfe_8609.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_mono_Wolfe_Wolfe_8609.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_mono_Wolfe_Wolfe_8609</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_pubipalmatum_NMNS_T0880</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laxiflorum_Wolfe_Wolfe_7630.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laxiflorum_Wolfe_Wolfe_7630.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_laxiflorum_Wolfe_Wolfe_7630</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_davidii_NMNS_T1921</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_turcomanicum_NMNS_T0161.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_turcomanicum_NMNS_T0161.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_turcomanicum_NMNS_T0161</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_cissifolium_NMNS_U0094.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_cissifolium_NMNS_U0094.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_cissifolium_NMNS_U0094</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_laevigatum_NMNS_T1729</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_henryi_NMNS_T1281.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_henryi_NMNS_T1281.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_henryi_NMNS_T1281</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Chamaecrista_glandulosa_Wolfe_Wolfe_30395b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Chamaecrista_glandulosa_Wolfe_Wolfe_30395b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Chamaecrista_glandulosa_Wolfe_Wolfe_30395b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Allophylus_cominia_NMNS_T2275</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_pubipalmatum_NMNS_T0880</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_davidii_NMNS_T1921</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_cominia_NMNS_T2275.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_laevigatum_NMNS_T1729</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pubipalmatum_NMNS_T0880.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_davidii_NMNS_T1921.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Allophylus_cominia_NMNS_T2275</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_pubipalmatum_NMNS_T0880</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_laevigatum_NMNS_T1729.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_davidii_NMNS_T1921</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cardiospermum_grandiflorum_Wolfe_Wolfe_4873.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_palmatum_Wolfe_Wolfe_11909b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cupania_hispida_Wing_Wing_697-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cupania_hispida_Wing_Wing_697-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Cupania_hispida_Wing_Wing_697-001</div>
                 </div>
             </div>
         </div>

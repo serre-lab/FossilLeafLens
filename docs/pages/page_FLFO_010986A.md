@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Anaectocalyx_latifolia_Wolfe_Wolfe_12670.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Anaectocalyx_latifolia_Wolfe_Wolfe_12670.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Melastomataceae_Anaectocalyx_latifolia_Wolfe_Wolfe_12670</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Callistemon_macropunctatus_Wolfe_Wolfe_12415.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Callistemon_macropunctatus_Wolfe_Wolfe_12415.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Myrtaceae_Callistemon_macropunctatus_Wolfe_Wolfe_12415</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_reticulata_Wolfe_Wolfe_17063a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_reticulata_Wolfe_Wolfe_17063a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Calliandra_reticulata_Wolfe_Wolfe_17063a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Neckia_serrata_Wolfe_Wolfe_2488.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Neckia_serrata_Wolfe_Wolfe_2488.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ochnaceae_Neckia_serrata_Wolfe_Wolfe_2488</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Axinaea_macrophylla_Wolfe_Wolfe_9257.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Axinaea_macrophylla_Wolfe_Wolfe_9257.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Melastomataceae_Axinaea_macrophylla_Wolfe_Wolfe_9257</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Omphalopus_sp_Wolfe_Wolfe_10557.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Omphalopus_sp_Wolfe_Wolfe_10557.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Melastomataceae_Omphalopus_sp_Wolfe_Wolfe_10557</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anisophylleaceae/Anisophylleaceae_Anisophyllea_boehmii_Wolfe_Wolfe_4662.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anisophylleaceae/Anisophylleaceae_Anisophyllea_boehmii_Wolfe_Wolfe_4662.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anisophylleaceae_Anisophyllea_boehmii_Wolfe_Wolfe_4662</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapotaceae_Micropholis_guyanensis_Wolfe_Wolfe_5613</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Dicerma_biarticulatum_Wolfe_Wolfe_14815</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Brachyotum_coronatum_Wolfe_Wolfe_10508.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Mecranium_virgatum_Wolfe_Wolfe_10554</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_densifolia_Wolfe_Wolfe_15711.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Eysenhardtia_adenostylis_Wolfe_Wolfe_30529a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_imbricaria_Hickey_Hickey_236.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_imbricaria_Hickey_Hickey_236.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Quercus_imbricaria_Hickey_Hickey_236</div>
                 </div>
             </div>
         </div>

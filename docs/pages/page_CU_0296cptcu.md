@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phytolaccaceae/Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phytolaccaceae/Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Toona_philippinense_Hickey_Hickey_2269.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Toona_philippinense_Hickey_Hickey_2269.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Meliaceae_Toona_philippinense_Hickey_Hickey_2269</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Cuphea_wrightii_Hickey_Hickey_2985.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Cuphea_wrightii_Hickey_Hickey_2985.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Cuphea_wrightii_Hickey_Hickey_2985</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oxalidaceae/Oxalidaceae_Oxalis_barrelieri_Hickey_Hickey_2397.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oxalidaceae/Oxalidaceae_Oxalis_barrelieri_Hickey_Hickey_2397.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Oxalidaceae_Oxalis_barrelieri_Hickey_Hickey_2397</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rosa_californica_Axelrod_Axelrod_55.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rosa_californica_Axelrod_Axelrod_55.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rosaceae_Rosa_californica_Axelrod_Axelrod_55</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Erythrina_lanata_Wolfe_Wolfe_16463b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Erythrina_lanata_Wolfe_Wolfe_16463b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Erythrina_lanata_Wolfe_Wolfe_16463b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phytolaccaceae/Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phytolaccaceae/Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Asimina_triloba_Hickey_Hickey_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Asimina_triloba_Hickey_Hickey_2.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Asimina_triloba_Hickey_Hickey_2</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paullinia_clathrata_Wing_Wing_602-002a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paullinia_clathrata_Wing_Wing_602-002a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Paullinia_clathrata_Wing_Wing_602-002a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Tetracera_hydrophila_Hickey_Hickey_830.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Tetracera_hydrophila_Hickey_Hickey_830.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dilleniaceae_Tetracera_hydrophila_Hickey_Hickey_830</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apiaceae/Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phytolaccaceae/Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phytolaccaceae/Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Opiliaceae/Opiliaceae_Agonandra_macedoi_Hickey_Hickey_472.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Apiaceae_Coriandrum_sativum_Hickey_Hickey_2918</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Fagara_paraguariensis_Wolfe_Wolfe_12900.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phytolaccaceae_Phytolacca_rugosa_Wolfe_Wolfe_14696b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Cuphea_longiflora_Hickey_Hickey_6366.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Cuphea_longiflora_Hickey_Hickey_6366.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Cuphea_longiflora_Hickey_Hickey_6366</div>
                 </div>
             </div>
         </div>

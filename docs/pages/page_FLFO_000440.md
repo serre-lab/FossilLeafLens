@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_floridanum_Hickey_Hickey_3745</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Asteraceae/Asteraceae_Clappia_suaedifolia_Hickey_Hickey_6889.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Asteraceae/Asteraceae_Clappia_suaedifolia_Hickey_Hickey_6889.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Asteraceae_Clappia_suaedifolia_Hickey_Hickey_6889</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dialiopsis_africana_Wing_Wing_794-001a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dialiopsis_africana_Wing_Wing_794-001a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Dialiopsis_africana_Wing_Wing_794-001a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Chamaesyce_capitellata_Hickey_Hickey_1226_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Chamaesyce_capitellata_Hickey_Hickey_1226_1.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Euphorbiaceae_Chamaesyce_capitellata_Hickey_Hickey_1226_1</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_floridanum_Hickey_Hickey_3745</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Orites_lancifolia_Wolfe_Wolfe_6905.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Orites_lancifolia_Wolfe_Wolfe_6905.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Proteaceae_Orites_lancifolia_Wolfe_Wolfe_6905</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dodonaea_boroniifolia_Wing_Wing_784-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dodonaea_boroniifolia_Wing_Wing_784-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Dodonaea_boroniifolia_Wing_Wing_784-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Cuphea_ericoidea_Wing_Wing_853-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Cuphea_ericoidea_Wing_Wing_853-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Cuphea_ericoidea_Wing_Wing_853-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cubilia_cubili_Wing_Wing_810-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cubilia_cubili_Wing_Wing_810-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Cubilia_cubili_Wing_Wing_810-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Thouinidium_decandrum_Wing_Wing_628-001a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Thouinidium_decandrum_Wing_Wing_628-001a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Thouinidium_decandrum_Wing_Wing_628-001a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_floridanum_Hickey_Hickey_3745</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_floridanum_Hickey_Hickey_3745.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Delavaya_yunnanensis_Wing_Wing_807-001b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_floridanum_Hickey_Hickey_3745</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Dilodendron_sipinnetum_Hickey_Hickey_1970</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Erioglossum_rubiginosum_Wing_Wing_641-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Cossinia_triphylla_Wing_Wing_778-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Atalaya_hemiglauca_Wing_Wing_626-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Atalaya_hemiglauca_Wing_Wing_626-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Atalaya_hemiglauca_Wing_Wing_626-002</div>
                 </div>
             </div>
         </div>

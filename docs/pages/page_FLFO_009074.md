@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Pieris_formosa_Wing_Wing_406-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_reticulatum_Wolfe_Wolfe_10540.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_reticulatum_Wolfe_Wolfe_10540.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Piliostigma_reticulatum_Wolfe_Wolfe_10540</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Pieris_formosa_Wing_Wing_406-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_aria_Hickey_Hickey_3718.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_aria_Hickey_Hickey_3718.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rosaceae_Sorbus_aria_Hickey_Hickey_3718</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Melanolepis_multiglandulosa_Hickey_Hickey_6230.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Melanolepis_multiglandulosa_Hickey_Hickey_6230.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Euphorbiaceae_Melanolepis_multiglandulosa_Hickey_Hickey_6230</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ranunculaceae/Ranunculaceae_Clematis_reticulata_Wolfe_Wolfe_1463a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ranunculaceae/Ranunculaceae_Clematis_reticulata_Wolfe_Wolfe_1463a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ranunculaceae_Clematis_reticulata_Wolfe_Wolfe_1463a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_sinensis_Wing_Wing_956-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_sinensis_Wing_Wing_956-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hamamelidaceae_Corylopsis_sinensis_Wing_Wing_956-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Achariaceae/Achariaceae_Carpotroche_platyptera_Hickey_Hickey_960c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Achariaceae/Achariaceae_Carpotroche_platyptera_Hickey_Hickey_960c.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Achariaceae_Carpotroche_platyptera_Hickey_Hickey_960c</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Harpullia_arborea_Wing_Wing_799-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Harpullia_arborea_Wing_Wing_799-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Harpullia_arborea_Wing_Wing_799-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Pieris_formosa_Wing_Wing_406-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Nelsonia_campestris_Hickey_Hickey_1281.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Nelsonia_campestris_Hickey_Hickey_1281.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Acanthaceae_Nelsonia_campestris_Hickey_Hickey_1281</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phrymaceae/Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Pieris_formosa_Wing_Wing_406-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Phrymaceae_Phryma_leptostachya_Hickey_Hickey_8081_1</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Phyllanthaceae/Phyllanthaceae_Baccaurea_motleyana_NMNS_T1527.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_formosa_Wing_Wing_406-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hamamelidaceae_Corylopsis_spicata_Wing_Wing_957-004</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Curatella_americana_Hickey_Hickey_850b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Curatella_americana_Hickey_Hickey_850b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dilleniaceae_Curatella_americana_Hickey_Hickey_850b</div>
                 </div>
             </div>
         </div>

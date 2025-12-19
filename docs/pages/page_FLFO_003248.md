@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Tilia_americana_Wolfe_Wolfe_7734</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Pericampylus_glaucus_Wolfe_Wolfe_244.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Pericampylus_glaucus_Wolfe_Wolfe_244.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Menispermaceae_Pericampylus_glaucus_Wolfe_Wolfe_244</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_americana_Wolfe_Wolfe_7734</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Dombeya_cincinnata_Wolfe_Wolfe_11398.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Dombeya_cincinnata_Wolfe_Wolfe_11398.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Dombeya_cincinnata_Wolfe_Wolfe_11398</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Exbucklandia_tricuspis_Wolfe_Wolfe_363.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Exbucklandia_tricuspis_Wolfe_Wolfe_363.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hamamelidaceae_Exbucklandia_tricuspis_Wolfe_Wolfe_363</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Lamium_purpureum_Hickey_Hickey_8072_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Lamium_purpureum_Hickey_Hickey_8072_1.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lamiaceae_Lamium_purpureum_Hickey_Hickey_8072_1</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_acracantha_Wing_Wing_585-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_acracantha_Wing_Wing_585-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Triumfetta_acracantha_Wing_Wing_585-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cyclea_merrillii_Wolfe_Wolfe_4036.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cyclea_merrillii_Wolfe_Wolfe_4036.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Menispermaceae_Cyclea_merrillii_Wolfe_Wolfe_4036</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_amurensis_Wolfe_Wolfe_434.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_amurensis_Wolfe_Wolfe_434.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Tilia_amurensis_Wolfe_Wolfe_434</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_americana_Wolfe_Wolfe_7734</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_3656.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_3656.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_3656</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_americana_Wolfe_Wolfe_7734</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Piliostigma_thonningii_Wolfe_Wolfe_9929</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Toricellia_tiliifolia_Wolfe_Wolfe_4722</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_dasystyla_Wolfe_Wolfe_16075a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Sparmannia_ricinocarpa_Wolfe_Wolfe_3614</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_americana_Wolfe_Wolfe_7734.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Cissampelos_pareira_Wolfe_Wolfe_14991b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_glaucescens_Wolfe_Wolfe_5800.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_glaucescens_Wolfe_Wolfe_5800.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Menispermaceae_Diploclisia_glaucescens_Wolfe_Wolfe_5800</div>
                 </div>
             </div>
         </div>

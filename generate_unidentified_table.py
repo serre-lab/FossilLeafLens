@@ -1,4 +1,24 @@
 import json
+import os
+
+def load_na_fossils(na_fossils_dir="NA_fossils"):
+    """Load all fossils marked as 'Not Applicable' from JSON files."""
+    na_fossils_dict = set()
+    
+    def aggregate_data(data):
+        for specimen in data:
+            if specimen.get("User Selection") == "Not Applicable":
+                na_fossils_dict.add(specimen["Fossil Name"])
+    
+    if os.path.exists(na_fossils_dir):
+        for file_name in os.listdir(na_fossils_dir):
+            with open(os.path.join(na_fossils_dir, file_name), "r") as file:
+                data = json.load(file)
+                aggregate_data(data)
+    
+    return na_fossils_dict
+
+na_fossils_dict = load_na_fossils()
 
 IMAGE_URL = "https://storage.googleapis.com/serrelab/prj_fossils/2024/Unidentified/{}.jpg"
 UNKNOWN_IMAGE_URL = "https://storage.googleapis.com/serrelab/fossil_lens/inference_concepts2/{}/image.jpg"
@@ -361,65 +381,59 @@ html_template = """
 """
 
 
+# Load prediction data
 with open("image2_predictions.json", 'r') as file:
     unknown_image_predictions = json.load(file)
 
-
 with open("unidentified_fossil_predictions.json", 'r') as file:
-    image_predictions = json.load(file)
+    unidentified_image_predictions = json.load(file)
 
-
-
-# Generate table rows dynamically
-table_rows = ""
-
-for index, (key, value) in enumerate(unknown_image_predictions.items(), start=1):
-    predictions_html = ", ".join([f'<a href="https://fel-thomas.github.io/Leaf-Lens/classes/{p}/" target="_blank">{p}</a>' for p in value])
-    row = f"""
+def generate_table_row(key, predictions, image_url, row_index):
+    """Generate a single table row for a fossil specimen."""
+    predictions_html = ", ".join([
+        f'<a href="https://fel-thomas.github.io/Leaf-Lens/classes/{p}/" target="_blank">{p}</a>'
+        for p in predictions
+    ])
+    
+    return f"""
         <tr>
-            <td class="serial-number">{index}</td>
+            <td class="serial-number">{row_index}</td>
             <td class="fossil-name"><a href="https://serre-lab.github.io/FossilLeafLens/pages/page_{key}/" target="_blank">{key}</a></td>
-            <td class="fossil-image"><img src="{UNKNOWN_IMAGE_URL.format(key)}" alt="Fossil Image"></td>
+            <td class="fossil-image"><img src="{image_url.format(key)}" alt="Fossil Image"></td>
             <td><div class="predictions">{predictions_html}</div></td>
             <td>
                 <div class="radio-group">
-                    <label><input type="radio" name="row{index}" value="Plausible"> Plausible</label>
-                    <label><input type="radio" name="row{index}" value="Impossible"> Impossible</label>
-                    <label><input type="radio" name="row{index}" value="Not Sure"> Not Sure</label>
-                    <label><input type="radio" name="row{index}" value="Not Applicable"> Not Applicable</label>
+                    <label><input type="radio" name="row{row_index}" value="Plausible"> Plausible</label>
+                    <label><input type="radio" name="row{row_index}" value="Impossible"> Impossible</label>
+                    <label><input type="radio" name="row{row_index}" value="Not Sure"> Not Sure</label>
+                    <label><input type="radio" name="row{row_index}" value="Not Applicable"> Not Applicable</label>
                 </div>
             </td>
         </tr>
-        """
-
-    table_rows += row
-total_unknown_images = len(unknown_image_predictions)
-for index, (key, value) in enumerate(image_predictions.items(), start=1):
-    index = total_unknown_images + index
-    predictions_html = ", ".join([f'<a href="https://fel-thomas.github.io/Leaf-Lens/classes/{p}/" target="_blank">{p}</a>' for p in value])
-    row = f"""
-    <tr>
-        <td class="serial-number">{index}</td>
-        <td class="fossil-name"><a href="https://serre-lab.github.io/FossilLeafLens/pages/page_{key}/" target="_blank">{key}</a></td>
-        <td class="fossil-image"><img src="{IMAGE_URL.format(key)}" alt="Fossil Image"></td>
-        <td><div class="predictions">{predictions_html}</div></td>
-        <td>
-            <div class="radio-group">
-                <label><input type="radio" name="row{index}" value="Plausible"> Plausible</label>
-                <label><input type="radio" name="row{index}" value="Impossible"> Impossible</label>
-                <label><input type="radio" name="row{index}" value="Not Sure"> Not Sure</label>
-                <label><input type="radio" name="row{index}" value="Not Applicable"> Not Applicable</label>
-            </div>
-        </td>
-    </tr>
     """
-    table_rows += row
 
-# Create the final HTML file
+# Generate table rows dynamically
+table_rows = ""
+row_index = 0
+
+# Process unknown images
+for key, predictions in unknown_image_predictions.items():
+    if key not in na_fossils_dict:
+        row_index += 1
+        table_rows += generate_table_row(key, predictions, UNKNOWN_IMAGE_URL, row_index)
+
+# Process unidentified images
+for key, predictions in unidentified_image_predictions.items():
+    if key not in na_fossils_dict:
+        row_index += 1
+        table_rows += generate_table_row(key, predictions, IMAGE_URL, row_index)
+
+# Generate and save the HTML file
 html_content = html_template.format(table_rows=table_rows)
+output_path = "./docs/unidentified_table.md"
 
-# Save to an HTML file
-with open("./docs/unidentified_table.md", "w") as f:
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+with open(output_path, "w") as f:
     f.write(html_content)
 
-print("HTML file generated: unidentified_table.md")
+print(f"HTML file generated: {output_path}")

@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_hainanensis_Hickey_Hickey_4955.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_hainanensis_Hickey_Hickey_4955.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Rhamnus_hainanensis_Hickey_Hickey_4955</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_formosana_Hickey_Hickey_635.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_formosana_Hickey_Hickey_635.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Castanopsis_formosana_Hickey_Hickey_635</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_californica_Hickey_Hickey_4859.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_californica_Hickey_Hickey_4859.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Rhamnus_californica_Hickey_Hickey_4859</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Viburnum_luzonicum_Hickey_Hickey_1369.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Viburnum_luzonicum_Hickey_Hickey_1369.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Viburnaceae_Viburnum_luzonicum_Hickey_Hickey_1369</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Prunus_hypoleuca_NMNS_U1157.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Prunus_hypoleuca_NMNS_U1157.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rosaceae_Prunus_hypoleuca_NMNS_U1157</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_maritima_Hickey_Hickey_5388.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_maritima_Hickey_Hickey_5388.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Alnus_maritima_Hickey_Hickey_5388</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Hopea_jacunda_Hickey_Hickey_1562.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Hopea_jacunda_Hickey_Hickey_1562.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Dipterocarpaceae_Hopea_jacunda_Hickey_Hickey_1562</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_sinensis_Hickey_Hickey_6476.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_sinensis_Hickey_Hickey_6476.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Hamamelidaceae_Corylopsis_sinensis_Hickey_Hickey_6476</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_formosana_Hickey_Hickey_4952.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_formosana_Hickey_Hickey_4952.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Rhamnus_formosana_Hickey_Hickey_4952</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Shorea_oblongifolia_Hickey_Hickey_4644.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Shorea_oblongifolia_Hickey_Hickey_4644.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Dipterocarpaceae_Shorea_oblongifolia_Hickey_Hickey_4644</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pictum_NMNS_T0177.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pictum_NMNS_T0177.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_pictum_NMNS_T0177</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_caroliniana_Hickey_Hickey_8053_3.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_caroliniana_Hickey_Hickey_8053_3.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Rhamnus_caroliniana_Hickey_Hickey_8053_3</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Colubrina_glandulosa_Hickey_Hickey_5192.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Colubrina_glandulosa_Hickey_Hickey_5192.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Colubrina_glandulosa_Hickey_Hickey_5192</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Phoebe_mexicana_Wolfe_Wolfe_14946b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Phoebe_mexicana_Wolfe_Wolfe_14946b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lauraceae_Phoebe_mexicana_Wolfe_Wolfe_14946b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_hintonii_Hickey_Hickey_4874.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_hintonii_Hickey_Hickey_4874.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rhamnaceae_Rhamnus_hintonii_Hickey_Hickey_4874</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Cosmocalyx_spectabilis_Hickey_Hickey_4707.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Cosmocalyx_spectabilis_Hickey_Hickey_4707.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Cosmocalyx_spectabilis_Hickey_Hickey_4707</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Sageretia_henryi_Hickey_Hickey_4839.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Sageretia_henryi_Hickey_Hickey_4839.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Sageretia_henryi_Hickey_Hickey_4839</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhamnifolia_Hickey_Hickey_5412.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhamnifolia_Hickey_Hickey_5412.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Grewia_rhamnifolia_Hickey_Hickey_5412</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Waltheria_communis_Hickey_Hickey_5593.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Waltheria_communis_Hickey_Hickey_5593.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Waltheria_communis_Hickey_Hickey_5593</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Alphitonia_philippinensis_Hickey_Hickey_5197.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Alphitonia_philippinensis_Hickey_Hickey_5197.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Alphitonia_philippinensis_Hickey_Hickey_5197</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_goudotiana_Hickey_Hickey_4885.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_goudotiana_Hickey_Hickey_4885.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Rhamnus_goudotiana_Hickey_Hickey_4885</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Gouania_cornifolia_Hickey_Hickey_5317.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Gouania_cornifolia_Hickey_Hickey_5317.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Gouania_cornifolia_Hickey_Hickey_5317</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_willmottiae_Wing_Wing_959-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_willmottiae_Wing_Wing_959-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hamamelidaceae_Corylopsis_willmottiae_Wing_Wing_959-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Gouania_rumicina_Hickey_Hickey_5321.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Gouania_rumicina_Hickey_Hickey_5321.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Gouania_rumicina_Hickey_Hickey_5321</div>
                 </div>
             </div>
         </div>

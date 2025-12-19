@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Juglans_californica_Axelrod_Axelrod_544</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Carya_aquatica_NMNS_T1897</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_californica_Axelrod_Axelrod_544</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Adenochlaena_silhetiana_Wolfe_Wolfe_2930.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Adenochlaena_silhetiana_Wolfe_Wolfe_2930.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Euphorbiaceae_Adenochlaena_silhetiana_Wolfe_Wolfe_2930</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Boraginaceae/Boraginaceae_Eriodictyon_crassifolium_Axelrod_Axelrod_323.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Boraginaceae/Boraginaceae_Eriodictyon_crassifolium_Axelrod_Axelrod_323.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Boraginaceae_Eriodictyon_crassifolium_Axelrod_Axelrod_323</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_oblongifolia_NMNS_T2682.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_oblongifolia_NMNS_T2682.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Quercus_oblongifolia_NMNS_T2682</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Carya_aquatica_NMNS_T1897</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_tomentosa_Hickey_Hickey_556.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_tomentosa_Hickey_Hickey_556.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Juglandaceae_Carya_tomentosa_Hickey_Hickey_556</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pentaphylacaceae/Pentaphylacaceae_Eurya_glandulosa_Wolfe_Wolfe_10955.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pentaphylacaceae/Pentaphylacaceae_Eurya_glandulosa_Wolfe_Wolfe_10955.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Pentaphylacaceae_Eurya_glandulosa_Wolfe_Wolfe_10955</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_myristicaeformis_Hickey_Hickey_557.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_myristicaeformis_Hickey_Hickey_557.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Juglandaceae_Carya_myristicaeformis_Hickey_Hickey_557</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_californica_Axelrod_Axelrod_544</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_274.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_274.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Juglandaceae_Juglans_californica_Axelrod_Axelrod_274</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Moraceae/Moraceae_Maclura_pomifera_Wolfe_Wolfe_1039b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Moraceae/Moraceae_Maclura_pomifera_Wolfe_Wolfe_1039b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Moraceae_Maclura_pomifera_Wolfe_Wolfe_1039b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Carya_aquatica_NMNS_T1897</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_californica_Axelrod_Axelrod_544</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Carya_aquatica_NMNS_T1897.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Rhoiptelea_chiliantha_Hickey_Hickey_804_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Carya_aquatica_NMNS_T1897</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_californica_Axelrod_Axelrod_544.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Alfaroa_costaricensis_Hickey_Hickey_342</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_mexicana_Wolfe_Wolfe_2603.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Pterocarya_fraxinifolia_Wolfe_Wolfe_1137a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_manningii_Hickey_Hickey_343.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Alfaroa_manningii_Hickey_Hickey_343.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Juglandaceae_Alfaroa_manningii_Hickey_Hickey_343</div>
                 </div>
             </div>
         </div>

@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Clerodendrum_trichotomum_NMNS_T0608.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Clerodendrum_trichotomum_NMNS_T0608.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lamiaceae_Clerodendrum_trichotomum_NMNS_T0608</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_alba_Hickey_Hickey_145.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_alba_Hickey_Hickey_145.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_alba_Hickey_Hickey_145</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Cornus_darvasica_NMNS_U1451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Cornus_darvasica_NMNS_U1451.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cornaceae_Cornus_darvasica_NMNS_U1451</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Croton_tiglium_NMNS_T2506.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Croton_tiglium_NMNS_T2506.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Euphorbiaceae_Croton_tiglium_NMNS_T2506</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Humboldtia_laurifolia_NMNS_U1369.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Humboldtia_laurifolia_NMNS_U1369.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Humboldtia_laurifolia_NMNS_U1369</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Solanaceae/Solanaceae_Physalis_barbadensis_Hickey_Hickey_1618.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Solanaceae/Solanaceae_Physalis_barbadensis_Hickey_Hickey_1618.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Solanaceae_Physalis_barbadensis_Hickey_Hickey_1618</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_balsamifera_NMNS_T1826.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_balsamifera_NMNS_T1826.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Salicaceae_Populus_balsamifera_NMNS_T1826</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Styrax_officinalis_Axelrod_Axelrod_560.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Styrax_officinalis_Axelrod_Axelrod_560.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Styracaceae_Styrax_officinalis_Axelrod_Axelrod_560</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cannabaceae/Cannabaceae_Trema_micrantha_NMNS_T2233.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cannabaceae/Cannabaceae_Trema_micrantha_NMNS_T2233.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cannabaceae_Trema_micrantha_NMNS_T2233</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_ruscifolia_NMNS_U1512.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_ruscifolia_NMNS_U1512.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Coriariaceae_Coriaria_ruscifolia_NMNS_U1512</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_lurida_NMNS_UC-13.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_lurida_NMNS_UC-13.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Coriariaceae_Coriaria_lurida_NMNS_UC-13</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_ruscifolia_NMNS_U1511.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_ruscifolia_NMNS_U1511.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Coriariaceae_Coriaria_ruscifolia_NMNS_U1511</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_sideroxyla_NMNS_T2735.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_sideroxyla_NMNS_T2735.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_sideroxyla_NMNS_T2735</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Litsea_magnifolia_Hickey_Hickey_743.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Litsea_magnifolia_Hickey_Hickey_743.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lauraceae_Litsea_magnifolia_Hickey_Hickey_743</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Halesia_diptera_NMNS_T1684.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Halesia_diptera_NMNS_T1684.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Styracaceae_Halesia_diptera_NMNS_T1684</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Styrax_obassia_NMNS_T0077-2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Styrax_obassia_NMNS_T0077-2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Styracaceae_Styrax_obassia_NMNS_T0077-2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Styrax_obassia_NMNS_T0077-1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Styracaceae/Styracaceae_Styrax_obassia_NMNS_T0077-1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Styracaceae_Styrax_obassia_NMNS_T0077-1</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Icacinaceae/Icacinaceae_Mappia_nimmoniana_NMNS_U0690.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Icacinaceae/Icacinaceae_Mappia_nimmoniana_NMNS_U0690.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Icacinaceae_Mappia_nimmoniana_NMNS_U0690</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_parvifolia_NMNS_T0144.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Rhamnus_parvifolia_NMNS_T0144.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Rhamnus_parvifolia_NMNS_T0144</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Viburnum_opulus_NMNS_T0870.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Viburnum_opulus_NMNS_T0870.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Viburnaceae_Viburnum_opulus_NMNS_T0870</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Cornus_sericea_NMNS_T1407.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Cornus_sericea_NMNS_T1407.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Cornus_sericea_NMNS_T1407</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Boraginaceae/Boraginaceae_Cordia_tetrandra_NMNS_T1584.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Boraginaceae/Boraginaceae_Cordia_tetrandra_NMNS_T1584.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Boraginaceae_Cordia_tetrandra_NMNS_T1584</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_chrysophylla_Axelrod_Axelrod_280.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Castanopsis_chrysophylla_Axelrod_Axelrod_280.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Castanopsis_chrysophylla_Axelrod_Axelrod_280</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Piper_sp_NMNS_U0605.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Piperaceae/Piperaceae_Piper_sp_NMNS_U0605.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Piperaceae_Piper_sp_NMNS_U0605</div>
                 </div>
             </div>
         </div>

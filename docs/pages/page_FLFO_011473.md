@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Zelkova_serrata_NMNS_U1112</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rosaceae_Sorbus_californica_Hickey_Hickey_3726</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_falcata_Hickey_Hickey_4244.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_falcata_Hickey_Hickey_4244.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Calliandra_falcata_Hickey_Hickey_4244</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Aquifoliaceae/Aquifoliaceae_Ilex_liukiuensis_NMNS_T0568.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Aquifoliaceae/Aquifoliaceae_Ilex_liukiuensis_NMNS_T0568.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Aquifoliaceae_Ilex_liukiuensis_NMNS_T0568</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Reevesia_thyrsoidea_Axelrod_Axelrod_784.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Reevesia_thyrsoidea_Axelrod_Axelrod_784.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Reevesia_thyrsoidea_Axelrod_Axelrod_784</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ulmaceae_Zelkova_serrata_NMNS_U1112</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhizophoraceae/Rhizophoraceae_Cassipourea_congoensis_Wolfe_Wolfe_14393b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhizophoraceae/Rhizophoraceae_Cassipourea_congoensis_Wolfe_Wolfe_14393b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhizophoraceae_Cassipourea_congoensis_Wolfe_Wolfe_14393b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Putranjivaceae/Putranjivaceae_Drypetes_indica_NMNS_T1140.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Putranjivaceae/Putranjivaceae_Drypetes_indica_NMNS_T1140.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Putranjivaceae_Drypetes_indica_NMNS_T1140</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Sorbus_californica_Hickey_Hickey_3726</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pseudomachaerium_rojasianum_Wolfe_Wolfe_9951.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pseudomachaerium_rojasianum_Wolfe_Wolfe_9951.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Pseudomachaerium_rojasianum_Wolfe_Wolfe_9951</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_falcata_Hickey_Hickey_4244.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_falcata_Hickey_Hickey_4244.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_falcata_Hickey_Hickey_4244</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Bignoniaceae/Bignoniaceae_Parmentiera_cereifera_NMNS_T1734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Bignoniaceae/Bignoniaceae_Parmentiera_cereifera_NMNS_T1734.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Bignoniaceae_Parmentiera_cereifera_NMNS_T1734</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Cameraria_latifolia_Wolfe_Wolfe_5506.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Cameraria_latifolia_Wolfe_Wolfe_5506.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Apocynaceae_Cameraria_latifolia_Wolfe_Wolfe_5506</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Caesalpinia_yucatanensis_Wolfe_Wolfe_15690b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Caesalpinia_yucatanensis_Wolfe_Wolfe_15690b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Caesalpinia_yucatanensis_Wolfe_Wolfe_15690b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ulmaceae_Zelkova_serrata_NMNS_U1112</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Sorbus_californica_Hickey_Hickey_3726</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_falcata_Hickey_Hickey_4244</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Zelkova_serrata_NMNS_U1112.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_californica_Hickey_Hickey_3726.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ulmaceae_Zelkova_serrata_NMNS_U1112</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_falcata_Hickey_Hickey_4244.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_falcata_Hickey_Hickey_4244.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Dilleniaceae_Hibbertia_linearis_Hickey_Hickey_893</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_wislizeni_Wolfe_Wolfe_15764a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Sorbus_californica_Hickey_Hickey_3726</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_oxyphyllus_Wolfe_Wolfe_13553.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_falcata_Hickey_Hickey_4244</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Lyonothamnus_floribundus_Hickey_Hickey_1084.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Lyonothamnus_floribundus_Hickey_Hickey_1084.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rosaceae_Lyonothamnus_floribundus_Hickey_Hickey_1084</div>
                 </div>
             </div>
         </div>

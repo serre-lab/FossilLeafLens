@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Oleaceae_Fraxinus_chinensis_NMNS_T1225</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Oleaceae_Fraxinus_chinensis_NMNS_T1225</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_NMNS_U1139.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_NMNS_U1139.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Salicaceae_Populus_trichocarpa_NMNS_U1139</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Litsea_coreana_NMNS_U1298.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Litsea_coreana_NMNS_U1298.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lauraceae_Litsea_coreana_NMNS_U1298</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_pumila_Wolfe_Wolfe_1330a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_pumila_Wolfe_Wolfe_1330a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ulmaceae_Ulmus_pumila_Wolfe_Wolfe_1330a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Persea_sp_Axelrod_Axelrod_779.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Persea_sp_Axelrod_Axelrod_779.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lauraceae_Persea_sp_Axelrod_Axelrod_779</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Thymelaeaceae/Thymelaeaceae_Lethedon_balansae_Wolfe_Wolfe_2793.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Thymelaeaceae/Thymelaeaceae_Lethedon_balansae_Wolfe_Wolfe_2793.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Thymelaeaceae_Lethedon_balansae_Wolfe_Wolfe_2793</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Dewevrea_bilabiata_Wolfe_Wolfe_5221a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Oleaceae_Fraxinus_chinensis_NMNS_T1225</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_pendula_NMNS_T1649.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_pendula_NMNS_T1649.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Betulaceae_Betula_pendula_NMNS_T1649</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Tofieldiaceae/Tofieldiaceae_Tofieldia_glutinosa_Hickey_Hickey_8091_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Tofieldiaceae/Tofieldiaceae_Tofieldia_glutinosa_Hickey_Hickey_8091_1.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Tofieldiaceae_Tofieldia_glutinosa_Hickey_Hickey_8091_1</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Oleaceae_Fraxinus_chinensis_NMNS_T1225</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_trichocarpa_Wolfe_Wolfe_1324</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Memecylon_floribundum_Hickey_Hickey_2115a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oleaceae/Oleaceae_Fraxinus_chinensis_NMNS_T1225.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lamiaceae_Premna_glandulifera_Wolfe_Wolfe_2163b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Majidea_zanguebarica_Wing_Wing_801-003a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_trichocarpa_Axelrod_Axelrod_461</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_rockii_Wolfe_Wolfe_8652a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_rockii_Wolfe_Wolfe_8652a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rosaceae_Malus_rockii_Wolfe_Wolfe_8652a</div>
                 </div>
             </div>
         </div>

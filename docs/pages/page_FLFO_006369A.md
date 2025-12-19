@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Capparaceae_Capparis_micrantha_NMNS_T0353</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Pachira_insignis_NMNS_U0763</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Passifloraceae_Passiflora_laurifolia_NMNS_T2445</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Capparaceae_Capparis_micrantha_NMNS_T0353</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Canavalia_lineata_NMNS_T0908.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Canavalia_lineata_NMNS_T0908.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Canavalia_lineata_NMNS_T0908</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Passifloraceae_Passiflora_murueuja_Hickey_Hickey_1938_2</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Pachira_insignis_NMNS_U0763</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cannabaceae/Cannabaceae_Trema_micrantha_NMNS_T2233.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cannabaceae/Cannabaceae_Trema_micrantha_NMNS_T2233.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Cannabaceae_Trema_micrantha_NMNS_T2233</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Vaccinium_uliginosum_NMNS_U0694.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Vaccinium_uliginosum_NMNS_U0694.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Vaccinium_uliginosum_NMNS_U0694</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_laurifolia_NMNS_T2445</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Sarcomphalus_crenatus_Hickey_Hickey_4803.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Sarcomphalus_crenatus_Hickey_Hickey_4803.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhamnaceae_Sarcomphalus_crenatus_Hickey_Hickey_4803</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_14449.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_14449.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_14449</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Capparaceae_Capparis_micrantha_NMNS_T0353</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Corylus_cornuta_Axelrod_Axelrod_182.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Corylus_cornuta_Axelrod_Axelrod_182.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Betulaceae_Corylus_cornuta_Axelrod_Axelrod_182</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_coccinea_NMNS_T1524.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Ixora_coccinea_NMNS_T1524.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Ixora_coccinea_NMNS_T1524</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Pachira_insignis_NMNS_U0763</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_laurifolia_NMNS_T2445</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pachira_insignis_NMNS_U0763.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Capparaceae_Capparis_micrantha_NMNS_T0353</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Passiflora_laurifolia_NMNS_T2445.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Pachira_insignis_NMNS_U0763</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hydrangeaceae_Hydrangea_paniculata_NMNS_U0941</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Capparaceae/Capparaceae_Capparis_micrantha_NMNS_T0353.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Passiflora_laurifolia_NMNS_T2445</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Irvingiaceae/Irvingiaceae_Klainedoxa_grandifolia_Wolfe_Wolfe_4807a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Berberidaceae_Caulophyllum_thalictroides_Hickey_Hickey_8062_2</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Icacinaceae/Icacinaceae_Mappia_nimmoniana_NMNS_U0690.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Icacinaceae/Icacinaceae_Mappia_nimmoniana_NMNS_U0690.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Icacinaceae_Mappia_nimmoniana_NMNS_U0690</div>
                 </div>
             </div>
         </div>

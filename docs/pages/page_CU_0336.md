@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Vaccinium_membranaceum_Axelrod_Axelrod_359.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Vaccinium_membranaceum_Axelrod_Axelrod_359.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Vaccinium_membranaceum_Axelrod_Axelrod_359</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_serrulatum_NMNS_U0500.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_serrulatum_NMNS_U0500.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_serrulatum_NMNS_U0500</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Styphnolobium_affine_Axelrod_Axelrod_336.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Styphnolobium_affine_Axelrod_Axelrod_336.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Styphnolobium_affine_Axelrod_Axelrod_336</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Athyana_weinmannifolia_Wing_Wing_616-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Athyana_weinmannifolia_Wing_Wing_616-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Athyana_weinmannifolia_Wing_Wing_616-002</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Alectryon_excelsum_Wolfe_Wolfe_838a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Alectryon_excelsum_Wolfe_Wolfe_838a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Alectryon_excelsum_Wolfe_Wolfe_838a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Serjania_cuspidata_Wing_Wing_599-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Serjania_cuspidata_Wing_Wing_599-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Serjania_cuspidata_Wing_Wing_599-002</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_hyrcanum_NMNS_T0167.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_hyrcanum_NMNS_T0167.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_hyrcanum_NMNS_T0167</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Thouinia_villosa_Wing_Wing_619-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Thouinia_villosa_Wing_Wing_619-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Thouinia_villosa_Wing_Wing_619-002</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Macphersonia_hildebrandtii_Wing_Wing_672-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Macphersonia_hildebrandtii_Wing_Wing_672-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Macphersonia_hildebrandtii_Wing_Wing_672-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Osmaronia_cerasiformis_Axelrod_Axelrod_17.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Osmaronia_cerasiformis_Axelrod_Axelrod_17.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rosaceae_Osmaronia_cerasiformis_Axelrod_Axelrod_17</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepisanthes_erecta_Wing_Wing_643-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Lepisanthes_erecta_Wing_Wing_643-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Lepisanthes_erecta_Wing_Wing_643-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Craibiodendron_yunnanense_Wing_Wing_395-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Craibiodendron_yunnanense_Wing_Wing_395-003.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Craibiodendron_yunnanense_Wing_Wing_395-003</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Kalmia_augustifolia_Wing_Wing_375-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Kalmia_augustifolia_Wing_Wing_375-003.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Kalmia_augustifolia_Wing_Wing_375-003</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Calliandra_portoricensis_Hickey_Hickey_4101</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dialiopsis_africana_Wing_Wing_794-001a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Dialiopsis_africana_Wing_Wing_794-001a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Dialiopsis_africana_Wing_Wing_794-001a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Polemoniaceae/Polemoniaceae_Phlox_mesoleuca_Hickey_Hickey_1454.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Polemoniaceae/Polemoniaceae_Phlox_mesoleuca_Hickey_Hickey_1454.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Polemoniaceae_Phlox_mesoleuca_Hickey_Hickey_1454</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Arfeuillea_arborescens_Wing_Wing_803-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Arfeuillea_arborescens_Wing_Wing_803-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Arfeuillea_arborescens_Wing_Wing_803-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Phyllodoce_aleutica_Axelrod_Axelrod_753.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Phyllodoce_aleutica_Axelrod_Axelrod_753.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Phyllodoce_aleutica_Axelrod_Axelrod_753</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Thouinidium_decandrum_Wing_Wing_628-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Thouinidium_decandrum_Wing_Wing_628-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Thouinidium_decandrum_Wing_Wing_628-003</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Platanaceae/Platanaceae_Platanus_acerifolia_Hickey_Hickey_6614.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Platanaceae/Platanaceae_Platanus_acerifolia_Hickey_Hickey_6614.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Platanaceae_Platanus_acerifolia_Hickey_Hickey_6614</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_maximowiczianum_NMNS_U0276.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_maximowiczianum_NMNS_U0276.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_maximowiczianum_NMNS_U0276</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Xylosma_flexuosum_Axelrod_Axelrod_954.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Xylosma_flexuosum_Axelrod_Axelrod_954.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Xylosma_flexuosum_Axelrod_Axelrod_954</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_orientale_Wolfe_Wolfe_9624.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_orientale_Wolfe_Wolfe_9624.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_orientale_Wolfe_Wolfe_9624</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Heterodendron_diversifolium_Wing_Wing_689-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Heterodendron_diversifolium_Wing_Wing_689-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Heterodendron_diversifolium_Wing_Wing_689-002</div>
                 </div>
             </div>
         </div>

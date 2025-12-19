@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Engelhardia_serrata_NMNS_T2121.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Engelhardia_serrata_NMNS_T2121.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Engelhardia_serrata_NMNS_T2121</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_occidentalis_NMNS_T1513.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_occidentalis_NMNS_T1513.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Senna_occidentalis_NMNS_T1513</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_utilis_NMNS_T0157.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_utilis_NMNS_T0157.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Betula_utilis_NMNS_T0157</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_davurica_NMNS_U0754.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_davurica_NMNS_U0754.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Betula_davurica_NMNS_U0754</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Melia_azedarach_Wolfe_Wolfe_878b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Melia_azedarach_Wolfe_Wolfe_878b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Meliaceae_Melia_azedarach_Wolfe_Wolfe_878b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_ermanii_NMNS_U0487.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_ermanii_NMNS_U0487.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Betula_ermanii_NMNS_U0487</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dirachmaceae/Dirachmaceae_Dirachma_socotrana_Wolfe_Wolfe_8373.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dirachmaceae/Dirachmaceae_Dirachma_socotrana_Wolfe_Wolfe_8373.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Dirachmaceae_Dirachma_socotrana_Wolfe_Wolfe_8373</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Ostrya_carpinifolia_NMNS_U4300.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Ostrya_carpinifolia_NMNS_U4300.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Ostrya_carpinifolia_NMNS_U4300</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_gunnii_NMNS_T1954.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_gunnii_NMNS_T1954.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Nothofagaceae_Nothofagus_gunnii_NMNS_T1954</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pectinatum_NMNS_T0885.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pectinatum_NMNS_T0885.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_pectinatum_NMNS_T0885</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_maximowiczii_Wolfe_Wolfe_974.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_maximowiczii_Wolfe_Wolfe_974.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Alnus_maximowiczii_Wolfe_Wolfe_974</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_alpina_NMNS_T1968.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_alpina_NMNS_T1968.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Nothofagaceae_Nothofagus_alpina_NMNS_T1968</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Carpinus_viminea_NMNS_T2572.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Carpinus_viminea_NMNS_T2572.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Carpinus_viminea_NMNS_T2572</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Bignoniaceae/Bignoniaceae_Arrabidaea_lundellii_Wolfe_Wolfe_6810.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Bignoniaceae/Bignoniaceae_Arrabidaea_lundellii_Wolfe_Wolfe_6810.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Bignoniaceae_Arrabidaea_lundellii_Wolfe_Wolfe_6810</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Ostrya_knowltonii_NMNS_T2191.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Ostrya_knowltonii_NMNS_T2191.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Ostrya_knowltonii_NMNS_T2191</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_pumilio_NMNS_T1788-1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_pumilio_NMNS_T1788-1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Nothofagaceae_Nothofagus_pumilio_NMNS_T1788-1</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Carpinus_cordata_NMNS_U0498.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Carpinus_cordata_NMNS_U0498.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Carpinus_cordata_NMNS_U0498</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_cremastogyne_Wolfe_Wolfe_964b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_cremastogyne_Wolfe_Wolfe_964b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Alnus_cremastogyne_Wolfe_Wolfe_964b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_ermanii_NMNS_U0091.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_ermanii_NMNS_U0091.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Betula_ermanii_NMNS_U0091</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_tianschanica_NMNS_T2196.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_tianschanica_NMNS_T2196.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Betula_tianschanica_NMNS_T2196</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Toxocarpus_wightianus_Wolfe_Wolfe_2115.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Toxocarpus_wightianus_Wolfe_Wolfe_2115.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Apocynaceae_Toxocarpus_wightianus_Wolfe_Wolfe_2115</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_fontinalis_Axelrod_Axelrod_154.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_fontinalis_Axelrod_Axelrod_154.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Betula_fontinalis_Axelrod_Axelrod_154</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Adenanthera_pavonina_NMNS_T1744.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Adenanthera_pavonina_NMNS_T1744.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Adenanthera_pavonina_NMNS_T1744</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_truncata_NMNS_T1953.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_truncata_NMNS_T1953.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Nothofagaceae_Nothofagus_truncata_NMNS_T1953</div>
                 </div>
             </div>
         </div>

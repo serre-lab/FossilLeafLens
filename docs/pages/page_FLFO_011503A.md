@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Marila_verapazensis_Wolfe_Wolfe_7936.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Marila_verapazensis_Wolfe_Wolfe_7936.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Calophyllaceae_Marila_verapazensis_Wolfe_Wolfe_7936</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Gomphia_angustifolia_Wolfe_Wolfe_3836.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Gomphia_angustifolia_Wolfe_Wolfe_3836.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ochnaceae_Gomphia_angustifolia_Wolfe_Wolfe_3836</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_racemosum_Wolfe_Wolfe_4389.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_racemosum_Wolfe_Wolfe_4389.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Calophyllaceae_Calophyllum_racemosum_Wolfe_Wolfe_4389</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Tetracera_alnifolia_Wolfe_Wolfe_7839b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Tetracera_alnifolia_Wolfe_Wolfe_7839b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dilleniaceae_Tetracera_alnifolia_Wolfe_Wolfe_7839b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Hamamelis_vernalis_Wing_Wing_971-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Hamamelis_vernalis_Wing_Wing_971-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hamamelidaceae_Hamamelis_vernalis_Wing_Wing_971-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Strombosia_grandifolia_Wolfe_Wolfe_5003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Strombosia_grandifolia_Wolfe_Wolfe_5003.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Olacaceae_Strombosia_grandifolia_Wolfe_Wolfe_5003</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Hopea_philippinensis_Wolfe_Wolfe_1660a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Hopea_philippinensis_Wolfe_Wolfe_1660a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dipterocarpaceae_Hopea_philippinensis_Wolfe_Wolfe_1660a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Olacaceae_Coula_edulis_Wolfe_Wolfe_5013c</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Calophyllum_inophyllum_Wolfe_Wolfe_1701</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Mahurea_duckei_Wolfe_Wolfe_11024.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Calophyllaceae_Calophyllum_brasiliense_Wolfe_Wolfe_2580b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Ryania_speciosa_Wolfe_Wolfe_2810.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Dipterocarpaceae_Vatica_mindanensis_Wolfe_Wolfe_1665a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_antillanum_Wolfe_Wolfe_2579.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Calophyllaceae/Calophyllaceae_Calophyllum_antillanum_Wolfe_Wolfe_2579.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Calophyllaceae_Calophyllum_antillanum_Wolfe_Wolfe_2579</div>
                 </div>
             </div>
         </div>

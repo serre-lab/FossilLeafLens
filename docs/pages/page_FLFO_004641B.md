@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Sorindeia_zenkeri_Wolfe_Wolfe_9677.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Sorindeia_zenkeri_Wolfe_Wolfe_9677.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anacardiaceae_Sorindeia_zenkeri_Wolfe_Wolfe_9677</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Drimycarpus_racemosus_Wolfe_Wolfe_8203.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Drimycarpus_racemosus_Wolfe_Wolfe_8203.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anacardiaceae_Drimycarpus_racemosus_Wolfe_Wolfe_8203</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Chonemorpha_grandeareana_Wolfe_Wolfe_8458.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Chonemorpha_grandeareana_Wolfe_Wolfe_8458.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Apocynaceae_Chonemorpha_grandeareana_Wolfe_Wolfe_8458</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Alchornea_ilicifolia_Wolfe_Wolfe_11478.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Alchornea_ilicifolia_Wolfe_Wolfe_11478.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Euphorbiaceae_Alchornea_ilicifolia_Wolfe_Wolfe_11478</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Anacardium_humile_Wolfe_Wolfe_12854.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Anacardium_humile_Wolfe_Wolfe_12854.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anacardiaceae_Anacardium_humile_Wolfe_Wolfe_12854</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Combretaceae/Combretaceae_Terminalia_littoralis_Wolfe_Wolfe_12384.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Combretaceae/Combretaceae_Terminalia_littoralis_Wolfe_Wolfe_12384.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Combretaceae_Terminalia_littoralis_Wolfe_Wolfe_12384</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Allomarkgrafia_tubiflora_Wolfe_Wolfe_7210.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Allomarkgrafia_tubiflora_Wolfe_Wolfe_7210.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Apocynaceae_Allomarkgrafia_tubiflora_Wolfe_Wolfe_7210</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dichapetalaceae/Dichapetalaceae_Stephanopodium_blanchetianum_Wolfe_Wolfe_9563.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dichapetalaceae/Dichapetalaceae_Stephanopodium_blanchetianum_Wolfe_Wolfe_9563.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dichapetalaceae_Stephanopodium_blanchetianum_Wolfe_Wolfe_9563</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Dracontomelon_edule_Wolfe_Wolfe_8183</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Semecarpus_cinerea_Wolfe_Wolfe_8204</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Micronychia_tsiramiramy_Wolfe_Wolfe_12029.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Semecarpus_megabotrys_Wolfe_Wolfe_12867b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Metopium_toxiferum_Wolfe_Wolfe_4222.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Anacardiaceae_Rhus_longipes_Wolfe_Wolfe_12937</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Fegimanra_afzelii_Wolfe_Wolfe_10066.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Fegimanra_afzelii_Wolfe_Wolfe_10066.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anacardiaceae_Fegimanra_afzelii_Wolfe_Wolfe_10066</div>
                 </div>
             </div>
         </div>

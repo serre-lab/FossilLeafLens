@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Toechima_daemelianum_NMNS_U1372</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Myrtaceae_Syzygium_aqueum_NMNS_T1533</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Rhododendron_maximum_Wing_Wing_356-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Talisia_mollis_Wing_Wing_611-002</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Caprifoliaceae/Caprifoliaceae_Weigela_hortensis_NMNS_T0492.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Caprifoliaceae/Caprifoliaceae_Weigela_hortensis_NMNS_T0492.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Caprifoliaceae_Weigela_hortensis_NMNS_T0492</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Toechima_daemelianum_NMNS_U1372</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_erythrocalyx_Wing_Wing_753-002b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_erythrocalyx_Wing_Wing_753-002b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Toechima_erythrocalyx_Wing_Wing_753-002b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Myrtaceae_Syzygium_aqueum_NMNS_T1533</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_zapota_NMNS_T1695.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Manilkara_zapota_NMNS_T1695.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapotaceae_Manilkara_zapota_NMNS_T1695</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Rhododendron_maximum_Wing_Wing_356-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Phoebe_mexicana_Wolfe_Wolfe_5546a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Phoebe_mexicana_Wolfe_Wolfe_5546a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lauraceae_Phoebe_mexicana_Wolfe_Wolfe_5546a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Talisia_mollis_Wing_Wing_611-002</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_miyagii_NMNS_T0556.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_miyagii_NMNS_T0556.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Quercus_miyagii_NMNS_T0556</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Triadica_cochinchinensis_NMNS_T0364.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Triadica_cochinchinensis_NMNS_T0364.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Euphorbiaceae_Triadica_cochinchinensis_NMNS_T0364</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Caprifoliaceae/Caprifoliaceae_Weigela_hortensis_NMNS_T0492.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Caprifoliaceae/Caprifoliaceae_Weigela_hortensis_NMNS_T0492.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Caprifoliaceae_Weigela_hortensis_NMNS_T0492</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cymbopetalum_longipes_Wolfe_Wolfe_5486a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cymbopetalum_longipes_Wolfe_Wolfe_5486a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Cymbopetalum_longipes_Wolfe_Wolfe_5486a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Toechima_daemelianum_NMNS_U1372</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Tabernaemontana_dichotoma_NMNS_T0679.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Tabernaemontana_dichotoma_NMNS_T0679.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Apocynaceae_Tabernaemontana_dichotoma_NMNS_T0679</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Myrtaceae_Syzygium_aqueum_NMNS_T1533</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Litchi_chinensis_NMNS_T1497.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Litchi_chinensis_NMNS_T1497.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Litchi_chinensis_NMNS_T1497</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Rhododendron_maximum_Wing_Wing_356-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Talisia_mollis_Wing_Wing_611-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Caprifoliaceae_Weigela_hortensis_NMNS_T0492</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Rhododendron_maximum_Wing_Wing_356-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Toechima_daemelianum_NMNS_U1372</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_mollis_Wing_Wing_611-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Myrtaceae_Syzygium_aqueum_NMNS_T1533</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Daphniphyllaceae/Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Rhododendron_maximum_Wing_Wing_356-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Caprifoliaceae/Caprifoliaceae_Weigela_hortensis_NMNS_T0492.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Caprifoliaceae/Caprifoliaceae_Weigela_hortensis_NMNS_T0492.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Talisia_mollis_Wing_Wing_611-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Toechima_daemelianum_NMNS_U1372.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Daphniphyllaceae_Daphniphyllum_macropodum_NMNS_T0380</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Syzygium_aqueum_NMNS_T1533.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Caprifoliaceae_Weigela_hortensis_NMNS_T0492</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_NMNS_T1853.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_trichocarpa_NMNS_T1853.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Salicaceae_Populus_trichocarpa_NMNS_T1853</div>
                 </div>
             </div>
         </div>

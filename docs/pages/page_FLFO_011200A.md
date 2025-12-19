@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Poaceae_gen_sp_NMNS_U4305</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lythraceae_Decodon_verticillatus_Wing_Wing_880-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Poaceae_gen_sp_NMNS_U4305</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Shorea_guiso_Wolfe_Wolfe_1651.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Shorea_guiso_Wolfe_Wolfe_1651.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dipterocarpaceae_Shorea_guiso_Wolfe_Wolfe_1651</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Lythrum_salicaria_Wing_Wing_847-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Lythrum_salicaria_Wing_Wing_847-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Lythrum_salicaria_Wing_Wing_847-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Heeria_insignis_Wolfe_Wolfe_4208.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Heeria_insignis_Wolfe_Wolfe_4208.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anacardiaceae_Heeria_insignis_Wolfe_Wolfe_4208</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Picrodendraceae/Picrodendraceae_Oldfieldia_dactylophylla_Wolfe_Wolfe_3480b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Picrodendraceae/Picrodendraceae_Oldfieldia_dactylophylla_Wolfe_Wolfe_3480b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Picrodendraceae_Oldfieldia_dactylophylla_Wolfe_Wolfe_3480b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lythraceae_Decodon_verticillatus_Wing_Wing_880-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Papualthia_reticulata_Wing_Wing_159-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Papualthia_reticulata_Wing_Wing_159-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Papualthia_reticulata_Wing_Wing_159-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mangachapoi_Wolfe_Wolfe_1664a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dipterocarpaceae/Dipterocarpaceae_Vatica_mangachapoi_Wolfe_Wolfe_1664a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dipterocarpaceae_Vatica_mangachapoi_Wolfe_Wolfe_1664a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Poaceae_gen_sp_NMNS_U4305</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Crenea_patentinervis_Wing_Wing_873-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Crenea_patentinervis_Wing_Wing_873-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Crenea_patentinervis_Wing_Wing_873-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Onychopetalum_krukoffii_Wolfe_Wolfe_2890.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Onychopetalum_krukoffii_Wolfe_Wolfe_2890.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Onychopetalum_krukoffii_Wolfe_Wolfe_2890</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lythraceae_Decodon_verticillatus_Wing_Wing_880-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sladeniaceae/Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Poaceae_gen_sp_NMNS_U4305</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Decodon_verticillatus_Wing_Wing_880-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Cassia_fistula_Wolfe_Wolfe_15753b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Poaceae/Poaceae_gen_sp_NMNS_U4305.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lythraceae_Decodon_verticillatus_Wing_Wing_880-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gouldia_coriacea_Wolfe_Wolfe_7294.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541d</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cymbopetalum_penduliflorum_Hickey_Hickey_321.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cymbopetalum_penduliflorum_Hickey_Hickey_321.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Cymbopetalum_penduliflorum_Hickey_Hickey_321</div>
                 </div>
             </div>
         </div>

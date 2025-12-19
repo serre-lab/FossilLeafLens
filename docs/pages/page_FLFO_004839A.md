@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Talisia_subalbens_Wing_Wing_612-002</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Grewia_rhombifolia_NMNS_U0313</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Monimiaceae/Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Monimiaceae/Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Craibiodendron_stellatum_Wing_Wing_394-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Craibiodendron_stellatum_Wing_Wing_394-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Craibiodendron_stellatum_Wing_Wing_394-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_aspera_Wolfe_Wolfe_4099.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hydrangeaceae/Hydrangeaceae_Hydrangea_aspera_Wolfe_Wolfe_4099.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hydrangeaceae_Hydrangea_aspera_Wolfe_Wolfe_4099</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Talisia_subalbens_Wing_Wing_612-002</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_glabrescens_Wing_Wing_951-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_glabrescens_Wing_Wing_951-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hamamelidaceae_Corylopsis_glabrescens_Wing_Wing_951-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Luehea_candida_Wing_Wing_548-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Luehea_candida_Wing_Wing_548-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Luehea_candida_Wing_Wing_548-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Grewia_rhombifolia_NMNS_U0313</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pterocymbium_tinctorium_NMNS_T2482.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pterocymbium_tinctorium_NMNS_T2482.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Pterocymbium_tinctorium_NMNS_T2482</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Monimiaceae/Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Monimiaceae/Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Hydrogaster_trinerve_Wing_Wing_565-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Hydrogaster_trinerve_Wing_Wing_565-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Hydrogaster_trinerve_Wing_Wing_565-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Helicteres_hirsuta_NMNS_T1195.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Helicteres_hirsuta_NMNS_T1195.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Helicteres_hirsuta_NMNS_T1195</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Glyphaea_brevis_Wing_Wing_535-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Glyphaea_brevis_Wing_Wing_535-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Glyphaea_brevis_Wing_Wing_535-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Talisia_subalbens_Wing_Wing_612-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Grewia_rhombifolia_NMNS_U0313</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Talisia_subalbens_Wing_Wing_612-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_rhombifolia_NMNS_U0313.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Talisia_subalbens_Wing_Wing_612-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Monimiaceae/Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Monimiaceae/Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Alangium_sinicum_Wolfe_Wolfe_8723</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Honckenya_ficifolia_Wing_Wing_545-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Grewia_rhombifolia_NMNS_U0313</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Schoutenia_accrescens_Wing_Wing_556-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Monimiaceae_Mollinedia_pinchotiana_Wolfe_Wolfe_3852a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Serjania_acutidentata_Wing_Wing_597-003b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Serjania_acutidentata_Wing_Wing_597-003b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Serjania_acutidentata_Wing_Wing_597-003b</div>
                 </div>
             </div>
         </div>

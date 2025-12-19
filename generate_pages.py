@@ -1,9 +1,6 @@
 import os
 import json
 import pandas as pd
-import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
-import re
 
 cu_df = pd.read_excel("../Florissant_CUmetadata.xlsx")
 flfo_df = pd.read_excel("../Florissant_FLFOmetadata.xls")
@@ -22,7 +19,6 @@ flfo_df = flfo_df.groupby('Catalog #')[cols_flfo].agg(
 flfo_df['Catalog #'] = flfo_df['Catalog #'].apply(lambda x: x.split(' ')[-1])
 
 # Constants
-NUM_IMAGES = 943
 PROJECT_DIR = "./"
 DOCS_DIR = os.path.join(PROJECT_DIR, "docs")
 IMAGES_DIR = os.path.join(DOCS_DIR, "images")
@@ -39,7 +35,6 @@ Unidentified_CONCEPT_URL = "https://storage.googleapis.com/serrelab/prj_fossils/
 
 FEATURE_VIS_URL = "https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_{}_fv.webp"
 CONCEPT_INFO = "https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%20{}/"
-CLASS_INFO = "https://fel-thomas.github.io/Leaf-Lens/classes/{}/"
 # Ensure directories exist
 os.makedirs(IMAGES_DIR, exist_ok=True)
 
@@ -69,55 +64,37 @@ with open("closest_extant_examples_gpu.json", "r") as file:
     closest_extant_examples_uni = json.load(file)
 
 
-na_fossils_dict = {}
+na_fossils_dict = set()
 def aggregate_data(data):
-    for key, value in data.items():
-        if key not in na_fossils_dict:
-            na_fossils_dict[key] = []
-        na_fossils_dict[key].append(value)
+    for specimen in data:
+        specimen_name = specimen["Fossil Name"]
+        user_selection = specimen["User Selection"]
+        if user_selection == "Not Applicable":
+            na_fossils_dict.add(specimen_name)
 
 files_names = os.listdir("NA_fossils")
 for file_name in files_names:
     with open(os.path.join("NA_fossils", file_name), "r") as file:
         data = json.load(file)
-        na_fossils_dict[file_name] = data
+        aggregate_data(data)
 
 # Create a new dictionary with just the image name as key
-simplified_dict = {}
+def simplify_dict(raw_dict):
+    """Extract image name from messy keys and create simplified dictionary."""
+    simplified = {}
+    for raw_key, value in raw_dict.items():
+        try:
+            raw_key = raw_key.replace("\n", ",")
+            cleaned_key = eval(raw_key)  # Not safe for untrusted input, but okay for controlled data
+            image_path = cleaned_key[0]
+            image_name = image_path.strip().split("/")[-1].split(".")[0]
+            simplified[image_name] = value
+        except Exception as e:
+            print(f"Skipping malformed key: {raw_key} due to error: {e}")
+    return simplified
 
-for raw_key, value in closest_extant_examples.items():
-    # Extract image name from the messy key
-    try:
-        # Step 1: Convert raw_key string to actual Python list string (if needed)
-        raw_key = raw_key.replace("\n", ",")
-        cleaned_key = eval(raw_key)  # Not safe for untrusted input, but okay for controlled data
-
-        # Step 2: Extract image name from the full path
-        image_path = cleaned_key[0]
-        image_name = image_path.strip().split("/")[-1].split(".")[0] # Get only the filename
-
-        simplified_dict[image_name] = value
-
-    except Exception as e:
-        print(f"Skipping malformed key: {raw_key} due to error: {e}")
-
-simplified_dict_uni = {}
-
-for raw_key, value in closest_extant_examples_uni.items():
-    # Extract image name from the messy key
-    try:
-        # Step 1: Convert raw_key string to actual Python list string (if needed)
-        raw_key = raw_key.replace("\n", ",")
-        cleaned_key = eval(raw_key)  # Not safe for untrusted input, but okay for controlled data
-
-        # Step 2: Extract image name from the full path
-        image_path = cleaned_key[0]
-        image_name = image_path.strip().split("/")[-1].split(".")[0] # Get only the filename
-
-        simplified_dict_uni[image_name] = value
-
-    except Exception as e:
-        print(f"Skipping malformed key: {raw_key} due to error: {e}")
+simplified_dict = simplify_dict(closest_extant_examples)
+simplified_dict_uni = simplify_dict(closest_extant_examples_uni)
     
 
 
@@ -466,104 +443,9 @@ html_template = """
                 {similar_known_html}
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
-                <div class="similar-image-container">
-                    <a href="{sm1l}" target="_blank"><img class="similar-image" src="{sm1l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm1l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm2l}" target="_blank"><img class="similar-image" src="{sm2l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm2l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm3l}" target="_blank"><img class="similar-image" src="{sm3l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm3l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm4l}" target="_blank"><img class="similar-image" src="{sm4l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm4l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm5l}" target="_blank"><img class="similar-image" src="{sm5l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm5l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm6l}" target="_blank"><img class="similar-image" src="{sm6l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm6l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm7l}" target="_blank"><img class="similar-image" src="{sm7l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm7l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm8l}" target="_blank"><img class="similar-image" src="{sm8l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm8l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm9l}" target="_blank"><img class="similar-image" src="{sm9l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm9l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm10l}" target="_blank"><img class="similar-image" src="{sm10l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm10l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm11l}" target="_blank"><img class="similar-image" src="{sm11l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm11l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm12l}" target="_blank"><img class="similar-image" src="{sm12l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm12l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm13l}" target="_blank"><img class="similar-image" src="{sm13l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm13l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm14l}" target="_blank"><img class="similar-image" src="{sm14l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm14l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm15l}" target="_blank"><img class="similar-image" src="{sm15l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm15l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm16l}" target="_blank"><img class="similar-image" src="{sm16l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm16l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm17l}" target="_blank"><img class="similar-image" src="{sm17l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm17l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm18l}" target="_blank"><img class="similar-image" src="{sm18l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm18l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm19l}" target="_blank"><img class="similar-image" src="{sm19l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm19l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm20l}" target="_blank"><img class="similar-image" src="{sm20l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm20l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm21l}" target="_blank"><img class="similar-image" src="{sm21l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm21l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm22l}" target="_blank"><img class="similar-image" src="{sm22l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm22l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm23l}" target="_blank"><img class="similar-image" src="{sm23l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm23l_name}</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="{sm24l}" target="_blank"><img class="similar-image" src="{sm24l}" alt="Similar extant leaf"></a>
-                    <div class="image-caption">{sm24l_name}</div>
-                </div>
+                {similar_extant_html}
             </div>
         </div>
 
@@ -580,318 +462,160 @@ html_template = """
 
 
 # Generate Markdown pages with inline HTML
-all_images = [image_names, unidentified_image_names]
-Unknown_PAGES_DIR = os.path.join(DOCS_DIR, "pages/")
-Unidentified_PAGES_DIR = os.path.join(DOCS_DIR, "pages/")
-os.makedirs(Unknown_PAGES_DIR, exist_ok = True)
-os.makedirs(Unidentified_PAGES_DIR, exist_ok = True)
+PAGES_DIR = os.path.join(DOCS_DIR, "pages/")
+os.makedirs(PAGES_DIR, exist_ok=True)
 
-for i, (key, value) in enumerate(image_names.items()):
-    print(key, key.split("_"))
+def extract_index(key):
+    """Extract numeric index from key like 'CU_123' or 'FLFO_456'."""
     x = key.split("_")
-    root = x[0]
-    try: 
-        index = int(x[1])
+    try:
+        return int(x[1])
     except:
         digit = ""
-        n = len(x[1])
-        for i in range(n):
-            if 48 <= ord(x[1][i]) < 58:
-                digit += x[1][i]
+        for char in x[1]:
+            if '0' <= char <= '9':
+                digit += char
             else:
                 break
-        index = int(digit)
+        return int(digit) if digit else None
 
-    info1 = info2 = info3 = info4 = "Not Found"
-    value1 = value2 = value3 = value4 = ' '
-
+def get_metadata(key, root, index, cu_df, flfo_df):
+    """Get metadata for a given key."""
     if root == "CU":
         row_values = cu_df[cu_df['Inventory Number (CU filename)'] == index]
-        if len(row_values) > 0: 
+        if len(row_values) > 0:
             row_dict = row_values.to_dict(orient='records')[0]
-            info1, value1 = 'InstPrefix+Catalog #', ", ".join(row_dict['InstPrefix+Catalog #'])
-            # info2, value2 = 'Family', ", ".join(row_dict['Family'])
-            # info3, value3 = 'Genus', ", ".join(row_dict['Genus'])
-            # info4, value4 = 'Species', ", ".join(row_dict['Species'])
+            return 'InstPrefix+Catalog #', ", ".join(row_dict['InstPrefix+Catalog #'])
     else:
         row_values = flfo_df[flfo_df['Catalog #'] == str(index)]
-        if len(row_values) > 0: 
+        if len(row_values) > 0:
             row_dict = row_values.to_dict(orient='records')[0]
-            info1, value1 = "Catalog #", "FLFO " + row_dict['Catalog #']
-            # info1, value1 = 'Class 2, Kingdom', ", ".join(row_dict['Class 2, Kingdom'])
-            # info2, value2 = 'Sci. Name, Obj/Science', ", ".join(row_dict['Sci. Name, Obj/Science'])
-            # info3, value3 = 'Geo Unit', ", ".join(row_dict['Geo Unit'])
-            # info4, value4 = 'Description', ", ".join(row_dict['Description'])
+            return "Catalog #", "FLFO " + row_dict['Catalog #']
+    return 'Primary catalog number', ' '
 
-    
-    class1, class2, class3, class4, class5 = image_predictions[key]
-    value.sort(key = lambda x : int(x.split("_")[1]))
-    concept_images = "\n".join(
-        [f'''<div class="concept-card">
+def generate_concept_images(key, value, concept_url_template):
+    """Generate HTML for concept images."""
+    value.sort(key=lambda x: int(x.split("_")[1]))
+    return "\n".join([
+        f'''<div class="concept-card">
                 <div class="concept-images">
-                    <a href="{Unknown_CONCEPT_URL.format(key, value[j])}" target="_blank">
-                        <img src="{Unknown_CONCEPT_URL.format(key, value[j])}" alt="Concept Image {j+1}">
+                    <a href="{concept_url_template.format(key, value[j])}" target="_blank">
+                        <img src="{concept_url_template.format(key, value[j])}" alt="Concept Image {j+1}">
                     </a>
                     <a href="{CONCEPT_INFO.format(value[j].split("_")[-1][:-4])}" target="_blank">
                         <img src="{FEATURE_VIS_URL.format(value[j].split("_")[-1][:-4])}" alt="Feature Visualization {j+1}">
                     </a>
                 </div>
                 <div class="concept-caption"><em>Concept: {value[j].split("_")[-1][:-4]}</em> - Rank: {value[j].split("_")[-2]}</div>
-            </div>''' for j in range(len(value))]
-    )
+            </div>''' for j in range(len(value))
+    ])
 
+def generate_similar_known_html(closest_data, max_images=6):
+    """Generate HTML for similar known fossil specimens."""
     known_image_urls = [
         (file_path.split("/")[-1], Known_IMAGE_URL.format(file_path))
-        for file_path in unknown_closest[key]["closest_filenames"]
+        for file_path in closest_data["closest_filenames"]
         if 'cupressaceae' not in file_path.lower() and 'dryopteridaceae' not in file_path.lower()
     ]
     if known_image_urls:
-        similar_known_html = "\n".join([
+        return "\n".join([
             f'''<div class="similar-image-container">
                     <a href="{url}" target="_blank"><img class="similar-image" src="{url}" alt="Similar fossil specimen"></a>
                     <div class="image-caption">{name}</div>
                 </div>'''
-            for name, url in known_image_urls[:6]
+            for name, url in known_image_urls[:max_images]
         ])
     else:
-        similar_known_html = '<div class="image-caption" style="grid-column: 1 / -1; text-align: center; color: #666;">No similar images found.</div>'
-    leaf_image_urls = [(fs['filename'].split(".")[0], Known_LEAF_IMAGE_URL.format(fs['filename'].split("_")[0], fs['filename'])) for fs in simplified_dict[key]]
+        return '<div class="image-caption" style="grid-column: 1 / -1; text-align: center; color: #666;">No similar images found.</div>'
 
-    similar_known_html = "\n".join(
-        [f'''<div class="similar-image-container">
-                    <a href="{known_image_urls[j][1]}" target="_blank"><img class="similar-image" src="{known_image_urls[j][1]}" alt="Similar fossil specimen"></a>
-                    <div class="image-caption">{known_image_urls[j][0]}</div>
-                </div>''' for j in range(min(len(known_image_urls), 6))]
-    )
+def generate_similar_extant_html(leaf_image_urls, max_images=15):
+    """Generate HTML for similar extant leaf specimens."""
+    # Filter out None URLs and empty names
+    leaf_image_urls = [(name, url) for name, url in leaf_image_urls if url is not None and name]
+    if leaf_image_urls:
+        return "\n".join([
+            f'''<div class="similar-image-container">
+                    <a href="{url}" target="_blank"><img class="similar-image" src="{url}" alt="Similar extant leaf"></a>
+                    <div class="image-caption">{name}</div>
+                </div>'''
+            for name, url in leaf_image_urls[:max_images]
+        ])
+    else:
+        return '<div class="image-caption" style="grid-column: 1 / -1; text-align: center; color: #666;">No similar extant leaf images found.</div>'
 
-    html_content = html_template.format(
-        image_name=f"{key}",
-        class1 = class1,
-        class2 = class2,
-        class3 = class3,
-        class4 = class4,
-        class5 = class5,
-        info1  = 'Primary catalog number', 
-        value1 = value1,
-        # info2  = info2,
-        # value2 = value2,
-        # info3  = info3,
-        # value3 = value3,
-        # info4  = info4,
-        # value4 = value4,
-        main_image = Unknown_IMAGE_URL.format(key),
-        similar_known_html = similar_known_html,
-        
-        sm1l = leaf_image_urls[0][1],
-        sm2l = leaf_image_urls[1][1],
-        sm3l = leaf_image_urls[2][1],
-        sm4l = leaf_image_urls[3][1],
-        sm5l = leaf_image_urls[4][1],    
-        sm6l = leaf_image_urls[5][1],
-        sm7l = leaf_image_urls[6][1],
-        sm8l = leaf_image_urls[7][1],
-        sm9l = leaf_image_urls[8][1],
-        sm10l = leaf_image_urls[9][1],
-        sm11l = leaf_image_urls[10][1],  
-        sm12l = leaf_image_urls[11][1],
-        sm13l = leaf_image_urls[12][1],
-        sm14l = leaf_image_urls[13][1],
-        sm15l = leaf_image_urls[14][1],
-        sm16l = leaf_image_urls[15][1],
-        sm17l = leaf_image_urls[16][1],
-        sm18l = leaf_image_urls[17][1],
-        sm19l = leaf_image_urls[18][1],
-        sm20l = leaf_image_urls[19][1],
-        sm21l = leaf_image_urls[20][1],
-        sm22l = leaf_image_urls[21][1],
-        sm23l = leaf_image_urls[22][1],
-        sm24l = leaf_image_urls[23][1],
-  
-        sm1l_name = leaf_image_urls[0][0],
-        sm2l_name = leaf_image_urls[1][0],
-        sm3l_name = leaf_image_urls[2][0],
-        sm4l_name = leaf_image_urls[3][0],
-        sm5l_name = leaf_image_urls[4][0],
-        sm6l_name = leaf_image_urls[5][0],
-        sm7l_name = leaf_image_urls[6][0],
-        sm8l_name = leaf_image_urls[7][0],
-        sm9l_name = leaf_image_urls[8][0],
-        sm10l_name = leaf_image_urls[9][0],
-        sm11l_name = leaf_image_urls[10][0],
-        sm12l_name = leaf_image_urls[11][0],
-        sm13l_name = leaf_image_urls[12][0],
-        sm14l_name = leaf_image_urls[13][0],
-        sm15l_name = leaf_image_urls[14][0],
-        sm16l_name = leaf_image_urls[15][0],
-        sm17l_name = leaf_image_urls[16][0],
-        sm18l_name = leaf_image_urls[17][0],
-        sm19l_name = leaf_image_urls[18][0],
-        sm20l_name = leaf_image_urls[19][0],
-        sm21l_name = leaf_image_urls[20][0],
-        sm22l_name = leaf_image_urls[21][0],
-        sm23l_name = leaf_image_urls[22][0],
-        sm24l_name = leaf_image_urls[23][0],
-
-
-        concept_images = concept_images
-    )
-    page_path = os.path.join(Unknown_PAGES_DIR, f"page_{key}.md")
-    print(page_path)
-    with open(page_path, "w") as f:
-        f.write(html_content)
-
-for i, (key, value) in enumerate(unidentified_image_names.items()):
-    print(key, key.split("_"))
+def generate_page(key, value, predictions, closest_data, concept_url_template, image_url_template, 
+                  simplified_dict, simplified_dict_uni, cu_df, flfo_df, pages_dir):
+    """Generate a single page for a fossil specimen."""
+    if key in na_fossils_dict:
+        return
+    
     x = key.split("_")
     root = x[0]
-    try: 
-        index = int(x[1])
-    except:
-        digit = ""
-        n = len(x[1])
-        for i in range(n):
-            if 48 <= ord(x[1][i]) < 58:
-                digit += x[1][i]
-            else:
-                break
-        index = int(digit)
-
-
-
-    class1, class2, class3, class4, class5 =unidentified_image_predictions[key]
-    value.sort(key = lambda x : int(x.split("_")[1]))
-
-    info1 = info2 = info3 = info4 = "Not Found"
-    value1 = value2 = value3 = value4 = ' '
-
-    if root == "CU":
-        row_values = cu_df[cu_df['Inventory Number (CU filename)'] == index]
-        if len(row_values) > 0: 
-            row_dict = row_values.to_dict(orient='records')[0]
-            info1, value1 = 'InstPrefix+Catalog #', ", ".join(row_dict['InstPrefix+Catalog #'])
-            # info2, value2 = 'Family', ", ".join(row_dict['Family'])
-            # info3, value3 = 'Genus', ", ".join(row_dict['Genus'])
-            # info4, value4 = 'Species', ", ".join(row_dict['Species'])
-    else:
-        row_values = flfo_df[flfo_df['Catalog #'] == str(index)]
-        if len(row_values) > 0: 
-
-            row_dict = row_values.to_dict(orient='records')[0]
-            # info1, value1 = 'Class 2, Kingdom', ", ".join(row_dict['Class 2, Kingdom'])
-            info1, value1 = "Catalog #", "FLFO " + row_dict['Catalog #']
-            # info2, value2 = 'Sci. Name, Obj/Science', ", ".join(row_dict['Sci. Name, Obj/Science'])
-            # info3, value3 = 'Geo Unit', ", ".join(row_dict['Geo Unit'])
-            # info4, value4 = 'Description', ", ".join(row_dict['Description'])
-
-    concept_images = "\n".join(
-        [f'''<div class="concept-card">
-                <div class="concept-images">
-                    <a href="{Unidentified_CONCEPT_URL.format(key, value[j])}" target="_blank">
-                        <img src="{Unidentified_CONCEPT_URL.format(key, value[j])}" alt="Concept Image {j+1}">
-                    </a>
-                    <a href="{CONCEPT_INFO.format(value[j].split("_")[-1][:-4])}" target="_blank">
-                        <img src="{FEATURE_VIS_URL.format(value[j].split("_")[-1][:-4])}" alt="Feature Visualization {j+1}">
-                    </a>
-                </div>
-                <div class="concept-caption"><em>Concept: {value[j].split("_")[-1][:-4]}</em> - Rank: {value[j].split("_")[-2]}</div>
-            </div>''' for j in range(len(value))]
-    )
-
-    known_image_urls = [
-        (file_path.split("/")[-1], Known_IMAGE_URL.format(file_path))
-        for file_path in unidentified_closest[key]["closest_filenames"]
-        if 'cupressaceae' not in file_path.lower() and 'dryopteridaceae' not in file_path.lower()
-    ]
-    if known_image_urls:
-        similar_known_html = "\n".join([
-            f'''<div class=\"similar-image-container\">\n                    <a href=\"{url}\" target=\"_blank\"><img class=\"similar-image\" src=\"{url}\" alt=\"Similar fossil specimen\"></a>\n                    <div class=\"image-caption\">{name}</div>\n                </div>'''
-            for name, url in known_image_urls[:6]
-        ])
-    else:
-        similar_known_html = '<div class=\"image-caption\" style=\"grid-column: 1 / -1; text-align: center; color: #666;\">No similar images found.</div>'
+    index = extract_index(key)
+    if index is None:
+        return
+    
+    info1, value1 = get_metadata(key, root, index, cu_df, flfo_df)
+    class1, class2, class3, class4, class5 = predictions[key]
+    
+    concept_images = generate_concept_images(key, value, concept_url_template)
+    similar_known_html = generate_similar_known_html(closest_data)
+    
+    # Get extant leaf images
     try:
-        leaf_image_urls = [(fs['filename'].split(".")[0], Known_LEAF_IMAGE_URL.format(fs['filename'].split("_")[0], fs['filename'])) for fs in simplified_dict[key]]
+        leaf_image_urls = [
+            (fs['filename'].split(".")[0], Known_LEAF_IMAGE_URL.format(fs['filename'].split("_")[0], fs['filename']))
+            for fs in simplified_dict[key]
+            if 'cupressaceae' not in fs['filename'].lower() and 'dryopteridaceae' not in fs['filename'].lower()
+        ]
     except:
-        leaf_image_urls = [(fs.split(".")[0], Known_LEAF_IMAGE_URL.format(fs.split("_")[0], fs)) for fs in simplified_dict_uni[key]]
-        for i in range(7, 25):
-            leaf_image_urls.append(("", None))
-
-
+        leaf_image_urls = [
+            (fs.split(".")[0], Known_LEAF_IMAGE_URL.format(fs.split("_")[0], fs))
+            for fs in simplified_dict_uni[key]
+            if 'cupressaceae' not in fs.lower() and 'dryopteridaceae' not in fs.lower()
+        ]
+    
+    similar_extant_html = generate_similar_extant_html(leaf_image_urls)
+    
     html_content = html_template.format(
         image_name=f"{key}",
-        class1 = class1,
-        class2 = class2,
-        class3 = class3,
-        class4 = class4,
-        class5 = class5,
-        info1  = 'Primary catalog number', 
-        value1 = value1,
-        # info2  = info2,
-        # value2 = value2,
-        # info3  = info3,
-        # value3 = value3,
-        # info4  = info4,
-        # value4 = value4,
-        main_image = Unidentified_IMAGE_URL.format(key),
-        similar_known_html = similar_known_html,
-
-        sm1l = leaf_image_urls[0][1],
-        sm2l = leaf_image_urls[1][1],
-        sm3l = leaf_image_urls[2][1],
-        sm4l = leaf_image_urls[3][1],
-        sm5l = leaf_image_urls[4][1], 
-        sm6l = leaf_image_urls[5][1],
-        sm7l = leaf_image_urls[0][1],
-        sm8l = leaf_image_urls[1][1],
-        sm9l = leaf_image_urls[2][1],
-        sm10l = leaf_image_urls[3][1],
-        sm11l = leaf_image_urls[4][1],
-        sm12l = leaf_image_urls[5][1],
-        sm13l = leaf_image_urls[0][1],
-        sm14l = leaf_image_urls[1][1],
-        sm15l = leaf_image_urls[2][1],
-        sm16l = leaf_image_urls[3][1],
-        sm17l = leaf_image_urls[4][1],
-        sm18l = leaf_image_urls[1][1],
-        sm19l = leaf_image_urls[2][1],
-        sm20l = leaf_image_urls[3][1],
-        sm21l = leaf_image_urls[4][1],
-        sm22l = leaf_image_urls[5][1],
-        sm23l = leaf_image_urls[0][1],
-        sm24l = leaf_image_urls[1][1],
-        
-     
-        sm1l_name = leaf_image_urls[0][0],
-        sm2l_name = leaf_image_urls[1][0],
-        sm3l_name = leaf_image_urls[2][0],
-        sm4l_name = leaf_image_urls[3][0],
-        sm5l_name = leaf_image_urls[4][0],
-        sm6l_name = leaf_image_urls[5][0],
-        sm7l_name = leaf_image_urls[0][0],
-        sm8l_name = leaf_image_urls[1][0],
-        sm9l_name = leaf_image_urls[2][0],
-        sm10l_name = leaf_image_urls[3][0],
-        sm11l_name = leaf_image_urls[4][0],
-        sm12l_name = leaf_image_urls[5][0],
-        sm13l_name = leaf_image_urls[0][0],
-        sm14l_name = leaf_image_urls[1][0],
-        sm15l_name = leaf_image_urls[2][0],
-        sm16l_name = leaf_image_urls[3][0],
-        sm17l_name = leaf_image_urls[4][0],
-        sm18l_name = leaf_image_urls[5][0],
-        sm19l_name = leaf_image_urls[0][0],
-        sm20l_name = leaf_image_urls[1][0],
-        sm21l_name = leaf_image_urls[2][0],
-        sm22l_name = leaf_image_urls[3][0],
-        sm23l_name = leaf_image_urls[4][0],
-        sm24l_name = leaf_image_urls[5][0],
-
-        concept_images = concept_images
+        class1=class1,
+        class2=class2,
+        class3=class3,
+        class4=class4,
+        class5=class5,
+        info1='Primary catalog number',
+        value1=value1,
+        main_image=image_url_template.format(key),
+        similar_known_html=similar_known_html,
+        similar_extant_html=similar_extant_html,
+        concept_images=concept_images
     )
-    page_path = os.path.join(Unidentified_PAGES_DIR, f"page_{key}.md")
+    
+    page_path = os.path.join(pages_dir, f"page_{key}.md")
     print(page_path)
     with open(page_path, "w") as f:
         f.write(html_content)
+
+# Generate pages for unknown images
+for key, value in image_names.items():
+    print(key, key.split("_"))
+    generate_page(
+        key, value, image_predictions, unknown_closest[key],
+        Unknown_CONCEPT_URL, Unknown_IMAGE_URL,
+        simplified_dict, simplified_dict_uni,
+        cu_df, flfo_df, PAGES_DIR
+    )
+
+# Generate pages for unidentified images
+for key, value in unidentified_image_names.items():
+    print(key, key.split("_"))
+    generate_page(
+        key, value, unidentified_image_predictions, unidentified_closest[key],
+        Unidentified_CONCEPT_URL, Unidentified_IMAGE_URL,
+        simplified_dict, simplified_dict_uni,
+        cu_df, flfo_df, PAGES_DIR
+    )
 
 # Generate MkDocs configuration
 with open(MKDOCS_YML, "w") as f:
@@ -905,20 +629,16 @@ with open(MKDOCS_YML, "w") as f:
     f.write("    accent: white\n")
     f.write("nav:\n")
     f.write("  - <b>Home</b>: index.md\n")
-    # f.write("  - <b>Unknown Fossils</b>:\n")
-    # f.write("    - '<b><i>Feedback Table</i></b> 📋': unknown_table.md\n")
-    # for i, (key, value) in enumerate(image_predictions.items(), start = 1):
-    #     f.write(f"    - {i}. {key}: pages/unknown/page_{key}.md\n")
     f.write("  - '<b>Feedback Table</b> 📋': unidentified_table.md\n")
     f.write("  - <b>Predicted fossil identifications</b>:\n")
-    for i, (key, value) in enumerate(image_predictions.items(), start = 1):
-        f.write(f"    - {i}. {key}: pages/page_{key}.md\n")
-    total_unknown_images = len(image_predictions)
-    for i, (key, value) in enumerate(unidentified_image_predictions.items(), start = 1):
-        f.write(f"    - {i + total_unknown_images}. {key}: pages/page_{key}.md\n")
-
-# # Create index page
-# index_path = os.path.join(DOCS_DIR, "index.md")
-# with open(index_path, "w") as f:
-#     f.write("# Unidentified Fossil Predictions!\n\n")
-#     f.write("Navigate through the sidebar to view all images.\n")
+    index = 1
+    for key in image_predictions.keys():
+        if key in na_fossils_dict:
+            continue
+        f.write(f"    - {index}. {key}: pages/page_{key}.md\n")
+        index += 1
+    for key in unidentified_image_predictions.keys():
+        if key in na_fossils_dict:
+            continue
+        f.write(f"    - {index}. {key}: pages/page_{key}.md\n")
+        index += 1

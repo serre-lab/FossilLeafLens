@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Balanopaceae/Balanopaceae_Balanops_vieillardii_Hickey_Hickey_4400a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Balanopaceae/Balanopaceae_Balanops_vieillardii_Hickey_Hickey_4400a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Balanopaceae_Balanops_vieillardii_Hickey_Hickey_4400a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Ambelania_oleifolia_Hickey_Hickey_1320.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Ambelania_oleifolia_Hickey_Hickey_1320.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Apocynaceae_Ambelania_oleifolia_Hickey_Hickey_1320</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Hexalobus_glabrescens_Wolfe_Wolfe_2882.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Hexalobus_glabrescens_Wolfe_Wolfe_2882.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Hexalobus_glabrescens_Wolfe_Wolfe_2882</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Asteraceae/Asteraceae_Haplopappus_arizonensis_Axelrod_Axelrod_929.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Asteraceae/Asteraceae_Haplopappus_arizonensis_Axelrod_Axelrod_929.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Asteraceae_Haplopappus_arizonensis_Axelrod_Axelrod_929</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myristicaceae/Myristicaceae_Gymnacranthera_farquhariana_Wing_Wing_029-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myristicaceae/Myristicaceae_Gymnacranthera_farquhariana_Wing_Wing_029-003.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Myristicaceae_Gymnacranthera_farquhariana_Wing_Wing_029-003</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_parramattensis_Hickey_Hickey_4289.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_parramattensis_Hickey_Hickey_4289.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Acacia_parramattensis_Hickey_Hickey_4289</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Guamia_mariannae_Wing_Wing_157-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Guamia_mariannae_Wing_Wing_157-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Guamia_mariannae_Wing_Wing_157-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Anacardium_occidentale_Wolfe_Wolfe_856b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Anacardium_occidentale_Wolfe_Wolfe_856b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Anacardiaceae_Anacardium_occidentale_Wolfe_Wolfe_856b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Melodorum_poilanei_Wolfe_Wolfe_2451</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ephedranthus_parviflorus_Wolfe_Wolfe_2867.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Mitrephora_pictiflora_Wolfe_Wolfe_11104</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_barbatum_Wolfe_Wolfe_8715.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Marsypopetalum_pallidum_Wolfe_Wolfe_15493</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Orophea_creaghii_Wolfe_Wolfe_2452.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Orophea_creaghii_Wolfe_Wolfe_2452.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Orophea_creaghii_Wolfe_Wolfe_2452</div>
                 </div>
             </div>
         </div>

@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Schisandraceae_Illicium_anisatum_Wing_Wing_059-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_edentata_Wolfe_Wolfe_1551.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_edentata_Wolfe_Wolfe_1551.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Altingiaceae_Liquidambar_edentata_Wolfe_Wolfe_1551</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_guatemalensis_Wolfe_Wolfe_30330a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Senna_guatemalensis_Wolfe_Wolfe_30330a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Senna_guatemalensis_Wolfe_Wolfe_30330a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Magnolia_pacifica_Wing_Wing_041-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Magnolia_pacifica_Wing_Wing_041-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Magnoliaceae_Magnolia_pacifica_Wing_Wing_041-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_2.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_2</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Schisandraceae_Illicium_anisatum_Wing_Wing_059-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sibbaldiopsis_tridentata_Wolfe_Wolfe_933.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sibbaldiopsis_tridentata_Wolfe_Wolfe_933.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rosaceae_Sibbaldiopsis_tridentata_Wolfe_Wolfe_933</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cercocarpus_betuloides_Wolfe_Wolfe_1484b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cercocarpus_betuloides_Wolfe_Wolfe_1484b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rosaceae_Cercocarpus_betuloides_Wolfe_Wolfe_1484b</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lecythidaceae/Lecythidaceae_Couroupita_guianensis_NMNS_T2257.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lecythidaceae/Lecythidaceae_Couroupita_guianensis_NMNS_T2257.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lecythidaceae_Couroupita_guianensis_NMNS_T2257</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Michelia_yunnanensis_Wing_Wing_052-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Michelia_yunnanensis_Wing_Wing_052-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Magnoliaceae_Michelia_yunnanensis_Wing_Wing_052-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Schisandraceae_Illicium_anisatum_Wing_Wing_059-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Schisandraceae/Schisandraceae_Illicium_anisatum_Wing_Wing_059-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Uvaria_sympetala_Wolfe_Wolfe_11186</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Albizia_julibrissin_Hickey_Hickey_4172</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Altingiaceae/Altingiaceae_Liquidambar_styraciflua_Wolfe_Wolfe_14582.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Schisandraceae_Illicium_anisatum_Wing_Wing_059-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Ludwigia_linearis_Hickey_Hickey_2119.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Passifloraceae_Adenia_cordifolia_Hickey_Hickey_1930_1</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Lasiodiscus_mildbraedii_Wolfe_Wolfe_4861.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Lasiodiscus_mildbraedii_Wolfe_Wolfe_4861.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhamnaceae_Lasiodiscus_mildbraedii_Wolfe_Wolfe_4861</div>
                 </div>
             </div>
         </div>

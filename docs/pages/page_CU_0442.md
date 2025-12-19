@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Cinnamomum_burmanni_NMNS_T1708.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Cinnamomum_burmanni_NMNS_T1708.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lauraceae_Cinnamomum_burmanni_NMNS_T1708</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Harpephyllum_caffrum_Wolfe_Wolfe_4454.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Harpephyllum_caffrum_Wolfe_Wolfe_4454.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Harpephyllum_caffrum_Wolfe_Wolfe_4454</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Porcelia_nitidifolia_Wolfe_Wolfe_5495a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Porcelia_nitidifolia_Wolfe_Wolfe_5495a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Porcelia_nitidifolia_Wolfe_Wolfe_5495a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Tinospora_crispa_NMNS_T2221.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Tinospora_crispa_NMNS_T2221.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Menispermaceae_Tinospora_crispa_NMNS_T2221</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Calathea_lateralis_Hickey_Hickey_6328b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Calathea_lateralis_Hickey_Hickey_6328b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Marantaceae_Calathea_lateralis_Hickey_Hickey_6328b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Cerbera_odollam_NMNS_T0680.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Cerbera_odollam_NMNS_T0680.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Apocynaceae_Cerbera_odollam_NMNS_T0680</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pernettya_ciliata_Wolfe_Wolfe_13039.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pernettya_ciliata_Wolfe_Wolfe_13039.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Pernettya_ciliata_Wolfe_Wolfe_13039</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Ischnosiphon_hirsutus_Hickey_Hickey_1658b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Ischnosiphon_hirsutus_Hickey_Hickey_1658b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Marantaceae_Ischnosiphon_hirsutus_Hickey_Hickey_1658b</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_simplicifolia_Hickey_Hickey_4210.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_simplicifolia_Hickey_Hickey_4210.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Acacia_simplicifolia_Hickey_Hickey_4210</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Vitaceae/Vitaceae_Vitis_sp_NMNS_T2357.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Vitaceae/Vitaceae_Vitis_sp_NMNS_T2357.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Vitaceae_Vitis_sp_NMNS_T2357</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Connaraceae/Connaraceae_Roureopsis_sp_Hickey_Hickey_6740.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Connaraceae/Connaraceae_Roureopsis_sp_Hickey_Hickey_6740.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Connaraceae_Roureopsis_sp_Hickey_Hickey_6740</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Liliaceae/Liliaceae_Fritillaria_affinis_Wolfe_Wolfe_17895.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Liliaceae/Liliaceae_Fritillaria_affinis_Wolfe_Wolfe_17895.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Liliaceae_Fritillaria_affinis_Wolfe_Wolfe_17895</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_microphylla_Wolfe_Wolfe_12953.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anacardiaceae/Anacardiaceae_Rhus_microphylla_Wolfe_Wolfe_12953.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Anacardiaceae_Rhus_microphylla_Wolfe_Wolfe_12953</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Ctenanthe_pilosa_Hickey_Hickey_3129a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Ctenanthe_pilosa_Hickey_Hickey_3129a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Marantaceae_Ctenanthe_pilosa_Hickey_Hickey_3129a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Humiriaceae/Humiriaceae_Humiria_balsamifera_Hickey_Hickey_459.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Humiriaceae/Humiriaceae_Humiria_balsamifera_Hickey_Hickey_459.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Humiriaceae_Humiria_balsamifera_Hickey_Hickey_459</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_sinensis_NMNS_T0729.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Corylopsis_sinensis_NMNS_T0729.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Hamamelidaceae_Corylopsis_sinensis_NMNS_T0729</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Calathea_zingiberina_Hickey_Hickey_3125b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Calathea_zingiberina_Hickey_Hickey_3125b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Marantaceae_Calathea_zingiberina_Hickey_Hickey_3125b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Vincetoxicum_sieboldii_NMNS_U0721.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Vincetoxicum_sieboldii_NMNS_U0721.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Apocynaceae_Vincetoxicum_sieboldii_NMNS_U0721</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_confusa_NMNS_U0012.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_confusa_NMNS_U0012.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Acacia_confusa_NMNS_U0012</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Monophyllanthe_rhizantha_Hickey_Hickey_3126c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Monophyllanthe_rhizantha_Hickey_Hickey_3126c.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Marantaceae_Monophyllanthe_rhizantha_Hickey_Hickey_3126c</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Monophyllanthe_rhizantha_Hickey_Hickey_3126b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Monophyllanthe_rhizantha_Hickey_Hickey_3126b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Marantaceae_Monophyllanthe_rhizantha_Hickey_Hickey_3126b</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cyathocalyx_zeylanica_Wing_Wing_271-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cyathocalyx_zeylanica_Wing_Wing_271-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Cyathocalyx_zeylanica_Wing_Wing_271-002</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Ischnosiphon_martianus_Hickey_Hickey_3124a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Marantaceae/Marantaceae_Ischnosiphon_martianus_Hickey_Hickey_3124a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Marantaceae_Ischnosiphon_martianus_Hickey_Hickey_3124a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Xylopia_grandiflora_Wolfe_Wolfe_14551b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Xylopia_grandiflora_Wolfe_Wolfe_14551b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Xylopia_grandiflora_Wolfe_Wolfe_14551b</div>
                 </div>
             </div>
         </div>

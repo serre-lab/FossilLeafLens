@@ -1,0 +1,69 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Input data files (JSON)
+*.json
+!package.json
+!package-lock.json
+
+# Excel metadata files
+*.xlsx
+*.xls
+
+# Response/feedback files
+NA_fossils/
+na_fossils.json
+
+closest_extant_examples_checkpoint_gpu.json
+closest_extant_examples_gpu.json
+closest_extant_examples_checkpoint.json
+
+unidentified_closest.json
+unidentified_image_names.json
+unidentified_image_predictions.json
+unknown_closest.json
+
+image_names2.json
+image2_predictions.json
+
+# Other Python scripts (not main generators)
+generate_samples.py
+generate_unknown_table.py
+save_images.py
+constants.py
+run_scripts.sh
+
+# Other markdown files
+fossil_classification.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# MkDocs build files
+.mkdocs_cache/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+

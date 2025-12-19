@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Matayba_elaeagnoides_Wing_Wing_707-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Matayba_elaeagnoides_Wing_Wing_707-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Matayba_elaeagnoides_Wing_Wing_707-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Gayophytum_oligospermum_Hickey_Hickey_3295.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Gayophytum_oligospermum_Hickey_Hickey_3295.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Onagraceae_Gayophytum_oligospermum_Hickey_Hickey_3295</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Monanthotaxis_littoralis_Wing_Wing_187-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Monanthotaxis_littoralis_Wing_Wing_187-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Monanthotaxis_littoralis_Wing_Wing_187-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Nesaea_lanceolata_Wing_Wing_876-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Nesaea_lanceolata_Wing_Wing_876-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Nesaea_lanceolata_Wing_Wing_876-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Monanthotaxis_buchananii_Wing_Wing_189-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Monanthotaxis_buchananii_Wing_Wing_189-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Monanthotaxis_buchananii_Wing_Wing_189-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_villosum_Wolfe_Wolfe_8730.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_villosum_Wolfe_Wolfe_8730.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Cornaceae_Alangium_villosum_Wolfe_Wolfe_8730</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Craibiodendron_stellatum_Wing_Wing_394-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Craibiodendron_stellatum_Wing_Wing_394-003.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Craibiodendron_stellatum_Wing_Wing_394-003</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Didiplis_diandra_Wing_Wing_845-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Didiplis_diandra_Wing_Wing_845-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Didiplis_diandra_Wing_Wing_845-001</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Psammisia_occidentalis_Wing_Wing_481-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Oncodostigma_monosperma_Wing_Wing_242-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Brassicaceae/Brassicaceae_Arabidopsis_thaliana_Hickey_Hickey_8014.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-001</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Otonephelium_stipulaceum_Wing_Wing_675-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Leucothoe_acuminata_Wing_Wing_390-001</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Tristira_triptera_Wing_Wing_665-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Tristira_triptera_Wing_Wing_665-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Tristira_triptera_Wing_Wing_665-002</div>
                 </div>
             </div>
         </div>

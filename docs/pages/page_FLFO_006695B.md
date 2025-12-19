@@ -366,103 +366,67 @@
                 </div>
             </div>
 
-            <h3>Similar Extant Leaf Specimens</h3>
+            <h2>Similar Extant Leaf Specimens</h2>
             <div class="similar-images-grid">
                 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Salicaceae_Abatia_borealis_Hickey_Hickey_995</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2</div>
                 </div>
-                <div class="similar-image-container">
+<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Strombosia_grandifolia_Wolfe_Wolfe_5003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Olacaceae/Olacaceae_Strombosia_grandifolia_Wolfe_Wolfe_5003.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Olacaceae_Strombosia_grandifolia_Wolfe_Wolfe_5003</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Plukenetia_volubilis_Wolfe_Wolfe_3959.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Plukenetia_volubilis_Wolfe_Wolfe_3959.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Euphorbiaceae_Plukenetia_volubilis_Wolfe_Wolfe_3959</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Lagerstroemia_indica_Wing_Wing_886-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Lagerstroemia_indica_Wing_Wing_886-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lythraceae_Lagerstroemia_indica_Wing_Wing_886-002</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Abatia_borealis_Hickey_Hickey_995</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Baptisia_lanceolata_Wolfe_Wolfe_9757.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Baptisia_lanceolata_Wolfe_Wolfe_9757.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Baptisia_lanceolata_Wolfe_Wolfe_9757</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lecointea_tango_Wolfe_Wolfe_16661a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lecointea_tango_Wolfe_Wolfe_16661a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Lecointea_tango_Wolfe_Wolfe_16661a</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paranephelium_spirei_Wolfe_Wolfe_576.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paranephelium_spirei_Wolfe_Wolfe_576.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Paranephelium_spirei_Wolfe_Wolfe_576</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Guatteria_candolleana_Hickey_Hickey_295.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Guatteria_candolleana_Hickey_Hickey_295.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Guatteria_candolleana_Hickey_Hickey_295</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nyssaceae/Nyssaceae_Mastixia_philippinensis_Wolfe_Wolfe_33.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nyssaceae/Nyssaceae_Mastixia_philippinensis_Wolfe_Wolfe_33.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Nyssaceae_Mastixia_philippinensis_Wolfe_Wolfe_33</div>
                 </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Abatia_borealis_Hickey_Hickey_995</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Gesneriaceae/Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Abatia_borealis_Hickey_Hickey_995.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Gesneriaceae_Besleria_lutea_Hickey_Hickey_1718a</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Abatia_borealis_Hickey_Hickey_995</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lamiaceae/Lamiaceae_Gmelina_philippensis_Wolfe_Wolfe_6657.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Acanthaceae_Aphelandra_deppeana_Hickey_Hickey_1206_2</div>
-                </div>
-                <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Centrolobium_paraense_Wolfe_Wolfe_9441.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Pogonopus_speciosus_Wolfe_Wolfe_7771a</div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Hypoestes_sanguinolenta_Hickey_Hickey_1552_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Acanthaceae/Acanthaceae_Hypoestes_sanguinolenta_Hickey_Hickey_1552_1.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Acanthaceae_Hypoestes_sanguinolenta_Hickey_Hickey_1552_1</div>
                 </div>
             </div>
         </div>
