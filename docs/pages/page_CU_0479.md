@@ -302,7 +302,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Fossil Leaf Identification</h1>
+            <h1>Predicted Fossil Identifications</h1>
             <div class="info-value" style="font-size: 16px; color: #666;">Catalog Number: CU_0479</div>
         </div>
 
@@ -435,7 +435,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1427_fv.webp" alt="Feature Visualization 1">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1427</em> - Rank: 1</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201427/" target="_blank"><em>Concept: 1427</em></a> - Rank: 1</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -446,7 +446,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1408_fv.webp" alt="Feature Visualization 2">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1408</em> - Rank: 2</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201408/" target="_blank"><em>Concept: 1408</em></a> - Rank: 2</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -457,7 +457,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_653_fv.webp" alt="Feature Visualization 3">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 653</em> - Rank: 3</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%20653/" target="_blank"><em>Concept: 653</em></a> - Rank: 3</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -468,7 +468,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_950_fv.webp" alt="Feature Visualization 4">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 950</em> - Rank: 4</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%20950/" target="_blank"><em>Concept: 950</em></a> - Rank: 4</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -479,7 +479,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1428_fv.webp" alt="Feature Visualization 5">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1428</em> - Rank: 5</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201428/" target="_blank"><em>Concept: 1428</em></a> - Rank: 5</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -490,7 +490,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1166_fv.webp" alt="Feature Visualization 6">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1166</em> - Rank: 6</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201166/" target="_blank"><em>Concept: 1166</em></a> - Rank: 6</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -501,7 +501,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1315_fv.webp" alt="Feature Visualization 7">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1315</em> - Rank: 7</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201315/" target="_blank"><em>Concept: 1315</em></a> - Rank: 7</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -512,7 +512,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_2043_fv.webp" alt="Feature Visualization 8">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 2043</em> - Rank: 8</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%202043/" target="_blank"><em>Concept: 2043</em></a> - Rank: 8</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -523,7 +523,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1565_fv.webp" alt="Feature Visualization 9">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1565</em> - Rank: 9</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201565/" target="_blank"><em>Concept: 1565</em></a> - Rank: 9</div>
             </div>
 <div class="concept-card">
                 <div class="concept-images">
@@ -534,7 +534,7 @@
                         <img src="https://storage.googleapis.com/serrelab/prj_fossils/thomas_sae_compressed/concept_1222_fv.webp" alt="Feature Visualization 10">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: 1222</em> - Rank: 10</div>
+                <div class="concept-caption"><a href="https://fel-thomas.github.io/Leaf-Lens/concepts/Concept%201222/" target="_blank"><em>Concept: 1222</em></a> - Rank: 10</div>
             </div>
             </div>
         </div>

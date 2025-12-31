@@ -402,7 +402,7 @@ html_template = """
 <body>
     <div class="container">
         <div class="header">
-            <h1>Fossil Leaf Identification</h1>
+            <h1>Predicted Fossil Identifications</h1>
             <div class="info-value" style="font-size: 16px; color: #666;">Catalog Number: {image_name}</div>
         </div>
 
@@ -506,7 +506,7 @@ def generate_concept_images(key, value, concept_url_template):
                         <img src="{FEATURE_VIS_URL.format(value[j].split("_")[-1][:-4])}" alt="Feature Visualization {j+1}">
                     </a>
                 </div>
-                <div class="concept-caption"><em>Concept: {value[j].split("_")[-1][:-4]}</em> - Rank: {value[j].split("_")[-2]}</div>
+                <div class="concept-caption"><a href="{CONCEPT_INFO.format(value[j].split("_")[-1][:-4])}" target="_blank"><em>Concept: {value[j].split("_")[-1][:-4]}</em></a> - Rank: {value[j].split("_")[-2]}</div>
             </div>''' for j in range(len(value))
     ])
 
@@ -630,7 +630,7 @@ with open(MKDOCS_YML, "w") as f:
     f.write("nav:\n")
     f.write("  - <b>Home</b>: index.md\n")
     f.write("  - '<b>Feedback Table</b> 📋': unidentified_table.md\n")
-    f.write("  - <b>Predicted fossil identifications</b>:\n")
+    f.write("  - <b>Predicted Fossil Identifications</b>:\n")
     index = 1
     for key in image_predictions.keys():
         if key in na_fossils_dict:

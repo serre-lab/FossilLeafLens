@@ -348,7 +348,7 @@ html_template = """
 
         <div class="feature-card">
             <h4><span class="feature-badge">1</span>Predicted Fossil Identification</h4>
-            <p>You can explore the predicted fossil identifications by clicking on the "Predicted Fossil Identification" link in the navigation bar. This will open a list of fossil specimens. Clicking on a specimen will open a detailed webpage with a predicted fossil information card. This card includes the following information: Dataset catalog number, primary catalog number, model predictions, similar specimens, and concepts.</p>
+            <p>You can explore the predicted fossil identifications by clicking on the "Predicted Fossil Identifications" link in the navigation bar. This will open a list of fossil specimens. Clicking on a specimen will open a detailed webpage with a predicted fossil information card. This card includes the following information: Dataset catalog number, primary catalog number, model predictions, similar specimens, and concepts.</p>
             
             <h5>Fossil Identification Card</h5>
             <p>In this identification card, you will find details about the Fossil specimen, including its repository number. You can easily find additional metadata for the specimens, including prior identifications, from their filenames (CU- or FLFO- prefix), with these metadata tables kindly provided by Dr. Meyer (see Wilf et al. 2021 for more information about these two image sets):</p>

@@ -9,7 +9,7 @@ theme:
 nav:
   - <b>Home</b>: index.md
   - '<b>Feedback Table</b> 📋': unidentified_table.md
-  - <b>Predicted fossil identifications</b>:
+  - <b>Predicted Fossil Identifications</b>:
     - 1. CU_0115: pages/page_CU_0115.md
     - 2. CU_0387cu: pages/page_CU_0387cu.md
     - 3. FLFO_002787A: pages/page_FLFO_002787A.md
