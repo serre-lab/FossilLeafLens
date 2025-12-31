@@ -264,6 +264,28 @@ html_template = """
             transition: all 0.2s ease;
         }
 
+        .funding-section {
+            margin-top: 60px;
+            padding-top: 40px;
+            border-top: 1px solid #e8e8e8;
+        }
+
+        .funding-logo {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .funding-logo img {
+            max-width: 200px;
+            height: auto;
+            opacity: 0.9;
+            transition: opacity 0.2s ease;
+        }
+
+        .funding-logo img:hover {
+            opacity: 1;
+        }
+
         .section li:hover {
             transform: translateX(4px);
         }
@@ -422,6 +444,22 @@ html_template = """
         
         <div class="highlight-box">
             <p><em>We invite you to explore this innovative blend of paleobotany and artificial intelligence, and to join us in refining the art and science of fossil leaf identification!</em></p>
+        </div>
+    </div>
+
+    <div class="section funding-section">
+        <h3>Acknowledgments</h3>
+        
+        <div class="feature-card">
+            <p>This material is based upon work supported by the U.S. <strong>National Science Foundation</strong> under Award No. <strong>EAR-1925481</strong> (T.S.) and <strong>EAR-1925755</strong> (P.W.), and by <strong>ANR-3IA Artificial and Natural Intelligence Toulouse Institute</strong> (<strong>ANR-19-PI3A-0004</strong>).</p>
+            
+            <div class="funding-logo">
+                <img src="images/nsf.png" alt="National Science Foundation">
+            </div>
+        </div>
+
+        <div class="feature-card">
+            <p>Computing support was provided by the Center for Computation and Visualization (CCV) at Brown University (via NIH Office of the Director grant S10OD025181). We also acknowledge Google's Cloud TPU hardware resources via the TensorFlow Research Cloud (TFRC) program.</p>
         </div>
     </div>
 
