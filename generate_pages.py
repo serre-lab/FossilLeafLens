@@ -629,7 +629,6 @@ with open(MKDOCS_YML, "w") as f:
     f.write("    accent: white\n")
     f.write("nav:\n")
     f.write("  - <b>Home</b>: index.md\n")
-    f.write("  - '<b>Feedback Table</b> 📋': unidentified_table.md\n")
     f.write("  - <b>Predicted Fossil Identifications</b>:\n")
     index = 1
     for key in image_predictions.keys():
