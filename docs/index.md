@@ -85,15 +85,41 @@
             border-top: 1px solid #e8e8e8;
         }
 
+        .citation-section h3 {
+            margin-bottom: 12px;
+        }
+
+        .citation-section > p:first-of-type {
+            color: #4a4a4a;
+            font-size: 15px;
+            margin-bottom: 16px;
+        }
+
+        .citation-box {
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 28px 32px;
+            margin-top: 8px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+        }
+
         .citation-text {
             font-family: 'Courier New', Courier, monospace;
             font-size: 15px;
-            line-height: 1.6;
-            margin: 16px 0 0;
-            color: #1a1a1a;
-            background: #f0f0f0;
-            padding: 20px 24px;
-            border-radius: 8px;
+            line-height: 1.7;
+            margin: 0;
+            color: #1e293b;
+            letter-spacing: 0.02em;
+        }
+
+        .citation-note {
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid #e2e8f0;
+            font-size: 14px;
+            color: #64748b;
+            font-style: italic;
         }
 
         .demo-section {
@@ -419,6 +445,7 @@
             <li>While our dataset is extensive, many fossil samples are badly preserved and may lack the detail needed for accurate classification. In addition, although the images were manually filtered several years ago to remove most that are inappropriate, there remain many images of monocots and non-angiosperms (which are severely undersampled in the training dataset), reproductive organs (likewise), and non-plant fossils (feathers, fish, and so on). We recommend simply skipping these poorly preserved or inapplicable specimens to ensure more reliable results.</li>
             <li>This tool is intended to assist paleobotanists by suggesting potentially overlooked identifications with supporting visualizations. It can accelerate discovery when used wisely, but it is no substitute for botanical and paleobotanical expertise. In practice, we find many machine suggestions helpful, but even inaccurate suggestions provide novel insights into fossil-leaf morphology through the Leaf Lens heat maps.</li>
             <li>Finally, please be aware that the model can only predict families that are in its training dataset, listed <a href="https://docs.google.com/document/d/178X6Stw9_J4k-Ib9lp8eWAH8tUv86rtg8VBqZPeVuWw/edit?usp=sharing" target="_blank">here</a>.</li>
+            </ul>
         </div>
         
         <div class="highlight-box">
@@ -445,9 +472,10 @@
     <div class="section citation-section">
         <h3>Citation</h3>
         <p>Please cite our primary article when using this resource or the associated model:</p>
-        <p class="citation-text">Rodriguez, I.F., Fel, T., Gaonkar, G., Vaishnav, M., Meyer, H., Wilf, P., &amp; Serre, T. (2025). Advancing Paleobotany with AI-guided Expert Fossil Leaf
-Identification.</p>
-        <p>Manuscript in preparation—please cite the primary article once published; we will add the permanent link here.</p>
+        <div class="citation-box">
+            <p class="citation-text">Rodriguez, I.F., Fel, T., Gaonkar, G., Vaishnav, M., Meyer, H., Wilf, P., &amp; Serre, T. (2025). Advancing Paleobotany with AI-guided Expert Fossil Leaf Identification.</p>
+            <p class="citation-note">Manuscript in preparation—please cite the primary article once published; we will add the permanent link here.</p>
+        </div>
     </div>
 
 </div>
