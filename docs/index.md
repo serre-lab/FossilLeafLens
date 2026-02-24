@@ -474,7 +474,7 @@
         <p>Please cite our primary article when using this resource or the associated model:</p>
         <div class="citation-box">
             <p class="citation-text">Rodriguez, I.F., Fel, T., Gaonkar, G., Vaishnav, M., Meyer, H., Wilf, P., &amp; Serre, T. (2025). Advancing Paleobotany with AI-guided Expert Fossil Leaf Identification.</p>
-            <p class="citation-note">Manuscript in preparation—please cite the primary article once published.</p>
+            <p class="citation-note">Manuscript in preparation, please cite the primary article once published.</p>
         </div>
     </div>
 
