@@ -413,10 +413,6 @@
                     <div class="image-caption">Anacardiaceae_Rhus_chinensis_Wolfe_Wolfe_1081a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paullinia_sonorensis_Wolfe_Wolfe_12811.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Paullinia_sonorensis_Wolfe_Wolfe_12811.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Paullinia_sonorensis_Wolfe_Wolfe_12811</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Vivianiaceae/Vivianiaceae_Wendtia_gracilis_Wolfe_Wolfe_5856.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Vivianiaceae/Vivianiaceae_Wendtia_gracilis_Wolfe_Wolfe_5856.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Vivianiaceae_Wendtia_gracilis_Wolfe_Wolfe_5856</div>
                 </div>
@@ -427,6 +423,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Miliusa_longipes_Wolfe_Wolfe_7855.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Miliusa_longipes_Wolfe_Wolfe_7855.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Annonaceae_Miliusa_longipes_Wolfe_Wolfe_7855</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Vivianiaceae/Vivianiaceae_Wendtia_reynoldsii_Wolfe_Wolfe_5855.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Vivianiaceae/Vivianiaceae_Wendtia_reynoldsii_Wolfe_Wolfe_5855.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Vivianiaceae_Wendtia_reynoldsii_Wolfe_Wolfe_5855</div>
                 </div>
             </div>
         </div>

@@ -385,10 +385,6 @@
                     <div class="image-caption">Betulaceae_Alnus_sinuata_Wolfe_Wolfe_919a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Corylus_avellana_NMNS_U1043.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Corylus_avellana_NMNS_U1043.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Corylus_avellana_NMNS_U1043</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_discoidea_Wolfe_Wolfe_8533.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nothofagaceae/Nothofagaceae_Nothofagus_discoidea_Wolfe_Wolfe_8533.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Nothofagaceae_Nothofagus_discoidea_Wolfe_Wolfe_8533</div>
                 </div>
@@ -417,16 +413,20 @@
                     <div class="image-caption">Bignoniaceae_Spathodea_campanulata_NMNS_U1749</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_sieboldiana_NMNS_T0446.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_sieboldiana_NMNS_T0446.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Alnus_sieboldiana_NMNS_T0446</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_macroptera_Wolfe_Wolfe_8477a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Pterocarya_macroptera_Wolfe_Wolfe_8477a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Pterocarya_macroptera_Wolfe_Wolfe_8477a</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Bumelia_laurifolia_Wolfe_Wolfe_12209.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Bumelia_laurifolia_Wolfe_Wolfe_12209.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapotaceae_Bumelia_laurifolia_Wolfe_Wolfe_12209</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Fagus_hayatae_Wolfe_Wolfe_9089a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Fagus_hayatae_Wolfe_Wolfe_9089a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Fagus_hayatae_Wolfe_Wolfe_9089a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Degeneriaceae/Degeneriaceae_Degeneria_vitiensis_Wolfe_Wolfe_10227e.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Degeneriaceae/Degeneriaceae_Degeneria_vitiensis_Wolfe_Wolfe_10227e.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Degeneriaceae_Degeneria_vitiensis_Wolfe_Wolfe_10227e</div>
                 </div>
             </div>
         </div>

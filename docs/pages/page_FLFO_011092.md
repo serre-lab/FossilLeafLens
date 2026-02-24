@@ -413,10 +413,6 @@
                     <div class="image-caption">Fagaceae_Quercus_oxyodon_NMNS_T2475</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Bouvardia_bouvardioides_Hickey_Hickey_4731.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Bouvardia_bouvardioides_Hickey_Hickey_4731.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Bouvardia_bouvardioides_Hickey_Hickey_4731</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Thymelaeaceae/Thymelaeaceae_Dais_cotinifolia_Wolfe_Wolfe_9635.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Thymelaeaceae/Thymelaeaceae_Dais_cotinifolia_Wolfe_Wolfe_9635.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Thymelaeaceae_Dais_cotinifolia_Wolfe_Wolfe_9635</div>
                 </div>
@@ -427,6 +423,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Loranthaceae/Loranthaceae_Psittacanthus_elegans_Hickey_Hickey_1569.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Loranthaceae/Loranthaceae_Psittacanthus_elegans_Hickey_Hickey_1569.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Loranthaceae_Psittacanthus_elegans_Hickey_Hickey_1569</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_japonica_Axelrod_Axelrod_744.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Pieris_japonica_Axelrod_Axelrod_744.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Pieris_japonica_Axelrod_Axelrod_744</div>
                 </div>
             </div>
         </div>

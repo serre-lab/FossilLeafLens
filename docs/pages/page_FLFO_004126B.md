@@ -385,36 +385,16 @@
                     <div class="image-caption">Rosaceae_Eriobotrya_prionophylla_Wolfe_Wolfe_4145</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rosa_coriifolia_Hickey_Hickey_3958.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rosa_coriifolia_Hickey_Hickey_3958.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Rosa_coriifolia_Hickey_Hickey_3958</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Geraniaceae/Geraniaceae_Erodium_macrophyllum_Hickey_Hickey_2555.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Geraniaceae/Geraniaceae_Erodium_macrophyllum_Hickey_Hickey_2555.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Geraniaceae_Erodium_macrophyllum_Hickey_Hickey_2555</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Waldsteinia_idahoensis_Wolfe_Wolfe_10690.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Waldsteinia_idahoensis_Wolfe_Wolfe_10690.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Waldsteinia_idahoensis_Wolfe_Wolfe_10690</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Sonneratia_ovata_Wolfe_Wolfe_8144.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Sonneratia_ovata_Wolfe_Wolfe_8144.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lythraceae_Sonneratia_ovata_Wolfe_Wolfe_8144</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_pumila_Hickey_Hickey_3738.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_pumila_Hickey_Hickey_3738.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Malus_pumila_Hickey_Hickey_3738</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Saxifragaceae/Saxifragaceae_Heuchera_ovalifolia_Hickey_Hickey_3516.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Saxifragaceae/Saxifragaceae_Heuchera_ovalifolia_Hickey_Hickey_3516.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Saxifragaceae_Heuchera_ovalifolia_Hickey_Hickey_3516</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_halliana_Hickey_Hickey_3734.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_halliana_Hickey_Hickey_3734.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Malus_halliana_Hickey_Hickey_3734</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_sitchensis_Wolfe_Wolfe_1505a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Sorbus_sitchensis_Wolfe_Wolfe_1505a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Sorbus_sitchensis_Wolfe_Wolfe_1505a</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_tremula_Wolfe_Wolfe_1287b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_tremula_Wolfe_Wolfe_1287b.jpg" alt="Similar extant leaf"></a>
@@ -427,6 +407,26 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Theaceae/Theaceae_Schima_noronhae_Axelrod_Axelrod_764.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Theaceae/Theaceae_Schima_noronhae_Axelrod_Axelrod_764.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Theaceae_Schima_noronhae_Axelrod_Axelrod_764</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Viburnum_prunifolium_Hickey_Hickey_1356.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Viburnaceae/Viburnaceae_Viburnum_prunifolium_Hickey_Hickey_1356.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Viburnaceae_Viburnum_prunifolium_Hickey_Hickey_1356</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Palicourea_hoffmannseggiana_NMNS_U0147.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Palicourea_hoffmannseggiana_NMNS_U0147.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Palicourea_hoffmannseggiana_NMNS_U0147</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Machilus_japonica_NMNS_U0027.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Machilus_japonica_NMNS_U0027.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Lauraceae_Machilus_japonica_NMNS_U0027</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Cinchona_pubescens_Hickey_Hickey_4631.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Cinchona_pubescens_Hickey_Hickey_4631.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Cinchona_pubescens_Hickey_Hickey_4631</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Harrisonia_abyssinica_Wolfe_Wolfe_4334.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rutaceae/Rutaceae_Harrisonia_abyssinica_Wolfe_Wolfe_4334.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rutaceae_Harrisonia_abyssinica_Wolfe_Wolfe_4334</div>
                 </div>
             </div>
         </div>

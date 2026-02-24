@@ -425,8 +425,8 @@
                     <div class="image-caption">Rosaceae_Sanguisorba_officinalis_NMNS_U1220</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_pumila_Hickey_Hickey_3738.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_pumila_Hickey_Hickey_3738.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Malus_pumila_Hickey_Hickey_3738</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Crassulaceae/Crassulaceae_Cotyledon_umbilicus_Hickey_Hickey_3598.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Crassulaceae/Crassulaceae_Cotyledon_umbilicus_Hickey_Hickey_3598.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Crassulaceae_Cotyledon_umbilicus_Hickey_Hickey_3598</div>
                 </div>
             </div>
         </div>

@@ -397,14 +397,6 @@
                     <div class="image-caption">Rosaceae_Rubus_villicaulis_Hickey_Hickey_3841</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rubus_nigricans_Hickey_Hickey_3775.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rubus_nigricans_Hickey_Hickey_3775.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Rubus_nigricans_Hickey_Hickey_3775</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_pumila_Hickey_Hickey_3738.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_pumila_Hickey_Hickey_3738.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Malus_pumila_Hickey_Hickey_3738</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Aquifoliaceae/Aquifoliaceae_Ilex_lucida_Hickey_Hickey_4263.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Aquifoliaceae/Aquifoliaceae_Ilex_lucida_Hickey_Hickey_4263.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Aquifoliaceae_Ilex_lucida_Hickey_Hickey_4263</div>
                 </div>
@@ -417,16 +409,24 @@
                     <div class="image-caption">Anacardiaceae_Rhus_cismontana_Axelrod_Axelrod_312</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_fusca_Hickey_Hickey_3748.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Malus_fusca_Hickey_Hickey_3748.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Malus_fusca_Hickey_Hickey_3748</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Quillajaceae/Quillajaceae_Quillaja_saponaria_Hickey_Hickey_3654.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Quillajaceae/Quillajaceae_Quillaja_saponaria_Hickey_Hickey_3654.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Quillajaceae_Quillaja_saponaria_Hickey_Hickey_3654</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rosa_montezumae_Hickey_Hickey_3951.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rosa_montezumae_Hickey_Hickey_3951.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Rosa_montezumae_Hickey_Hickey_3951</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ellipeiopsis_cherrevensis_Wolfe_Wolfe_15485b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Ellipeiopsis_cherrevensis_Wolfe_Wolfe_15485b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Ellipeiopsis_cherrevensis_Wolfe_Wolfe_15485b</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_hamiltonianus_NMNS_T0385.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_hamiltonianus_NMNS_T0385.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Celastraceae_Euonymus_hamiltonianus_NMNS_T0385</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Xylococcus_bicolor_Axelrod_Axelrod_1064.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Xylococcus_bicolor_Axelrod_Axelrod_1064.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Xylococcus_bicolor_Axelrod_Axelrod_1064</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_attenuatus_Hickey_Hickey_4396.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Celastraceae/Celastraceae_Euonymus_attenuatus_Hickey_Hickey_4396.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Celastraceae_Euonymus_attenuatus_Hickey_Hickey_4396</div>
                 </div>
             </div>
         </div>

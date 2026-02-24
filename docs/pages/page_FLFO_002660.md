@@ -425,8 +425,8 @@
                     <div class="image-caption">Juglandaceae_Carya_ovata_Hickey_Hickey_552a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Saxifragaceae/Saxifragaceae_Bergenia_ligulata_Hickey_Hickey_3482.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Saxifragaceae/Saxifragaceae_Bergenia_ligulata_Hickey_Hickey_3482.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Saxifragaceae_Bergenia_ligulata_Hickey_Hickey_3482</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Hydrocotyle_acutifolia_Hickey_Hickey_2818.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Hydrocotyle_acutifolia_Hickey_Hickey_2818.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Araliaceae_Hydrocotyle_acutifolia_Hickey_Hickey_2818</div>
                 </div>
             </div>
         </div>

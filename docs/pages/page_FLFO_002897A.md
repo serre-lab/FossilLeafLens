@@ -417,16 +417,16 @@
                     <div class="image-caption">Annonaceae_Cardiopetalum_calophyllum_Wing_Wing_182-003</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Erythrina_chiriquensis_Wolfe_Wolfe_16458b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Erythrina_chiriquensis_Wolfe_Wolfe_16458b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Erythrina_chiriquensis_Wolfe_Wolfe_16458b</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Aralia_racemosa_Wolfe_Wolfe_13440a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Aralia_racemosa_Wolfe_Wolfe_13440a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Araliaceae_Aralia_racemosa_Wolfe_Wolfe_13440a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Timonius_valetonii_Wolfe_Wolfe_14144b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Timonius_valetonii_Wolfe_Wolfe_14144b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rubiaceae_Timonius_valetonii_Wolfe_Wolfe_14144b</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Dillenia_indica_Hickey_Hickey_918b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Dilleniaceae/Dilleniaceae_Dillenia_indica_Hickey_Hickey_918b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Dilleniaceae_Dillenia_indica_Hickey_Hickey_918b</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Paliurus_ramosissimus_Hickey_Hickey_4779.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Paliurus_ramosissimus_Hickey_Hickey_4779.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhamnaceae_Paliurus_ramosissimus_Hickey_Hickey_4779</div>
                 </div>
             </div>
         </div>

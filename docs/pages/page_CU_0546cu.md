@@ -417,16 +417,16 @@
                     <div class="image-caption">Annonaceae_Malmea_raimondii_Wolfe_Wolfe_11388</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Lettowianthus_stellatus_Wolfe_Wolfe_3459.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Lettowianthus_stellatus_Wolfe_Wolfe_3459.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Lettowianthus_stellatus_Wolfe_Wolfe_3459</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_barrattiana_Wolfe_Wolfe_18147.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_barrattiana_Wolfe_Wolfe_18147.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Salicaceae_Salix_barrattiana_Wolfe_Wolfe_18147</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Antirhea_jamaicensis_Wolfe_Wolfe_5686.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Antirhea_jamaicensis_Wolfe_Wolfe_5686.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Antirhea_jamaicensis_Wolfe_Wolfe_5686</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Deidamia_commersoniana_Hickey_Hickey_1927_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Passifloraceae/Passifloraceae_Deidamia_commersoniana_Hickey_Hickey_1927_1.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Passifloraceae_Deidamia_commersoniana_Hickey_Hickey_1927_1</div>
                 </div>
             </div>
         </div>

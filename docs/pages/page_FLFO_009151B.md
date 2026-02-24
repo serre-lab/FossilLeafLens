@@ -385,18 +385,6 @@
                     <div class="image-caption">Fabaceae_Caesalpinia_pannosa_Wolfe_Wolfe_15683a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Aeschynomene_fascicularis_Wolfe_Wolfe_30164b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Aeschynomene_fascicularis_Wolfe_Wolfe_30164b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Aeschynomene_fascicularis_Wolfe_Wolfe_30164b</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_spadicigeria_Wolfe_Wolfe_30153a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_spadicigeria_Wolfe_Wolfe_30153a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Acacia_spadicigeria_Wolfe_Wolfe_30153a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_granulata_Wolfe_Wolfe_15736a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_granulata_Wolfe_Wolfe_15736a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Cassia_granulata_Wolfe_Wolfe_15736a</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Agonis_abnormis_Wolfe_Wolfe_12407.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myrtaceae/Myrtaceae_Agonis_abnormis_Wolfe_Wolfe_12407.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Myrtaceae_Agonis_abnormis_Wolfe_Wolfe_12407</div>
                 </div>
@@ -413,10 +401,6 @@
                     <div class="image-caption">Rosaceae_Rosa_bella_Wolfe_Wolfe_12023</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Coursetia_mollis_Wolfe_Wolfe_15799b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Coursetia_mollis_Wolfe_Wolfe_15799b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Coursetia_mollis_Wolfe_Wolfe_15799b</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Orites_diversifolia_Wolfe_Wolfe_6904.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Orites_diversifolia_Wolfe_Wolfe_6904.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Proteaceae_Orites_diversifolia_Wolfe_Wolfe_6904</div>
                 </div>
@@ -425,8 +409,20 @@
                     <div class="image-caption">Salicaceae_Salix_dissa_Wolfe_Wolfe_18159b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_polystachya_Wolfe_Wolfe_16470b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Eysenhardtia_polystachya_Wolfe_Wolfe_16470b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Eysenhardtia_polystachya_Wolfe_Wolfe_16470b</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Condalia_obtusifolia_Axelrod_Axelrod_213.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Condalia_obtusifolia_Axelrod_Axelrod_213.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhamnaceae_Condalia_obtusifolia_Axelrod_Axelrod_213</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Syringantha_coulteri_Wolfe_Wolfe_10167.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Syringantha_coulteri_Wolfe_Wolfe_10167.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Syringantha_coulteri_Wolfe_Wolfe_10167</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Grevillea_aspera_Wolfe_Wolfe_12521.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Grevillea_aspera_Wolfe_Wolfe_12521.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Proteaceae_Grevillea_aspera_Wolfe_Wolfe_12521</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_geyeriana_Wolfe_Wolfe_1304.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_geyeriana_Wolfe_Wolfe_1304.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Salicaceae_Salix_geyeriana_Wolfe_Wolfe_1304</div>
                 </div>
             </div>
         </div>

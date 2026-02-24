@@ -405,18 +405,6 @@
                     <div class="image-caption">Menispermaceae_Cissampelos_ovalifolia_Wolfe_Wolfe_9095</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Pericampylus_glaucus_Wolfe_Wolfe_244.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Pericampylus_glaucus_Wolfe_Wolfe_244.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Pericampylus_glaucus_Wolfe_Wolfe_244</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_3656.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_3656.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Triplochiton_scleroxylon_Wolfe_Wolfe_3656</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_amurensis_Wolfe_Wolfe_434.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_amurensis_Wolfe_Wolfe_434.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_amurensis_Wolfe_Wolfe_434</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_shirasawanum_NMNS_U0716-1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_shirasawanum_NMNS_U0716-1.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_shirasawanum_NMNS_U0716-1</div>
                 </div>
@@ -427,6 +415,18 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Ouratea_ilicifolia_Wolfe_Wolfe_3895.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Ouratea_ilicifolia_Wolfe_Wolfe_3895.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ochnaceae_Ouratea_ilicifolia_Wolfe_Wolfe_3895</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_mayrii_Wolfe_Wolfe_8607.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_mayrii_Wolfe_Wolfe_8607.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_mayrii_Wolfe_Wolfe_8607</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Pomaderris_elliptica_Hickey_Hickey_5305.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Pomaderris_elliptica_Hickey_Hickey_5305.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhamnaceae_Pomaderris_elliptica_Hickey_Hickey_5305</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Psychotria_marginata_Wolfe_Wolfe_14039a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Psychotria_marginata_Wolfe_Wolfe_14039a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Psychotria_marginata_Wolfe_Wolfe_14039a</div>
                 </div>
             </div>
         </div>

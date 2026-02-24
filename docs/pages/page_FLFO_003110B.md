@@ -421,12 +421,12 @@
                     <div class="image-caption">Melastomataceae_Astronia_ferruginea_Hickey_Hickey_1872</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Rolliniopsis_parviflora_Wolfe_Wolfe_4010.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Rolliniopsis_parviflora_Wolfe_Wolfe_4010.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Rolliniopsis_parviflora_Wolfe_Wolfe_4010</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Crassulaceae/Crassulaceae_Kalanchoe_coccinea_Hickey_Hickey_3604.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Crassulaceae/Crassulaceae_Kalanchoe_coccinea_Hickey_Hickey_3604.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Crassulaceae_Kalanchoe_coccinea_Hickey_Hickey_3604</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_castanea_NMNS_T2729.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_castanea_NMNS_T2729.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Quercus_castanea_NMNS_T2729</div>
                 </div>
             </div>
         </div>

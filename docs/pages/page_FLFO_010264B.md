@@ -421,12 +421,12 @@
                     <div class="image-caption">Meliaceae_Guarea_brevianthera_Hickey_Hickey_2320</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_nigra_Wolfe_Wolfe_17095a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Juglans_nigra_Wolfe_Wolfe_17095a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Juglandaceae_Juglans_nigra_Wolfe_Wolfe_17095a</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Gymnema_affine_Wolfe_Wolfe_2104.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Apocynaceae/Apocynaceae_Gymnema_affine_Wolfe_Wolfe_2104.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Apocynaceae_Gymnema_affine_Wolfe_Wolfe_2104</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Amphicarpaea_ovalifolia_Wolfe_Wolfe_15796b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Amphicarpaea_ovalifolia_Wolfe_Wolfe_15796b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Amphicarpaea_ovalifolia_Wolfe_Wolfe_15796b</div>
                 </div>
             </div>
         </div>

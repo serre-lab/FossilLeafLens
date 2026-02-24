@@ -425,8 +425,8 @@
                     <div class="image-caption">Fabaceae_Canavalia_villosa_Wolfe_Wolfe_9439a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Hymenaea_stigonocarpa_Wolfe_Wolfe_2344b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Hymenaea_stigonocarpa_Wolfe_Wolfe_2344b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Hymenaea_stigonocarpa_Wolfe_Wolfe_2344b</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Polyceratocarpus_microtrichus_Wolfe_Wolfe_5170.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Polyceratocarpus_microtrichus_Wolfe_Wolfe_5170.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Polyceratocarpus_microtrichus_Wolfe_Wolfe_5170</div>
                 </div>
             </div>
         </div>

@@ -421,12 +421,12 @@
                     <div class="image-caption">Pittosporaceae_Pittosporum_paitense_Hickey_Hickey_6399b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Osteomeles_anthyllidifolia_Hickey_Hickey_3688.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Osteomeles_anthyllidifolia_Hickey_Hickey_3688.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Osteomeles_anthyllidifolia_Hickey_Hickey_3688</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Bejaria_sprucei_Wing_Wing_347-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Bejaria_sprucei_Wing_Wing_347-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Bejaria_sprucei_Wing_Wing_347-001</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Trichocladus_dentatus_Hickey_Hickey_6589.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Trichocladus_dentatus_Hickey_Hickey_6589.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hamamelidaceae_Trichocladus_dentatus_Hickey_Hickey_6589</div>
                 </div>
             </div>
         </div>

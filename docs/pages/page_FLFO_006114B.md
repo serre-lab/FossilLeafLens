@@ -385,48 +385,28 @@
                     <div class="image-caption">Malvaceae_Firmiana_simplex_NMNS_T0817</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_grandiflora_Hickey_Hickey_5448.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_grandiflora_Hickey_Hickey_5448.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Triumfetta_grandiflora_Hickey_Hickey_5448</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_mandshurica_Hickey_Hickey_5406.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_mandshurica_Hickey_Hickey_5406.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Tilia_mandshurica_Hickey_Hickey_5406</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Parabaena_megalocarpa_Wolfe_Wolfe_3932.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Parabaena_megalocarpa_Wolfe_Wolfe_3932.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Menispermaceae_Parabaena_megalocarpa_Wolfe_Wolfe_3932</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Melochia_caracasana_Hickey_Hickey_5560.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Melochia_caracasana_Hickey_Hickey_5560.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Melochia_caracasana_Hickey_Hickey_5560</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Aleurites_fordii_Hickey_Hickey_705.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Euphorbiaceae/Euphorbiaceae_Aleurites_fordii_Hickey_Hickey_705.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Euphorbiaceae_Aleurites_fordii_Hickey_Hickey_705</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Luehea_speciosa_Hickey_Hickey_5385.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Luehea_speciosa_Hickey_Hickey_5385.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Luehea_speciosa_Hickey_Hickey_5385</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sitella_involucrata_Wolfe_Wolfe_12655.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sitella_involucrata_Wolfe_Wolfe_12655.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Sitella_involucrata_Wolfe_Wolfe_12655</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_semitriloba_Hickey_Hickey_5451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_semitriloba_Hickey_Hickey_5451.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Triumfetta_semitriloba_Hickey_Hickey_5451</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Fatsia_japonica_NMNS_T2096.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Fatsia_japonica_NMNS_T2096.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Araliaceae_Fatsia_japonica_NMNS_T2096</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Dombeya_burgessiae_Wolfe_Wolfe_9633.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Dombeya_burgessiae_Wolfe_Wolfe_9633.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Dombeya_burgessiae_Wolfe_Wolfe_9633</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Disanthus_cercidifolius_NMNS_T1682.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Hamamelidaceae/Hamamelidaceae_Disanthus_cercidifolius_NMNS_T1682.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Hamamelidaceae_Disanthus_cercidifolius_NMNS_T1682</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Byttneria_melantha_Hickey_Hickey_5619.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Byttneria_melantha_Hickey_Hickey_5619.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Byttneria_melantha_Hickey_Hickey_5619</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_japonicum_NMNS_U0144.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_japonicum_NMNS_U0144.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_japonicum_NMNS_U0144</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_saccharum_NMNS_T0236.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_saccharum_NMNS_T0236.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_saccharum_NMNS_T0236</div>
                 </div>
             </div>
         </div>

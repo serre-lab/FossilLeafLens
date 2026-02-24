@@ -393,10 +393,6 @@
                     <div class="image-caption">Menispermaceae_Hypserpa_jagorii_Wolfe_Wolfe_1800a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_commutata_Wolfe_Wolfe_1297.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_commutata_Wolfe_Wolfe_1297.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Salix_commutata_Wolfe_Wolfe_1297</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rubus_parviflorus_Wolfe_Wolfe_1469.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Rubus_parviflorus_Wolfe_Wolfe_1469.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rosaceae_Rubus_parviflorus_Wolfe_Wolfe_1469</div>
                 </div>
@@ -421,12 +417,16 @@
                     <div class="image-caption">Pandaceae_Panda_oleosa_Wolfe_Wolfe_14385a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_monticola_Wolfe_Wolfe_1308.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_monticola_Wolfe_Wolfe_1308.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Salix_monticola_Wolfe_Wolfe_1308</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_pubescens_NMNS_T2302.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_pubescens_NMNS_T2302.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Betulaceae_Betula_pubescens_NMNS_T2302</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Casearia_grandiflora_Hickey_Hickey_1065.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Casearia_grandiflora_Hickey_Hickey_1065.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Casearia_grandiflora_Hickey_Hickey_1065</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arbutus_xalapensis_Wolfe_Wolfe_1447a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arbutus_xalapensis_Wolfe_Wolfe_1447a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Arbutus_xalapensis_Wolfe_Wolfe_1447a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_aristata_Wolfe_Wolfe_10740.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_aristata_Wolfe_Wolfe_10740.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fagaceae_Quercus_aristata_Wolfe_Wolfe_10740</div>
                 </div>
             </div>
         </div>

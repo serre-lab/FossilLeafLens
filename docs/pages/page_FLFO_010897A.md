@@ -413,10 +413,6 @@
                     <div class="image-caption">Myristicaceae_Horsfieldia_irya_Hickey_Hickey_435</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Idesia_polycarpa_Hickey_Hickey_3217.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Idesia_polycarpa_Hickey_Hickey_3217.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Idesia_polycarpa_Hickey_Hickey_3217</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Mussaenda_raiateensis_Hickey_Hickey_4508.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Mussaenda_raiateensis_Hickey_Hickey_4508.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Mussaenda_raiateensis_Hickey_Hickey_4508</div>
                 </div>
@@ -427,6 +423,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Neolitsea_aciculata_Hickey_Hickey_6283.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lauraceae/Lauraceae_Neolitsea_aciculata_Hickey_Hickey_6283.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lauraceae_Neolitsea_aciculata_Hickey_Hickey_6283</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Solanaceae/Solanaceae_Nicotiana_tabacum_Hickey_Hickey_8054a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Solanaceae/Solanaceae_Nicotiana_tabacum_Hickey_Hickey_8054a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Solanaceae_Nicotiana_tabacum_Hickey_Hickey_8054a</div>
                 </div>
             </div>
         </div>

@@ -409,10 +409,6 @@
                     <div class="image-caption">Rosaceae_Potentilla_multifida_Wolfe_Wolfe_17054a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_integerrimus_Wolfe_Wolfe_1513.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhamnaceae/Rhamnaceae_Ceanothus_integerrimus_Wolfe_Wolfe_1513.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rhamnaceae_Ceanothus_integerrimus_Wolfe_Wolfe_1513</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lonchocarpus_santarosanus_Wolfe_Wolfe_30618a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lonchocarpus_santarosanus_Wolfe_Wolfe_30618a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Lonchocarpus_santarosanus_Wolfe_Wolfe_30618a</div>
                 </div>
@@ -427,6 +423,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Galpinia_transvaalica_Wing_Wing_856-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Lythraceae/Lythraceae_Galpinia_transvaalica_Wing_Wing_856-002.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Lythraceae_Galpinia_transvaalica_Wing_Wing_856-002</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Ecclinusa_elliptica_Wolfe_Wolfe_12224c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Ecclinusa_elliptica_Wolfe_Wolfe_12224c.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapotaceae_Ecclinusa_elliptica_Wolfe_Wolfe_12224c</div>
                 </div>
             </div>
         </div>

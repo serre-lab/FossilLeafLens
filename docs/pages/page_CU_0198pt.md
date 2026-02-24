@@ -401,20 +401,8 @@
                     <div class="image-caption">Achariaceae_Ryparosa_javanica_Wolfe_Wolfe_7948</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_psilospermus_Wolfe_Wolfe_5632b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Allophylus_psilospermus_Wolfe_Wolfe_5632b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Allophylus_psilospermus_Wolfe_Wolfe_5632b</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myristicaceae/Myristicaceae_Virola_guatemalensis_Wing_Wing_015b-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Myristicaceae/Myristicaceae_Virola_guatemalensis_Wing_Wing_015b-001.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Myristicaceae_Virola_guatemalensis_Wing_Wing_015b-001</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_hookeri_Wolfe_Wolfe_8599.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_hookeri_Wolfe_Wolfe_8599.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_hookeri_Wolfe_Wolfe_8599</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Tristiropsis_acutangula_Wing_Wing_661-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Tristiropsis_acutangula_Wing_Wing_661-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Tristiropsis_acutangula_Wing_Wing_661-002</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Guarea_simplicifolia_Wolfe_Wolfe_15404a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Guarea_simplicifolia_Wolfe_Wolfe_15404a.jpg" alt="Similar extant leaf"></a>
@@ -425,8 +413,20 @@
                     <div class="image-caption">Chrysobalanaceae_Couepia_dodecandra_Wolfe_Wolfe_4141</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_semenovii_Wolfe_Wolfe_9627.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_semenovii_Wolfe_Wolfe_9627.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_semenovii_Wolfe_Wolfe_9627</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Septotheca_tessmannii_Wolfe_Wolfe_8058a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Septotheca_tessmannii_Wolfe_Wolfe_8058a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Septotheca_tessmannii_Wolfe_Wolfe_8058a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhizophoraceae/Rhizophoraceae_Rhizophora_mucronata_Wolfe_Wolfe_12345.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rhizophoraceae/Rhizophoraceae_Rhizophora_mucronata_Wolfe_Wolfe_12345.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rhizophoraceae_Rhizophora_mucronata_Wolfe_Wolfe_12345</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_scandens_Wolfe_Wolfe_8728.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Alangium_scandens_Wolfe_Wolfe_8728.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Cornaceae_Alangium_scandens_Wolfe_Wolfe_8728</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Tieghemella_heckelii_Wolfe_Wolfe_3723.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Tieghemella_heckelii_Wolfe_Wolfe_3723.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapotaceae_Tieghemella_heckelii_Wolfe_Wolfe_3723</div>
                 </div>
             </div>
         </div>

@@ -405,20 +405,8 @@
                     <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_4510</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_reticulata_Wolfe_Wolfe_17063a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Calliandra_reticulata_Wolfe_Wolfe_17063a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Calliandra_reticulata_Wolfe_Wolfe_17063a</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Neckia_serrata_Wolfe_Wolfe_2488.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ochnaceae/Ochnaceae_Neckia_serrata_Wolfe_Wolfe_2488.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ochnaceae_Neckia_serrata_Wolfe_Wolfe_2488</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Axinaea_macrophylla_Wolfe_Wolfe_9257.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Axinaea_macrophylla_Wolfe_Wolfe_9257.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Axinaea_macrophylla_Wolfe_Wolfe_9257</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Omphalopus_sp_Wolfe_Wolfe_10557.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Melastomataceae/Melastomataceae_Omphalopus_sp_Wolfe_Wolfe_10557.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Melastomataceae_Omphalopus_sp_Wolfe_Wolfe_10557</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anisophylleaceae/Anisophylleaceae_Anisophyllea_boehmii_Wolfe_Wolfe_4662.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Anisophylleaceae/Anisophylleaceae_Anisophyllea_boehmii_Wolfe_Wolfe_4662.jpg" alt="Similar extant leaf"></a>
@@ -427,6 +415,18 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_imbricaria_Hickey_Hickey_236.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_imbricaria_Hickey_Hickey_236.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_imbricaria_Hickey_Hickey_236</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pentaphyllum_Wolfe_Wolfe_8617.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_pentaphyllum_Wolfe_Wolfe_8617.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Acer_pentaphyllum_Wolfe_Wolfe_8617</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malpighiaceae/Malpighiaceae_Microsteira_ampihamensis_Wolfe_Wolfe_15533a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malpighiaceae/Malpighiaceae_Microsteira_ampihamensis_Wolfe_Wolfe_15533a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malpighiaceae_Microsteira_ampihamensis_Wolfe_Wolfe_15533a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Epilobium_caucasicum_Hickey_Hickey_3549.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Onagraceae/Onagraceae_Epilobium_caucasicum_Hickey_Hickey_3549.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Onagraceae_Epilobium_caucasicum_Hickey_Hickey_3549</div>
                 </div>
             </div>
         </div>

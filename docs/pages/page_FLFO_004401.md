@@ -425,8 +425,8 @@
                     <div class="image-caption">Ericaceae_Arctostaphylos_manzanita_Axelrod_Axelrod_2</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Potentilla_verna_Hickey_Hickey_3883.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Potentilla_verna_Hickey_Hickey_3883.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Potentilla_verna_Hickey_Hickey_3883</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Cedrela_brachystachyia_Hickey_Hickey_694.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Cedrela_brachystachyia_Hickey_Hickey_694.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Meliaceae_Cedrela_brachystachyia_Hickey_Hickey_694</div>
                 </div>
             </div>
         </div>

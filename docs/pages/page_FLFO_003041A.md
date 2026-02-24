@@ -385,14 +385,6 @@
                     <div class="image-caption">Menispermaceae_Cissampelos_andromorpha_Wolfe_Wolfe_9093</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Hickey_Hickey_1096.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Cissampelos_pareira_Hickey_Hickey_1096.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Cissampelos_pareira_Hickey_Hickey_1096</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_chinensis_Hickey_Hickey_6067.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_chinensis_Hickey_Hickey_6067.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Diploclisia_chinensis_Hickey_Hickey_6067</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_pendula_Hickey_Hickey_2043_2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_pendula_Hickey_Hickey_2043_2.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cucurbitaceae_Melothria_pendula_Hickey_Hickey_2043_2</div>
                 </div>
@@ -405,16 +397,8 @@
                     <div class="image-caption">Cercidiphyllaceae_Cercidiphyllum_japonicum_Wolfe_Wolfe_9085b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_chinensis_Wolfe_Wolfe_242.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_chinensis_Wolfe_Wolfe_242.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Diploclisia_chinensis_Wolfe_Wolfe_242</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_carpinifolia_Hickey_Hickey_129.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ulmaceae/Ulmaceae_Ulmus_carpinifolia_Hickey_Hickey_129.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ulmaceae_Ulmus_carpinifolia_Hickey_Hickey_129</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Stephania_japonica_NMNS_U0608.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Stephania_japonica_NMNS_U0608.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Menispermaceae_Stephania_japonica_NMNS_U0608</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Malvaviscus_arboreus_Wolfe_Wolfe_6191.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Malvaviscus_arboreus_Wolfe_Wolfe_6191.jpg" alt="Similar extant leaf"></a>
@@ -427,6 +411,22 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_guadalupensis_Hickey_Hickey_2042_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_guadalupensis_Hickey_Hickey_2042_1.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cucurbitaceae_Melothria_guadalupensis_Hickey_Hickey_2042_1</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Richella_dielsiana_Wolfe_Wolfe_15499a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Mortoniodendron_guatemalense_Wing_Wing_594-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Mortoniodendron_guatemalense_Wing_Wing_594-003.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Mortoniodendron_guatemalense_Wing_Wing_594-003</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Dombeya_calantha_Hickey_Hickey_6179.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Dombeya_calantha_Hickey_Hickey_6179.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Dombeya_calantha_Hickey_Hickey_6179</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oxalidaceae/Oxalidaceae_Oxalis_oregana_Hickey_Hickey_2387.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oxalidaceae/Oxalidaceae_Oxalis_oregana_Hickey_Hickey_2387.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Oxalidaceae_Oxalis_oregana_Hickey_Hickey_2387</div>
                 </div>
             </div>
         </div>

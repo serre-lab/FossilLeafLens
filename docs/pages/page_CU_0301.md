@@ -425,8 +425,8 @@
                     <div class="image-caption">Annonaceae_Xylopia_benthamii_Wolfe_Wolfe_11191</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Asimina_obovata_Wing_Wing_82-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Asimina_obovata_Wing_Wing_82-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Asimina_obovata_Wing_Wing_82-003</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Magnolia_champaca_NMNS_T1709.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Magnoliaceae/Magnoliaceae_Magnolia_champaca_NMNS_T1709.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Magnoliaceae_Magnolia_champaca_NMNS_T1709</div>
                 </div>
             </div>
         </div>

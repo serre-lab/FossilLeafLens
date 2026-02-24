@@ -81,6 +81,32 @@ for file_name in files_names:
 # Create a new dictionary with just the image name as key
 def simplify_dict(raw_dict):
     """Extract image name from messy keys and create simplified dictionary."""
+
+    def clean_value(value):
+        """Limit to at most 3 samples per class (family). Value is [{"filename": ..., "similarity": ...}, ...]."""
+        if not value or not isinstance(value, list):
+            return value
+        # Group by class: first segment of filename (e.g. Anacardiaceae from "Anacardiaceae_...")
+        by_class = {}
+        for item in value:
+            if not isinstance(item, dict) or "filename" not in item:
+                continue
+            try:
+                cls = item["filename"].split("_")[0]
+            except (AttributeError, IndexError):
+                cls = "_unknown"
+            if cls not in by_class:
+                by_class[cls] = []
+            by_class[cls].append(item)
+        # Keep at most 3 per class, top by similarity (descending)
+        result = []
+        for cls, items in by_class.items():
+            sorted_items = sorted(items, key=lambda x: x.get("similarity", 0), reverse=True)
+            result.extend(sorted_items[:3])
+        # Sort overall by similarity descending so best matches come first
+        result.sort(key=lambda x: x.get("similarity", 0), reverse=True)
+        return result
+
     simplified = {}
     for raw_key, value in raw_dict.items():
         try:
@@ -88,7 +114,7 @@ def simplify_dict(raw_dict):
             cleaned_key = eval(raw_key)  # Not safe for untrusted input, but okay for controlled data
             image_path = cleaned_key[0]
             image_name = image_path.strip().split("/")[-1].split(".")[0]
-            simplified[image_name] = value
+            simplified[image_name] = clean_value(value)
         except Exception as e:
             print(f"Skipping malformed key: {raw_key} due to error: {e}")
     return simplified

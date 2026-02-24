@@ -381,22 +381,6 @@
                     <div class="image-caption">Malvaceae_Tilia_maximowicziana_NMNS_U0314</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_parviflora_Hickey_Hickey_5411.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_parviflora_Hickey_Hickey_5411.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Grewia_parviflora_Hickey_Hickey_5411</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Helicteres_lanceolata_Hickey_Hickey_5672.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Helicteres_lanceolata_Hickey_Hickey_5672.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Helicteres_lanceolata_Hickey_Hickey_5672</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Heliocarpus_popayanensis_Hickey_Hickey_5474.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Heliocarpus_popayanensis_Hickey_Hickey_5474.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Heliocarpus_popayanensis_Hickey_Hickey_5474</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_cftiliifolia_Hickey_Hickey_5413.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Grewia_cftiliifolia_Hickey_Hickey_5413.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Grewia_cftiliifolia_Hickey_Hickey_5413</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cercis_canadensis_Wolfe_Wolfe_72.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cercis_canadensis_Wolfe_Wolfe_72.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fabaceae_Cercis_canadensis_Wolfe_Wolfe_72</div>
                 </div>
@@ -405,28 +389,24 @@
                     <div class="image-caption">Cercidiphyllaceae_Cercidiphyllum_japonicum_Hickey_Hickey_4115</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Microcos_chungii_Hickey_Hickey_5436.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Microcos_chungii_Hickey_Hickey_5436.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Microcos_chungii_Hickey_Hickey_5436</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Diphylleia_grayi_Hickey_Hickey_1168d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Berberidaceae/Berberidaceae_Diphylleia_grayi_Hickey_Hickey_1168d.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Berberidaceae_Diphylleia_grayi_Hickey_Hickey_1168d</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_galeottiana_Hickey_Hickey_5446.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_galeottiana_Hickey_Hickey_5446.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Triumfetta_galeottiana_Hickey_Hickey_5446</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Helicteres_cfaspera_Hickey_Hickey_5664.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Helicteres_cfaspera_Hickey_Hickey_5664.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Helicteres_cfaspera_Hickey_Hickey_5664</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Fevillea_cordifolia_Hickey_Hickey_2039.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Fevillea_cordifolia_Hickey_Hickey_2039.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cucurbitaceae_Fevillea_cordifolia_Hickey_Hickey_2039</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_abutiloides_Hickey_Hickey_5452.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Triumfetta_abutiloides_Hickey_Hickey_5452.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Malvaceae_Triumfetta_abutiloides_Hickey_Hickey_5452</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_guadalupensis_Hickey_Hickey_2042_1.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_guadalupensis_Hickey_Hickey_2042_1.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Cucurbitaceae_Melothria_guadalupensis_Hickey_Hickey_2042_1</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliaefolia_Hickey_Hickey_2741.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cornaceae/Cornaceae_Toricellia_tiliaefolia_Hickey_Hickey_2741.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Cornaceae_Toricellia_tiliaefolia_Hickey_Hickey_2741</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_domingensis_Hickey_Hickey_2046.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cucurbitaceae/Cucurbitaceae_Melothria_domingensis_Hickey_Hickey_2046.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Cucurbitaceae_Melothria_domingensis_Hickey_Hickey_2046</div>
                 </div>
             </div>
         </div>

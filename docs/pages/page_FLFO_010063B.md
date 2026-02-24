@@ -405,10 +405,6 @@
                     <div class="image-caption">Sladeniaceae_Ficalhoa_laurifolia_Hickey_Hickey_510</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_paraplesia_Wolfe_Wolfe_10360.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_paraplesia_Wolfe_Wolfe_10360.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Salix_paraplesia_Wolfe_Wolfe_10360</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pentaphylacaceae/Pentaphylacaceae_Adinandra_ryukyuensis_NMNS_T0565.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pentaphylacaceae/Pentaphylacaceae_Adinandra_ryukyuensis_NMNS_T0565.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Pentaphylacaceae_Adinandra_ryukyuensis_NMNS_T0565</div>
                 </div>
@@ -419,6 +415,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ranunculaceae/Ranunculaceae_Clematis_pitcheri_Wolfe_Wolfe_1459a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ranunculaceae/Ranunculaceae_Clematis_pitcheri_Wolfe_Wolfe_1459a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ranunculaceae_Clematis_pitcheri_Wolfe_Wolfe_1459a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Persoonia_lanceolata_Wolfe_Wolfe_12551.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Persoonia_lanceolata_Wolfe_Wolfe_12551.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Proteaceae_Persoonia_lanceolata_Wolfe_Wolfe_12551</div>
                 </div>
             </div>
         </div>

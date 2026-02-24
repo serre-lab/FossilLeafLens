@@ -417,16 +417,16 @@
                     <div class="image-caption">Opiliaceae_Gjellerupia_papuana_Wolfe_Wolfe_15514</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_fruticosum_Wing_Wing_284-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_fruticosum_Wing_Wing_284-001.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Melodorum_fruticosum_Wing_Wing_284-001</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Primulaceae/Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541c.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Primulaceae_Conandrium_rhynchocarpum_Wolfe_Wolfe_15541c</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sabiaceae/Sabiaceae_Meliosma_fordii_Wolfe_Wolfe_2239d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sabiaceae/Sabiaceae_Meliosma_fordii_Wolfe_Wolfe_2239d.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sabiaceae_Meliosma_fordii_Wolfe_Wolfe_2239d</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Spatholobus_latistipulus_Wolfe_Wolfe_9984.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Spatholobus_latistipulus_Wolfe_Wolfe_9984.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Spatholobus_latistipulus_Wolfe_Wolfe_9984</div>
                 </div>
             </div>
         </div>

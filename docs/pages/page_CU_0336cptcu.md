@@ -389,44 +389,12 @@
                     <div class="image-caption">Fabaceae_Galactia_discolor_Wolfe_Wolfe_30535b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_petersiana_Wolfe_Wolfe_9686.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_petersiana_Wolfe_Wolfe_9686.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Albizia_petersiana_Wolfe_Wolfe_9686</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Goniothalamus_elmeri_Wolfe_Wolfe_2875b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Goniothalamus_elmeri_Wolfe_Wolfe_2875b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Annonaceae_Goniothalamus_elmeri_Wolfe_Wolfe_2875b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_pauletia_Wolfe_Wolfe_4451.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_pauletia_Wolfe_Wolfe_4451.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Bauhinia_pauletia_Wolfe_Wolfe_4451</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lysiloma_tergemina_Wolfe_Wolfe_6370.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lysiloma_tergemina_Wolfe_Wolfe_6370.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Lysiloma_tergemina_Wolfe_Wolfe_6370</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Strophostyles_helvola_Wolfe_Wolfe_1191a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Strophostyles_helvola_Wolfe_Wolfe_1191a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Strophostyles_helvola_Wolfe_Wolfe_1191a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_mayana_Wolfe_Wolfe_30139a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_mayana_Wolfe_Wolfe_30139a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Acacia_mayana_Wolfe_Wolfe_30139a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Desmodium_chartaceum_Wolfe_Wolfe_16416a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Desmodium_chartaceum_Wolfe_Wolfe_16416a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Desmodium_chartaceum_Wolfe_Wolfe_16416a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_adinocephala_Hickey_Hickey_4173.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Albizia_adinocephala_Hickey_Hickey_4173.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Albizia_adinocephala_Hickey_Hickey_4173</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Gleditsia_triacanthos_Wolfe_Wolfe_1045a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Gleditsia_triacanthos_Wolfe_Wolfe_1045a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Gleditsia_triacanthos_Wolfe_Wolfe_1045a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Desmodium_palmeri_Wolfe_Wolfe_30489a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Desmodium_palmeri_Wolfe_Wolfe_30489a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Desmodium_palmeri_Wolfe_Wolfe_30489a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_mayana_Wolfe_Wolfe_30139b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Acacia_mayana_Wolfe_Wolfe_30139b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Acacia_mayana_Wolfe_Wolfe_30139b</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Burseraceae/Burseraceae_Bursera_heteresthes_Wolfe_Wolfe_30314.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Burseraceae/Burseraceae_Bursera_heteresthes_Wolfe_Wolfe_30314.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Burseraceae_Bursera_heteresthes_Wolfe_Wolfe_30314</div>
                 </div>
             </div>
         </div>

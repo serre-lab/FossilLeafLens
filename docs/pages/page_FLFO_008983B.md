@@ -397,10 +397,6 @@
                     <div class="image-caption">Santalaceae_Dendrotrophe_varians_Wolfe_Wolfe_1676</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_maximowiczii_Wolfe_Wolfe_1283b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Populus_maximowiczii_Wolfe_Wolfe_1283b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Populus_maximowiczii_Wolfe_Wolfe_1283b</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_354.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_354.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Oreomunnea_mexicana_Hickey_Hickey_354</div>
                 </div>
@@ -421,12 +417,16 @@
                     <div class="image-caption">Rhamnaceae_Ceanothus_prostratus_Wolfe_Wolfe_1514a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_barclayi_Wolfe_Wolfe_18092.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Salicaceae/Salicaceae_Salix_barclayi_Wolfe_Wolfe_18092.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Salicaceae_Salix_barclayi_Wolfe_Wolfe_18092</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gaertnera_acuminata_Wolfe_Wolfe_7518.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Gaertnera_acuminata_Wolfe_Wolfe_7518.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Gaertnera_acuminata_Wolfe_Wolfe_7518</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pinaceae/Pinaceae_Abies_concolor_Wolfe_Wolfe_951.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pinaceae/Pinaceae_Abies_concolor_Wolfe_Wolfe_951.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Pinaceae_Abies_concolor_Wolfe_Wolfe_951</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nelumbonaceae/Nelumbonaceae_Nelumbo_luteum_Hickey_Hickey_6698.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Nelumbonaceae/Nelumbonaceae_Nelumbo_luteum_Hickey_Hickey_6698.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Nelumbonaceae_Nelumbo_luteum_Hickey_Hickey_6698</div>
                 </div>
             </div>
         </div>

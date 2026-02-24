@@ -425,8 +425,8 @@
                     <div class="image-caption">Oleaceae_Fraxinus_velutina_Axelrod_Axelrod_201</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cotoneaster_nigra_Hickey_Hickey_3667.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cotoneaster_nigra_Hickey_Hickey_3667.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Cotoneaster_nigra_Hickey_Hickey_3667</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_occidentalis_Hickey_Hickey_599.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Cassia_occidentalis_Hickey_Hickey_599.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Cassia_occidentalis_Hickey_Hickey_599</div>
                 </div>
             </div>
         </div>

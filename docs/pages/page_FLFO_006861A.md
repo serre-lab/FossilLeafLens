@@ -421,12 +421,12 @@
                     <div class="image-caption">Betulaceae_Betula_papyrifera_NMNS_T0408</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Isopogon_fletcheri_Wolfe_Wolfe_12549.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Isopogon_fletcheri_Wolfe_Wolfe_12549.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Proteaceae_Isopogon_fletcheri_Wolfe_Wolfe_12549</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cardiopteridaceae/Cardiopteridaceae_Gonocaryum_litorale_NMNS_U0766.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Cardiopteridaceae/Cardiopteridaceae_Gonocaryum_litorale_NMNS_U0766.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Cardiopteridaceae_Gonocaryum_litorale_NMNS_U0766</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sterculia_pruriens_Hickey_Hickey_5366.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Sterculia_pruriens_Hickey_Hickey_5366.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Sterculia_pruriens_Hickey_Hickey_5366</div>
                 </div>
             </div>
         </div>

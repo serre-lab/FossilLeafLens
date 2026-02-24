@@ -401,20 +401,12 @@
                     <div class="image-caption">Fagaceae_Castanea_seguinii_Hickey_Hickey_6507</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_hartwegii_Wolfe_Wolfe_14749.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_hartwegii_Wolfe_Wolfe_14749.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_hartwegii_Wolfe_Wolfe_14749</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Peridiscaceae/Peridiscaceae_Soyauxia_laxiflora_Wolfe_Wolfe_5390.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Peridiscaceae/Peridiscaceae_Soyauxia_laxiflora_Wolfe_Wolfe_5390.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Peridiscaceae_Soyauxia_laxiflora_Wolfe_Wolfe_5390</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Carpinus_cordata_Wolfe_Wolfe_9610d.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Carpinus_cordata_Wolfe_Wolfe_9610d.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Carpinus_cordata_Wolfe_Wolfe_9610d</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_velutina_Wolfe_Wolfe_7760a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_velutina_Wolfe_Wolfe_7760a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_velutina_Wolfe_Wolfe_7760a</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Chrysophyllum_argenteum_Wolfe_Wolfe_3683.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapotaceae/Sapotaceae_Chrysophyllum_argenteum_Wolfe_Wolfe_3683.jpg" alt="Similar extant leaf"></a>
@@ -427,6 +419,14 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_sinuata_Wolfe_Wolfe_919a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Alnus_sinuata_Wolfe_Wolfe_919a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Betulaceae_Alnus_sinuata_Wolfe_Wolfe_919a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lysiloma_tergemina_Wolfe_Wolfe_16528a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Lysiloma_tergemina_Wolfe_Wolfe_16528a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Fabaceae_Lysiloma_tergemina_Wolfe_Wolfe_16528a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Psychotria_pickeringii_Wolfe_Wolfe_7348a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Psychotria_pickeringii_Wolfe_Wolfe_7348a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Psychotria_pickeringii_Wolfe_Wolfe_7348a</div>
                 </div>
             </div>
         </div>

@@ -409,24 +409,24 @@
                     <div class="image-caption">Polygonaceae_Coccoloba_barbadensis_Wolfe_Wolfe_14951d</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_sp_Wolfe_Wolfe_30217b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_sp_Wolfe_Wolfe_30217b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Bauhinia_sp_Wolfe_Wolfe_30217b</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_amoenum_Wolfe_Wolfe_8577b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_amoenum_Wolfe_Wolfe_8577b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Sapindaceae_Acer_amoenum_Wolfe_Wolfe_8577b</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Polygonaceae/Polygonaceae_Coccoloba_barbadensis_Wolfe_Wolfe_14951c.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Polygonaceae/Polygonaceae_Coccoloba_barbadensis_Wolfe_Wolfe_14951c.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Polygonaceae_Coccoloba_barbadensis_Wolfe_Wolfe_14951c</div>
                 </div>
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Microcos_paniculata_Wolfe_Wolfe_11502.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Microcos_paniculata_Wolfe_Wolfe_11502.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Malvaceae_Microcos_paniculata_Wolfe_Wolfe_11502</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Leucaena_macrophylla_Wolfe_Wolfe_16505b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Leucaena_macrophylla_Wolfe_Wolfe_16505b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Leucaena_macrophylla_Wolfe_Wolfe_16505b</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Erioxylum_palmeri_Wolfe_Wolfe_6220.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Erioxylum_palmeri_Wolfe_Wolfe_6220.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Erioxylum_palmeri_Wolfe_Wolfe_6220</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pterygota_macrocarpa_Wolfe_Wolfe_7591a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Pterygota_macrocarpa_Wolfe_Wolfe_7591a.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Pterygota_macrocarpa_Wolfe_Wolfe_7591a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Schradera_sp_Wolfe_Wolfe_13960.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Schradera_sp_Wolfe_Wolfe_13960.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Schradera_sp_Wolfe_Wolfe_13960</div>
                 </div>
             </div>
         </div>

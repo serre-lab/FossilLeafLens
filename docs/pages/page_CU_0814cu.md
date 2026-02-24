@@ -401,10 +401,6 @@
                     <div class="image-caption">Sapindaceae_Dodonaea_viscosa_Wing_Wing_783-005</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_fabrei_NMNS_T2423.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_fabrei_NMNS_T2423.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fagaceae_Quercus_fabrei_NMNS_T2423</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Finschia_chloroxantha_Wolfe_Wolfe_6593.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Proteaceae/Proteaceae_Finschia_chloroxantha_Wolfe_Wolfe_6593.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Proteaceae_Finschia_chloroxantha_Wolfe_Wolfe_6593</div>
                 </div>
@@ -427,6 +423,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Engelhardia_serrata_Hickey_Hickey_6796.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Juglandaceae/Juglandaceae_Engelhardia_serrata_Hickey_Hickey_6796.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Juglandaceae_Engelhardia_serrata_Hickey_Hickey_6796</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Asteraceae/Asteraceae_Archibaccharis_androgyna_Wolfe_Wolfe_15090.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Asteraceae/Asteraceae_Archibaccharis_androgyna_Wolfe_Wolfe_15090.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Asteraceae_Archibaccharis_androgyna_Wolfe_Wolfe_15090</div>
                 </div>
             </div>
         </div>

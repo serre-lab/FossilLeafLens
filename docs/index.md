@@ -414,11 +414,11 @@
         <h3>Disclaimers</h3>
         
         <div class="feature-card" style="border-left-color: #f59e0b;">
-            <p><strong>Please note:</strong> While our dataset is extensive, many fossil samples are badly preserved and may lack the detail needed for accurate classification. In addition, although the images were manually filtered several years ago to remove most that are inappropriate, there remain many images of monocots and non-angiosperms (which are severely undersampled in the training dataset), reproductive organs (likewise), and non-plant fossils (feathers, fish, and so on). We recommend simply skipping these poorly preserved or inapplicable specimens to ensure more reliable results.</p>
-        </div>
-
-        <div class="feature-card">
-            <p>Finally, please be aware that the model can only predict families that are in its training dataset, listed <a href="https://docs.google.com/document/d/178X6Stw9_J4k-Ib9lp8eWAH8tUv86rtg8VBqZPeVuWw/edit?usp=sharing" target="_blank">here</a>.</p>
+            <p><strong>Please note:</strong></p>
+            <ul>
+            <li>While our dataset is extensive, many fossil samples are badly preserved and may lack the detail needed for accurate classification. In addition, although the images were manually filtered several years ago to remove most that are inappropriate, there remain many images of monocots and non-angiosperms (which are severely undersampled in the training dataset), reproductive organs (likewise), and non-plant fossils (feathers, fish, and so on). We recommend simply skipping these poorly preserved or inapplicable specimens to ensure more reliable results.</li>
+            <li>This tool is intended to assist paleobotanists by suggesting potentially overlooked identifications with supporting visualizations. It can accelerate discovery when used wisely, but it is no substitute for botanical and paleobotanical expertise. In practice, we find many machine suggestions helpful, but even inaccurate suggestions provide novel insights into fossil-leaf morphology through the Leaf Lens heat maps.</li>
+            <li>Finally, please be aware that the model can only predict families that are in its training dataset, listed <a href="https://docs.google.com/document/d/178X6Stw9_J4k-Ib9lp8eWAH8tUv86rtg8VBqZPeVuWw/edit?usp=sharing" target="_blank">here</a>.</li>
         </div>
         
         <div class="highlight-box">

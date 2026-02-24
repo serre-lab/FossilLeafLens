@@ -421,12 +421,12 @@
                     <div class="image-caption">Sapindaceae_Melanodiscus_oblongus_Wolfe_Wolfe_4901</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Symphysia_racemosa_Wing_Wing_482-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Symphysia_racemosa_Wing_Wing_482-002.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Symphysia_racemosa_Wing_Wing_482-002</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Tiliacora_racemosa_Wolfe_Wolfe_8820b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Tiliacora_racemosa_Wolfe_Wolfe_8820b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Menispermaceae_Tiliacora_racemosa_Wolfe_Wolfe_8820b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Batodendron_arboreum_Wing_Wing_444-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Batodendron_arboreum_Wing_Wing_444-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Ericaceae_Batodendron_arboreum_Wing_Wing_444-003</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Saxifragaceae/Saxifragaceae_Saxifraga_cernua_Hickey_Hickey_3472.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Saxifragaceae/Saxifragaceae_Saxifraga_cernua_Hickey_Hickey_3472.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Saxifragaceae_Saxifraga_cernua_Hickey_Hickey_3472</div>
                 </div>
             </div>
         </div>

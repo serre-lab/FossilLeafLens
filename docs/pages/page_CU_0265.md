@@ -397,10 +397,6 @@
                     <div class="image-caption">Sapindaceae_Eriocoelum_microspermum_Wolfe_Wolfe_4924b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_sieboldianum_NMNS_T0246.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Acer_sieboldianum_NMNS_T0246.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Sapindaceae_Acer_sieboldianum_NMNS_T0246</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Schradera_sp_Wolfe_Wolfe_13960.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Schradera_sp_Wolfe_Wolfe_13960.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Rubiaceae_Schradera_sp_Wolfe_Wolfe_13960</div>
                 </div>
@@ -413,10 +409,6 @@
                     <div class="image-caption">Cercidiphyllaceae_Cercidiphyllum_crenatum_Axelrod_Axelrod_166</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_aherniana_Wolfe_Wolfe_5731.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_aherniana_Wolfe_Wolfe_5731.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Bauhinia_aherniana_Wolfe_Wolfe_5731</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_glaucescens_NMNS_T2214.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Menispermaceae/Menispermaceae_Diploclisia_glaucescens_NMNS_T2214.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Menispermaceae_Diploclisia_glaucescens_NMNS_T2214</div>
                 </div>
@@ -425,8 +417,16 @@
                     <div class="image-caption">Menispermaceae_Cissampelos_grandifolia_Wolfe_Wolfe_14990a</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_divaricata_Wolfe_Wolfe_30212b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Bauhinia_divaricata_Wolfe_Wolfe_30212b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Bauhinia_divaricata_Wolfe_Wolfe_30212b</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Trochetia_parviflora_Wolfe_Wolfe_4612.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Trochetia_parviflora_Wolfe_Wolfe_4612.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Trochetia_parviflora_Wolfe_Wolfe_4612</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_cordata_Wolfe_Wolfe_120b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Tilia_cordata_Wolfe_Wolfe_120b.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Tilia_cordata_Wolfe_Wolfe_120b</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Hedera_rhombea_NMNS_T0639.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Araliaceae/Araliaceae_Hedera_rhombea_NMNS_T0639.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Araliaceae_Hedera_rhombea_NMNS_T0639</div>
                 </div>
             </div>
         </div>

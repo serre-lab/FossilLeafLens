@@ -425,8 +425,8 @@
                     <div class="image-caption">Rubiaceae_Tarenna_vitiensis_Hickey_Hickey_4614</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_schefferi_Wing_Wing_286-003.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Annonaceae/Annonaceae_Melodorum_schefferi_Wing_Wing_286-003.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Annonaceae_Melodorum_schefferi_Wing_Wing_286-003</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pandanaceae/Pandanaceae_Pandanus_martellii_Wing_Wing_861-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Pandanaceae/Pandanaceae_Pandanus_martellii_Wing_Wing_861-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Pandanaceae_Pandanus_martellii_Wing_Wing_861-001</div>
                 </div>
             </div>
         </div>

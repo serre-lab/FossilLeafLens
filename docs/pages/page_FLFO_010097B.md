@@ -409,14 +409,6 @@
                     <div class="image-caption">Ericaceae_Hugeria_erythrocarpa_Wing_Wing_448-002</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cotoneaster_tomentosa_Hickey_Hickey_3668.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cotoneaster_tomentosa_Hickey_Hickey_3668.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Cotoneaster_tomentosa_Hickey_Hickey_3668</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Prunus_lyonii_Axelrod_Axelrod_944b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Prunus_lyonii_Axelrod_Axelrod_944b.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Prunus_lyonii_Axelrod_Axelrod_944b</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oxalidaceae/Oxalidaceae_Biophytum_sensitivum_Hickey_Hickey_2404.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Oxalidaceae/Oxalidaceae_Biophytum_sensitivum_Hickey_Hickey_2404.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Oxalidaceae_Biophytum_sensitivum_Hickey_Hickey_2404</div>
                 </div>
@@ -425,8 +417,16 @@
                     <div class="image-caption">Malvaceae_Microcos_paniculata_Wing_Wing_574-003</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cotoneaster_lindleyi_Hickey_Hickey_3677.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rosaceae/Rosaceae_Cotoneaster_lindleyi_Hickey_Hickey_3677.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Rosaceae_Cotoneaster_lindleyi_Hickey_Hickey_3677</div>
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_ruscifolia_NMNS_U1517-2.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Coriariaceae/Coriariaceae_Coriaria_ruscifolia_NMNS_U1517-2.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Coriariaceae_Coriaria_ruscifolia_NMNS_U1517-2</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Clappertonia_ficifolia_Wing_Wing_546-002.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Malvaceae/Malvaceae_Clappertonia_ficifolia_Wing_Wing_546-002.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Malvaceae_Clappertonia_ficifolia_Wing_Wing_546-002</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Killipiella_stypheliodes_Wing_Wing_452-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Killipiella_stypheliodes_Wing_Wing_452-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Ericaceae_Killipiella_stypheliodes_Wing_Wing_452-001</div>
                 </div>
             </div>
         </div>

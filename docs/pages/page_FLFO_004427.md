@@ -409,10 +409,6 @@
                     <div class="image-caption">Betulaceae_Alnus_cremastogyne_Wolfe_Wolfe_964b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_costata_NMNS_U1228.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Betulaceae/Betulaceae_Betula_costata_NMNS_U1228.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Betulaceae_Betula_costata_NMNS_U1228</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_sessilifolia_NMNS_U1024.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fagaceae/Fagaceae_Quercus_sessilifolia_NMNS_U1024.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Fagaceae_Quercus_sessilifolia_NMNS_U1024</div>
                 </div>
@@ -427,6 +423,10 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arctostaphylos_nevadensis_Wolfe_Wolfe_714.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Ericaceae/Ericaceae_Arctostaphylos_nevadensis_Wolfe_Wolfe_714.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Ericaceae_Arctostaphylos_nevadensis_Wolfe_Wolfe_714</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Smelophyllum_capense_Wing_Wing_651-001.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Sapindaceae/Sapindaceae_Smelophyllum_capense_Wing_Wing_651-001.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Sapindaceae_Smelophyllum_capense_Wing_Wing_651-001</div>
                 </div>
             </div>
         </div>

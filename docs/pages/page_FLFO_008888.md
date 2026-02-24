@@ -405,14 +405,6 @@
                     <div class="image-caption">Fabaceae_Pachyrhizus_strigosus_Wolfe_Wolfe_30688b</div>
                 </div>
 <div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Inga_vera_Wolfe_Wolfe_30586a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Inga_vera_Wolfe_Wolfe_30586a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Inga_vera_Wolfe_Wolfe_30586a</div>
-                </div>
-<div class="similar-image-container">
-                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Fabaceae/Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a.jpg" alt="Similar extant leaf"></a>
-                    <div class="image-caption">Fabaceae_Pueraria_montana_Wolfe_Wolfe_1190a</div>
-                </div>
-<div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Carapa_procera_Wolfe_Wolfe_14339b.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Carapa_procera_Wolfe_Wolfe_14339b.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Meliaceae_Carapa_procera_Wolfe_Wolfe_14339b</div>
                 </div>
@@ -427,6 +419,14 @@
 <div class="similar-image-container">
                     <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Khaya_grandifoliola_Wolfe_Wolfe_4810a.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Meliaceae/Meliaceae_Khaya_grandifoliola_Wolfe_Wolfe_4810a.jpg" alt="Similar extant leaf"></a>
                     <div class="image-caption">Meliaceae_Khaya_grandifoliola_Wolfe_Wolfe_4810a</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Tarenna_sumatrensis_Wolfe_Wolfe_14135.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Tarenna_sumatrensis_Wolfe_Wolfe_14135.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Tarenna_sumatrensis_Wolfe_Wolfe_14135</div>
+                </div>
+<div class="similar-image-container">
+                    <a href="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Hippotis_albiflora_Wolfe_Wolfe_9362.jpg" target="_blank"><img class="similar-image" src="https://storage.googleapis.com/serrelab/prj_fossils/2024/Extant_Leaves/Rubiaceae/Rubiaceae_Hippotis_albiflora_Wolfe_Wolfe_9362.jpg" alt="Similar extant leaf"></a>
+                    <div class="image-caption">Rubiaceae_Hippotis_albiflora_Wolfe_Wolfe_9362</div>
                 </div>
             </div>
         </div>
