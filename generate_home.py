@@ -432,8 +432,8 @@ html_template = """
             <p>Use <strong>Predicted Fossil Identifications</strong> in the navigation bar to open the list of specimens. Click a specimen to see details and model predictions about the specimens, including: catalog numbers, model predictions (family-level), similar specimens from the training set, and the concepts the model used for that specimen.</p>
             <p>You can easily find additional metadata for the specimens, including prior identifications, from their filenames (CU- or FLFO- prefix), with these metadata tables kindly provided by Dr. Meyer (see Wilf et al. 2021 for more information about these two image sets):</p>
             <ul>
-                <li><a href="https://docs.google.com/spreadsheets/d/1IxU4YjUBWdJyolYbKlNUQetb7sDlN3sV/edit?usp=sharing&ouid=117124297544856301307&rtpof=true&sd=true" target="_blank">Florissant CU Metadata</a></li>
-                <li><a href="https://docs.google.com/spreadsheets/d/1FIeJoNFIOy22oGVMDgrBZ94EWQ9OZqGLprjPYZRJuLY/edit?usp=sharing" target="_blank">Florissant FLFO Metadata</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1MVLtYOfBZZojKW3B-LHKmD0kI0f8kAY1JtaAuBs47i4/edit?usp=sharing" target="_blank">Florissant CU Metadata</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1y4eec8r3oBROz6wzvJWLLcl9w4GdGq8MBoWjLIUzRx0/edit?usp=sharing" target="_blank">Florissant FLFO Metadata</a></li>
             </ul>
         </div>
     </div>

@@ -315,8 +315,8 @@
             <div class="info-section">
                 <div class="info-label">Metadata Resources</div>
                 <div class="metadata-links">
-                    <a href="https://docs.google.com/spreadsheets/d/1IxU4YjUBWdJyolYbKlNUQetb7sDlN3sV/edit?usp=sharing&ouid=117124297544856301307&rtpof=true&sd=true" target="_blank" class="metadata-link">Florissant CU Metadata</a>
-                    <a href="https://docs.google.com/spreadsheets/d/1FIeJoNFIOy22oGVMDgrBZ94EWQ9OZqGLprjPYZRJuLY/edit?usp=sharing" target="_blank" class="metadata-link">Florissant FLFO Metadata</a>
+                    <a href="https://docs.google.com/spreadsheets/d/1MVLtYOfBZZojKW3B-LHKmD0kI0f8kAY1JtaAuBs47i4/edit?usp=sharing" target="_blank" class="metadata-link">Florissant CU Metadata</a>
+                    <a href="https://docs.google.com/spreadsheets/d/1y4eec8r3oBROz6wzvJWLLcl9w4GdGq8MBoWjLIUzRx0/edit?usp=sharing" target="_blank" class="metadata-link">Florissant FLFO Metadata</a>
                 </div>
             </div>
 
