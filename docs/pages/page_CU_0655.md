@@ -309,7 +309,7 @@
         <div class="info-card">
             <div class="info-section">
                 <div class="info-label">Primary Catalog Number</div>
-                <div class="info-value">USNM-1639, USNM-1639, USNM-1639</div>
+                <div class="info-value">USNM-1639</div>
             </div>
             
             <div class="info-section">

@@ -336,6 +336,12 @@ html_template = """
             opacity: 1;
         }
 
+        .ack-separator {
+            margin-top: 18px;
+            padding-top: 16px;
+            border-top: 1px solid #e2e8f0;
+        }
+
         .section li:hover {
             transform: translateX(4px);
         }
@@ -401,14 +407,24 @@ html_template = """
     <div class="section">
         <h3>Welcome to Fossil Leaf Lens</h3>
         <p class="intro-text">We are excited to share the fruits of years of research and innovation aimed at solving one of paleobotany's most challenging puzzles: identifying fossil angiosperm leaves. These organs are often abundant yet notoriously difficult to classify, especially in the absence of organic attachments or cuticles, due to their complexity, variation, and the often limited quality and quantity of available images.</p>
-        
         <p>Through the power of AI and computer vision, we have developed a deep learning model that synthesizes photorealistic fossil images from extant cleared and x-rayed leaves, increasing the sample size of "fossil" image collections for training. As explained in our accompanying manuscript (<a href="www.google.com" target="_blank">coming soon</a>), this approach allows machine identifications of fossil and extant leaves at the family level, the starting point for most investigations, with levels of accuracy sufficient to provide useful suggestions for experts.</p>
-        
         <p>Initially, to limit the immense variation in leaf preservation among fossil sites, we present the tool for leaf fossils from a single, extraordinarily well-studied and photo-documented site: Florissant Fossil Beds, late Eocene of Colorado. The images were gathered over many years by Dr. Herbert Meyer (retired, National Parks Service) and assistants from museums around the world, as explained by Meyer et al. <a href="https://doi.org/10.1130/2008.2435(11)" target="_blank">2008</a> (GSA Special Papers 435) and Wilf et al. <a href="https://doi.org/10.3897/phytokeys.187.72350" target="_blank">2021</a> (PhytoKeys), who made a vetted subset of Florissant fossils available as part of a large <a href="https://doi.org/10.25452/figshare.plus.14980698.v2" target="_blank">image collection</a> of living and fossil leaves.</p>
-        
         <p>The accompanying manuscript explores machine identifications of vetted Florissant fossils from the Wilf et al. 2021 dataset. On this website, we show the broader potential of the method by sharing the results of our model for hundreds of hard-to-identify fossil leaves from Florissant that were not included in the 2021 vetted subset, including both unidentified specimens and those attributed previously to botanical names that are now uncertain. The model's training images include the vetted Florissant images and all the cleared and x-rayed leaf images described in Wilf et al. 2021. We hope that this tool will stimulate new research into the world-famous Florissant flora, as we work to generalize the algorithms to apply to other fossil sites.</p>
-        
+    </div>
+
+    <div class="section">
+        <h3>Browsing predictions on this site</h3>
+
+        <div class="feature-card">
+            <h4></span>Predicted Fossil Identifications</h4>
+            <p>Use <strong>Predicted Fossil Identifications</strong> in the navigation bar to open the list of Florissant fossil specimen images. Click a specimen to see details and model predictions about the specimens, including: catalog numbers, model predictions (family-level), similar specimens from the training set, and the concepts the model used for that specimen, which are linked to the concept pages in the companion Leaf Lens site.</p>
+            <p>You can easily find additional metadata for the specimens, including prior identifications, from their filenames (CU- or FLFO- prefix), with these metadata tables kindly provided by Dr. Meyer (see Wilf et al. 2021 for more information about these two image sets):</p>
+            <ul>
+                <li><a href="https://docs.google.com/spreadsheets/d/1MVLtYOfBZZojKW3B-LHKmD0kI0f8kAY1JtaAuBs47i4/edit?usp=sharing" target="_blank">Florissant CU Metadata</a></li>
+                <li><a href="https://docs.google.com/spreadsheets/d/1y4eec8r3oBROz6wzvJWLLcl9w4GdGq8MBoWjLIUzRx0/edit?usp=sharing" target="_blank">Florissant FLFO Metadata</a></li>
+            </ul>
         </div>
+    </div>
 
     <div class="section section-beyond">
         <h3>Beyond this site</h3>
@@ -419,22 +435,8 @@ html_template = """
         </div>
         <div class="feature-card" style="border-left-color: #800000;">
             <h4><span class="feature-badge"><img src="images/leaflenslogo.png" alt="" style="height: 20px; width: auto;"></span>Explore concepts on the full dataset</h4>
-            <p><strong><a href="https://serre-lab.github.io/LeafLens/" target="_blank" rel="noopener">Leaf Lens</a></strong> lets you explore the concepts the model learned across the entire training set: UMAP visualizations of families and concepts, concept pages, and family-level interpretability. Use it to dig into how the model organizes and uses visual features for classification.</p>
+            <p><strong><a href="https://serre-lab.github.io/LeafLens/" target="_blank" rel="noopener">Leaf Lens</a></strong> lets you explore the concepts the model learned across the entire extant training set: UMAP visualizations of families and concepts, concept pages, and family-level interpretability. Use it to dig into how the model organizes and uses visual features for classification.</p>
             <p><a href="https://serre-lab.github.io/LeafLens/" target="_blank" rel="noopener" style="font-weight: 600;">→ Go to Leaf Lens</a></p>
-        </div>
-    </div>
-
-    <div class="section">
-        <h3>Browsing predictions on this site</h3>
-
-        <div class="feature-card">
-            <h4><span class="feature-badge">1</span>Predicted Fossil Identifications</h4>
-            <p>Use <strong>Predicted Fossil Identifications</strong> in the navigation bar to open the list of specimens. Click a specimen to see details and model predictions about the specimens, including: catalog numbers, model predictions (family-level), similar specimens from the training set, and the concepts the model used for that specimen.</p>
-            <p>You can easily find additional metadata for the specimens, including prior identifications, from their filenames (CU- or FLFO- prefix), with these metadata tables kindly provided by Dr. Meyer (see Wilf et al. 2021 for more information about these two image sets):</p>
-            <ul>
-                <li><a href="https://docs.google.com/spreadsheets/d/1MVLtYOfBZZojKW3B-LHKmD0kI0f8kAY1JtaAuBs47i4/edit?usp=sharing" target="_blank">Florissant CU Metadata</a></li>
-                <li><a href="https://docs.google.com/spreadsheets/d/1y4eec8r3oBROz6wzvJWLLcl9w4GdGq8MBoWjLIUzRx0/edit?usp=sharing" target="_blank">Florissant FLFO Metadata</a></li>
-            </ul>
         </div>
     </div>
 
@@ -468,6 +470,7 @@ html_template = """
             <p><em>Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</em></p>
             
             <p>Computing support was provided by the Center for Computation and Visualization (CCV) at Brown University (via NIH Office of the Director grant S10OD025181). We also acknowledge Google's Cloud TPU hardware resources via the TensorFlow Research Cloud (TFRC) program.</p>
+            <p class="ack-separator">We thank <strong>Conni O'Connor</strong> and <strong>Sarah Allen</strong> for assistance with Florissant image files and metadata editing.</p>
         </div>
     </div>
 

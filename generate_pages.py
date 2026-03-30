@@ -2,11 +2,11 @@ import os
 import json
 import pandas as pd
 
-cu_df = pd.read_excel("../Florissant_CUmetadata.xlsx")
-flfo_df = pd.read_excel("../Florissant_FLFOmetadata.xls")
+cu_df = pd.read_excel("../Florissant_ CUmetadata-dicots.xlsx")
+flfo_df = pd.read_excel("../Florissant_FLFOmetadata_dicots.xlsx")
 
 cols_cu = ['InstPrefix+Catalog #', 'Family', 'Genus', 'Species']
-cols_flfo = ['Class 2, Kingdom', 'Sci. Name, Obj/Science', 'Identified By', 'Geo Unit', 'Description']
+cols_flfo = ['Class 2, Kingdom', 'Sci. Name, Obj/Science']
 
 cu_df = cu_df.groupby('Inventory Number (CU filename)')[cols_cu].agg(
     lambda x: [v for v in x if isinstance(v, str)]
@@ -511,12 +511,14 @@ def get_metadata(key, root, index, cu_df, flfo_df):
         row_values = cu_df[cu_df['Inventory Number (CU filename)'] == index]
         if len(row_values) > 0:
             row_dict = row_values.to_dict(orient='records')[0]
-            return 'InstPrefix+Catalog #', ", ".join(row_dict['InstPrefix+Catalog #'])
+
+            return 'InstPrefix+Catalog #', ", ".join(set(row_dict['InstPrefix+Catalog #']))
     else:
         row_values = flfo_df[flfo_df['Catalog #'] == str(index)]
         if len(row_values) > 0:
             row_dict = row_values.to_dict(orient='records')[0]
             return "Catalog #", "FLFO " + row_dict['Catalog #']
+    print('not found', key, root, index)
     return 'Primary catalog number', ' '
 
 def generate_concept_images(key, value, concept_url_template):
